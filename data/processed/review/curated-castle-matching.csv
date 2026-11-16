@@ -1,0 +1,86 @@
+curated id,curated name,wikidata,wikidata name,distance km,similarity,coordinate adopted
+castle-tower-of-london,Tower of London,Q62378,Tower of London,0.02,1.00,yes
+castle-warwick,Warwick Castle,Q941276,Warwick Castle,0.07,0.99,yes
+castle-bamburgh,Bamburgh Castle,Q2026185,Bamburgh Castle,0.08,0.99,yes
+castle-dover,Dover Castle,Q950970,Dover Castle,0.20,0.98,yes
+castle-windsor,Windsor Castle,Q42646,Windsor Castle,0.00,1.00,yes
+castle-alnwick,Alnwick Castle,Q1320427,Alnwick Castle,0.01,1.00,yes
+castle-york,York Castle (Clifford's Tower),Q80637,York Castle,0.05,1.00,yes
+castle-kenilworth,Kenilworth Castle,Q1738764,Kenilworth Castle,0.06,0.99,yes
+castle-rochester,Rochester Castle,Q1125527,Rochester Castle,0.01,1.00,yes
+castle-corfe,Corfe Castle,Q1236511,Corfe Castle,0.14,0.99,yes
+castle-durham,Durham Castle,Q752266,Durham Castle,0.03,1.00,yes
+castle-lincoln,Lincoln Castle,Q727760,Lincoln Castle,0.03,1.00,yes
+castle-newcastle,Newcastle Castle,Q7721569,Newcastle upon Tyne Castle,0.02,1.00,yes
+castle-carlisle,Carlisle Castle,Q614836,Carlisle Castle,0.07,0.99,yes
+castle-norwich,Norwich Castle,Q1672292,Norwich Castle,0.05,1.00,yes
+castle-colchester,Colchester Castle,Q198287,Colchester Castle,0.06,0.99,yes
+castle-bedford,Bedford Castle,Q4879112,Bedford Castle,0.10,0.99,yes
+castle-pevensey,Pevensey Castle,Q2970215,Pevensey Castle,0.11,0.99,yes
+castle-hastings,Hastings Castle,Q5680295,Hastings Castle,0.12,0.99,yes
+castle-richmond-yorks,Richmond Castle,Q6645746,Richmond Castle,0.03,1.00,yes
+castle-pontefract,Pontefract Castle,Q1949590,Pontefract Castle,0.19,0.98,yes
+castle-scarborough,Scarborough Castle,Q1963850,Scarborough Castle,0.15,0.99,yes
+castle-ludlow,Ludlow Castle,Q576369,Ludlow Castle,0.03,1.00,yes
+castle-framlingham,Framlingham Castle,Q2524183,Framlingham Castle,0.07,0.99,yes
+castle-orford,Orford Castle,Q1964047,Orford Castle,0.05,0.99,yes
+castle-bodiam,Bodiam Castle,Q639208,Bodiam Castle,0.01,1.00,yes
+castle-norham,Norham Castle,Q388705,Norham Castle,0.63,0.94,yes
+castle-dunstanburgh,Dunstanburgh Castle,Q515105,Dunstanburgh Castle,0.15,0.99,yes
+castle-nottingham,Nottingham Castle,Q17642916,Nottingham Castle,0.05,0.99,yes
+castle-chester,Chester Castle,Q505858,Chester Castle,0.07,0.99,yes
+castle-exeter,"Rougemont Castle, Exeter",Q7370785,Rougemont Castle,0.08,0.74,yes
+castle-goodrich,Goodrich Castle,Q5583571,Goodrich Castle,0.03,1.00,yes
+castle-sandal,Sandal Castle,Q1760652,Sandal Castle,0.16,0.98,yes
+castle-skipton,Skipton Castle,Q7535853,Skipton Castle,0.22,0.98,yes
+castle-portchester,Portchester Castle,Q732249,Portchester Castle,0.11,0.99,yes
+castle-berkeley,Berkeley Castle,Q4891993,Berkeley Castle,0.26,0.97,yes
+castle-edinburgh,Edinburgh Castle,Q212065,Edinburgh Castle,0.05,0.99,yes
+castle-stirling,Stirling Castle,Q756268,Stirling Castle,0.01,1.00,yes
+castle-urquhart,Urquhart Castle,Q913981,Urquhart Castle,0.02,1.00,yes
+castle-dunnottar,Dunnottar Castle,Q746983,Dunnottar Castle,0.05,0.99,yes
+castle-caerlaverock,Caerlaverock Castle,Q1025398,Caerlaverock Castle,3.36,0.66,no
+castle-bothwell,Bothwell Castle,Q2412005,Bothwell Castle,0.13,0.99,yes
+castle-dumbarton,Dumbarton Castle,Q2177200,Dumbarton Castle,0.07,0.99,yes
+castle-tantallon,Tantallon Castle,Q57803,Tantallon Castle,0.07,0.99,yes
+castle-dirleton,Dirleton Castle,Q1955420,Dirleton Castle,0.00,1.00,yes
+castle-doune,Doune Castle,Q1252715,Doune Castle,0.03,1.00,yes
+castle-st-andrews,St Andrews Castle,Q2287936,St Andrews Castle,0.08,0.99,yes
+castle-kildrummy,Kildrummy Castle,Q1741270,Kildrummy Castle,0.08,0.99,yes
+castle-threave,Threave Castle,Q607339,Threave Castle,0.08,0.99,yes
+castle-hermitage,Hermitage Castle,Q1613640,Hermitage Castle,0.47,0.95,yes
+castle-eilean-donan,Eilean Donan Castle,Q20816698,Eilean Donan Castle,0.02,1.00,yes
+castle-dunstaffnage,Dunstaffnage Castle,Q178522,Dunstaffnage Castle,0.37,0.96,yes
+castle-rothesay,Rothesay Castle,Q866902,Rothesay Castle,0.05,0.99,yes
+castle-roxburgh,Roxburgh Castle,Q17846423,Roxburgh Castle,0.46,0.95,yes
+castle-berwick,Berwick Castle,Q678714,Berwick Castle,0.07,0.99,yes
+castle-lochleven,Lochleven Castle,Q514388,Loch Leven Castle,0.15,0.99,yes
+castle-dunbar,Dunbar Castle,Q2969165,Dunbar Castle,0.14,0.99,yes
+castle-huntly,Huntly Castle,Q64597,Huntly Castle,0.04,1.00,yes
+castle-kilchurn,Kilchurn Castle,Q1741258,Kilchurn Castle,0.11,0.99,yes
+castle-blackness,Blackness Castle,Q1524366,Blackness Castle,0.06,0.99,yes
+castle-caernarfon,Caernarfon Castle,Q275128,Caernarfon Castle,0.01,1.00,yes
+castle-conwy,Conwy Castle,Q756830,Conwy Castle,0.01,1.00,yes
+castle-harlech,Harlech Castle,Q540964,Harlech Castle,0.02,1.00,yes
+castle-beaumaris,Beaumaris Castle,Q756815,Beaumaris Castle,0.02,1.00,yes
+castle-pembroke,Pembroke Castle,Q1422235,Pembroke Castle,0.04,1.00,yes
+castle-caerphilly,Caerphilly Castle,Q682601,Caerphilly Castle,0.02,1.00,yes
+castle-chepstow,Chepstow Castle,Q1070187,Chepstow Castle,0.20,0.98,yes
+castle-rhuddlan,Rhuddlan Castle,Q1585938,Rhuddlan Castle,0.06,0.99,yes
+castle-flint,Flint Castle,Q1428846,Flint Castle,0.10,0.99,yes
+castle-aberystwyth,Aberystwyth Castle,Q319745,Aberystwyth Castle,0.15,0.99,yes
+castle-criccieth,Criccieth Castle,Q1139896,Criccieth Castle,0.19,0.98,yes
+castle-dolbadarn,Dolbadarn Castle,Q2078555,Dolbadarn Castle,0.01,1.00,yes
+castle-dolwyddelan,Dolwyddelan Castle,Q2369922,Dolwyddelan Castle,0.04,1.00,yes
+castle-y-bere,Castell y Bere,,,,,no match
+castle-dinefwr,Dinefwr Castle,Q2713117,Dinefwr Castle,0.14,0.99,yes
+castle-carreg-cennen,Carreg Cennen Castle,Q3403691,Carreg Cennen Castle,0.03,1.00,yes
+castle-kidwelly,Kidwelly Castle,Q1585849,Kidwelly Castle,0.05,1.00,yes
+castle-cardiff,Cardiff Castle,Q1035742,Cardiff Castle,0.01,1.00,yes
+castle-raglan,Raglan Castle,Q2630723,Raglan Castle,0.01,1.00,yes
+castle-denbigh,Denbigh Castle,Q1186885,Denbigh Castle,0.10,0.99,yes
+castle-montgomery,Montgomery Castle,Q3400816,Montgomery Castle,0.17,0.98,yes
+castle-ruthin,Ruthin Castle,Q3403676,Ruthin Castle,0.08,0.99,yes
+castle-cardigan,Cardigan Castle,Q3395294,Cardigan Castle,0.04,1.00,yes
+castle-manorbier,Manorbier Castle,Q1508342,Manorbier Castle,0.10,0.99,yes
+castle-cilgerran,Cilgerran Castle,Q1774870,Cilgerran Castle,0.07,0.99,yes

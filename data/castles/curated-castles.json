@@ -1,0 +1,2286 @@
+[
+  {
+    "id": "castle-tower-of-london",
+    "name": "Tower of London",
+    "altNames": [
+      "White Tower"
+    ],
+    "country": "England",
+    "region": "London",
+    "coord": [
+      -0.0759,
+      51.5081
+    ],
+    "classification": "royal-castle",
+    "built": "c.1066/1078",
+    "phases": [
+      {
+        "date": "c.1066/1067",
+        "description": "Earthwork and timber fortification raised in the south-east corner of the Roman city wall after the Norman conquest."
+      },
+      {
+        "date": "c.1075/1100",
+        "description": "Great stone keep (the White Tower) built for William I and completed under William II."
+      },
+      {
+        "date": "1238/1285",
+        "description": "Concentric curtain walls and moat added under Henry III and Edward I."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england",
+        "from": "1066"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Royal fortress, palace, prison, armoury and treasury on the Thames. The White Tower is one of the most complete eleventh-century keeps in Europe.",
+    "significance": "Symbol of Norman royal power over London; later a state prison and the home of the Crown Jewels.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall",
+      "src-brown-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-warwick",
+    "name": "Warwick Castle",
+    "country": "England",
+    "region": "Warwickshire",
+    "coord": [
+      -1.5847,
+      52.2794
+    ],
+    "classification": "motte-and-bailey",
+    "built": "1068",
+    "phases": [
+      {
+        "date": "1068",
+        "description": "Motte and bailey built by order of William I during his northern campaign."
+      },
+      {
+        "date": "c.1330/1400",
+        "description": "Stone rebuilding by the Beauchamp earls, including Caesar's and Guy's Towers."
+      }
+    ],
+    "owners": [
+      {
+        "name": "Earls of Warwick",
+        "from": "1088"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Norman motte rebuilt in stone in the fourteenth century; besieged by royalists in 1642.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-bamburgh",
+    "name": "Bamburgh Castle",
+    "country": "England",
+    "region": "Northumberland",
+    "coord": [
+      -1.7099,
+      55.609
+    ],
+    "classification": "stone-keep",
+    "built": {
+      "from": "1095",
+      "to": "1170",
+      "precision": "range",
+      "approximate": true,
+      "note": "Site was a fortress of the Northumbrian kings long before; the Norman castle dates from the late 11th–12th centuries."
+    },
+    "phases": [
+      {
+        "date": "c.1164",
+        "description": "Great tower (keep) built under Henry II."
+      },
+      {
+        "date": "1894/1904",
+        "description": "Extensive restoration for Lord Armstrong."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england"
+      }
+    ],
+    "condition": "altered-in-use",
+    "summary": "Coastal fortress on a basalt outcrop, long the seat of the earls of Bamburgh. Besieged by William II in 1095 and battered by royal artillery in 1464.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-dover",
+    "name": "Dover Castle",
+    "country": "England",
+    "region": "Kent",
+    "coord": [
+      1.3214,
+      51.1295
+    ],
+    "classification": "concentric",
+    "built": "1066",
+    "phases": [
+      {
+        "date": "1066",
+        "description": "Fortifications raised by William after Hastings, within or near the earlier burh."
+      },
+      {
+        "date": "1179/1188",
+        "description": "Great Tower and inner bailey built for Henry II."
+      },
+      {
+        "date": "1216/1256",
+        "description": "Repairs and new defences after the siege of 1216."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Called 'the key of England', guarding the shortest Channel crossing. Withstood Prince Louis's siege in 1216.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall",
+      "src-carpenter-minority"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-windsor",
+    "name": "Windsor Castle",
+    "country": "England",
+    "region": "Berkshire",
+    "coord": [
+      -0.6044,
+      51.4839
+    ],
+    "classification": "royal-castle",
+    "built": "c.1070",
+    "phases": [
+      {
+        "date": "c.1070",
+        "description": "Motte and bailey built for William I."
+      },
+      {
+        "date": "1170/1180",
+        "description": "Stone defences under Henry II."
+      },
+      {
+        "date": "1350/1377",
+        "description": "Major rebuilding as a palace under Edward III."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Royal castle in continuous use since the eleventh century; besieged in 1216.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-alnwick",
+    "name": "Alnwick Castle",
+    "country": "England",
+    "region": "Northumberland",
+    "coord": [
+      -1.7059,
+      55.4157
+    ],
+    "classification": "enclosure",
+    "built": "c.1096",
+    "phases": [
+      {
+        "date": "1309/1350",
+        "description": "Rebuilt by the Percy family after acquiring the barony in 1309."
+      }
+    ],
+    "owners": [
+      {
+        "name": "de Vescy family",
+        "from": "1096",
+        "to": "1297"
+      },
+      {
+        "name": "Percy family (later dukes of Northumberland)",
+        "from": "1309"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Border castle near which Malcolm III of Scotland was killed (1093) and William I of Scotland captured (1174).",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-york",
+    "name": "York Castle (Clifford's Tower)",
+    "altNames": [
+      "Clifford's Tower"
+    ],
+    "country": "England",
+    "region": "Yorkshire",
+    "coord": [
+      -1.0794,
+      53.9556
+    ],
+    "classification": "motte-and-bailey",
+    "built": "1068",
+    "phases": [
+      {
+        "date": "1068",
+        "description": "First motte and bailey built by William I; a second castle (Baile Hill) followed in 1069."
+      },
+      {
+        "date": "1245/1270",
+        "description": "Stone quatrefoil keep (later called Clifford's Tower) built under Henry III."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england"
+      }
+    ],
+    "controlChanges": [
+      {
+        "date": "1069-09",
+        "to": "English rebels and Danish army",
+        "description": "Castles at York stormed and burned during the northern rising.",
+        "eventId": "evt-york-1069"
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Royal castle of York. Scene of the massacre of York's Jewish community in March 1190.",
+    "sources": [
+      "src-he-nhle",
+      "src-orderic",
+      "src-dobson-york-1190"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-kenilworth",
+    "name": "Kenilworth Castle",
+    "country": "England",
+    "region": "Warwickshire",
+    "coord": [
+      -1.5906,
+      52.3474
+    ],
+    "classification": "enclosure",
+    "built": "c.1120",
+    "phases": [
+      {
+        "date": "c.1120/1130",
+        "description": "Founded by Geoffrey de Clinton."
+      },
+      {
+        "date": "1210/1215",
+        "description": "Great water defences (the mere) created under King John."
+      }
+    ],
+    "owners": [
+      {
+        "name": "Geoffrey de Clinton",
+        "from": "1120"
+      },
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england",
+        "from": "1174"
+      },
+      {
+        "name": "Simon de Montfort",
+        "from": "1253",
+        "to": "1265"
+      }
+    ],
+    "endOfUse": {
+      "date": "1649/1650",
+      "kind": "slighted",
+      "note": "Slighted by Parliament after the Civil War."
+    },
+    "condition": "ruin",
+    "summary": "Held by Montfortian rebels through the longest siege in English medieval history (1266).",
+    "sources": [
+      "src-he-nhle",
+      "src-maddicott",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-rochester",
+    "name": "Rochester Castle",
+    "country": "England",
+    "region": "Kent",
+    "coord": [
+      0.5017,
+      51.3897
+    ],
+    "classification": "stone-keep",
+    "built": "c.1087/1089",
+    "phases": [
+      {
+        "date": "c.1127",
+        "description": "Great tower built by Archbishop William de Corbeil."
+      }
+    ],
+    "owners": [
+      {
+        "name": "Archbishops of Canterbury (constables)",
+        "from": "1127"
+      },
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england"
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Its keep was undermined by King John in 1215; the collapsed corner was rebuilt with a round tower.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-corfe",
+    "name": "Corfe Castle",
+    "country": "England",
+    "region": "Dorset",
+    "coord": [
+      -2.0571,
+      50.6404
+    ],
+    "classification": "stone-keep",
+    "built": "c.1086",
+    "endOfUse": {
+      "date": "1646",
+      "kind": "slighted",
+      "note": "Slighted by order of Parliament after its capture."
+    },
+    "condition": "ruin",
+    "summary": "Royal castle in the Purbeck Hills, held for the king in the Civil War and slighted in 1646.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-durham",
+    "name": "Durham Castle",
+    "country": "England",
+    "region": "County Durham",
+    "coord": [
+      -1.5757,
+      54.7752
+    ],
+    "classification": "motte-and-bailey",
+    "built": "1072",
+    "owners": [
+      {
+        "name": "Prince-bishops of Durham",
+        "from": "1072",
+        "to": "1837"
+      },
+      {
+        "name": "University of Durham",
+        "from": "1837"
+      }
+    ],
+    "condition": "altered-in-use",
+    "summary": "Built on William I's orders in 1072; seat of the prince-bishops of Durham and now part of the university.",
+    "sources": [
+      "src-he-nhle",
+      "src-brown-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-lincoln",
+    "name": "Lincoln Castle",
+    "country": "England",
+    "region": "Lincolnshire",
+    "coord": [
+      -0.5413,
+      53.2349
+    ],
+    "classification": "motte-and-bailey",
+    "built": "1068",
+    "condition": "altered-in-use",
+    "summary": "One of the few castles with two mottes. Focus of the battles of Lincoln in 1141 and 1217.",
+    "sources": [
+      "src-he-nhle",
+      "src-crouch-stephen",
+      "src-carpenter-minority"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-newcastle",
+    "name": "Newcastle Castle",
+    "altNames": [
+      "Castle Keep, Newcastle upon Tyne"
+    ],
+    "country": "England",
+    "region": "Northumberland",
+    "coord": [
+      -1.6106,
+      54.969
+    ],
+    "classification": "stone-keep",
+    "built": "1080",
+    "phases": [
+      {
+        "date": "1172/1177",
+        "description": "Stone keep built under Henry II."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Founded by Robert Curthose in 1080 on the line of Hadrian's Wall; the town took its name from the 'new castle'.",
+    "sources": [
+      "src-he-nhle",
+      "src-brown-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-carlisle",
+    "name": "Carlisle Castle",
+    "country": "England",
+    "region": "Cumbria",
+    "coord": [
+      -2.9406,
+      54.897
+    ],
+    "classification": "stone-keep",
+    "built": "1092",
+    "controlChanges": [
+      {
+        "date": "1136",
+        "from": "English Crown",
+        "to": "Kingdom of Scotland",
+        "description": "Occupied by David I of Scotland during the Anarchy."
+      },
+      {
+        "date": "1157",
+        "from": "Kingdom of Scotland",
+        "to": "English Crown",
+        "description": "Returned to Henry II by Malcolm IV."
+      }
+    ],
+    "condition": "altered-in-use",
+    "summary": "Founded by William II after he took Carlisle in 1092; besieged repeatedly in Anglo-Scottish wars and in 1745.",
+    "sources": [
+      "src-he-nhle",
+      "src-duncan"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-norwich",
+    "name": "Norwich Castle",
+    "country": "England",
+    "region": "Norfolk",
+    "coord": [
+      1.2963,
+      52.6284
+    ],
+    "classification": "stone-keep",
+    "built": "c.1067/1075",
+    "phases": [
+      {
+        "date": "c.1095/1121",
+        "description": "Stone keep built."
+      }
+    ],
+    "condition": "altered-in-use",
+    "summary": "Royal castle on a large motte; besieged in the revolt of the earls (1075). Now a museum.",
+    "sources": [
+      "src-he-nhle",
+      "src-brown-castles"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-colchester",
+    "name": "Colchester Castle",
+    "country": "England",
+    "region": "Essex",
+    "coord": [
+      0.9024,
+      51.8903
+    ],
+    "classification": "stone-keep",
+    "built": "c.1076",
+    "condition": "altered-in-use",
+    "summary": "The largest Norman keep in Britain, built on the podium of the Roman Temple of Claudius.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-bedford",
+    "name": "Bedford Castle",
+    "country": "England",
+    "region": "Bedfordshire",
+    "coord": [
+      -0.465,
+      52.1355
+    ],
+    "classification": "motte-and-bailey",
+    "built": {
+      "from": "1100",
+      "to": "1135",
+      "precision": "range",
+      "approximate": true,
+      "note": "Probably built in the reign of Henry I; the founder and date are not securely documented."
+    },
+    "endOfUse": {
+      "date": "1224",
+      "kind": "demolished",
+      "note": "Demolished on royal orders after the siege of 1224."
+    },
+    "condition": "earthwork",
+    "summary": "Castle of the Beauchamp barons, seized by Falkes de Bréauté and destroyed after the great siege of 1224. Only the motte survives.",
+    "sources": [
+      "src-he-nhle",
+      "src-carpenter-minority"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "castle-pevensey",
+    "name": "Pevensey Castle",
+    "country": "England",
+    "region": "Sussex",
+    "coord": [
+      0.3346,
+      50.8191
+    ],
+    "classification": "enclosure",
+    "built": "1066",
+    "phases": [
+      {
+        "date": "1066",
+        "description": "Norman fortification raised within the Roman fort of Anderitum after William's landing."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "William of Normandy landed at Pevensey in September 1066; the castle was besieged in 1088 and 1264–65.",
+    "sources": [
+      "src-he-nhle",
+      "src-asc"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-hastings",
+    "name": "Hastings Castle",
+    "country": "England",
+    "region": "Sussex",
+    "coord": [
+      0.5866,
+      50.8558
+    ],
+    "classification": "motte-and-bailey",
+    "built": "1066",
+    "condition": "ruin",
+    "summary": "One of the first castles built by William after landing; depicted under construction on the Bayeux Tapestry.",
+    "sources": [
+      "src-he-nhle",
+      "src-brown-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-richmond-yorks",
+    "name": "Richmond Castle",
+    "country": "England",
+    "region": "Yorkshire",
+    "coord": [
+      -1.7377,
+      54.4019
+    ],
+    "classification": "enclosure",
+    "built": "c.1071",
+    "condition": "ruin",
+    "summary": "Built by Alan Rufus after the Harrying of the North; its early stone curtain wall is among the oldest in England.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-pontefract",
+    "name": "Pontefract Castle",
+    "country": "England",
+    "region": "Yorkshire",
+    "coord": [
+      -1.3065,
+      53.6948
+    ],
+    "classification": "enclosure",
+    "built": "c.1070",
+    "endOfUse": {
+      "date": "1649",
+      "kind": "demolished",
+      "note": "Demolished by order of Parliament after the third siege."
+    },
+    "condition": "ruin",
+    "summary": "Lancastrian stronghold where Richard II probably died (1400); besieged three times in the Civil War.",
+    "sources": [
+      "src-he-nhle",
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-scarborough",
+    "name": "Scarborough Castle",
+    "country": "England",
+    "region": "Yorkshire",
+    "coord": [
+      -0.3897,
+      54.2878
+    ],
+    "classification": "stone-keep",
+    "built": "c.1130/1140",
+    "phases": [
+      {
+        "date": "1159/1169",
+        "description": "Great tower built under Henry II."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Headland castle besieged in 1645 and 1648, and shelled by German warships in December 1914.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-ludlow",
+    "name": "Ludlow Castle",
+    "country": "England",
+    "region": "Shropshire",
+    "coord": [
+      -2.7226,
+      52.3672
+    ],
+    "classification": "enclosure",
+    "built": "c.1075/1085",
+    "condition": "ruin",
+    "summary": "Marcher castle built by the de Lacy family; later seat of the Council in the Marches of Wales.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-framlingham",
+    "name": "Framlingham Castle",
+    "country": "England",
+    "region": "Suffolk",
+    "coord": [
+      1.3462,
+      52.224
+    ],
+    "classification": "enclosure",
+    "built": "c.1148",
+    "phases": [
+      {
+        "date": "c.1190/1210",
+        "description": "Stone curtain wall with thirteen towers built by Roger Bigod."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Bigod castle besieged by King John in 1216; Mary Tudor gathered support here in 1553.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-orford",
+    "name": "Orford Castle",
+    "country": "England",
+    "region": "Suffolk",
+    "coord": [
+      1.5303,
+      52.0946
+    ],
+    "classification": "stone-keep",
+    "built": "1165/1173",
+    "condition": "ruin",
+    "summary": "Royal castle with a polygonal keep, built for Henry II; its construction is recorded in the Pipe Rolls.",
+    "sources": [
+      "src-he-nhle",
+      "src-brown-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-bodiam",
+    "name": "Bodiam Castle",
+    "country": "England",
+    "region": "Sussex",
+    "coord": [
+      0.5434,
+      51.0022
+    ],
+    "classification": "quadrangular",
+    "built": "1385",
+    "phases": [
+      {
+        "date": "1385",
+        "description": "Licence to crenellate granted to Sir Edward Dalyngrigge."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Moated quadrangular castle built during the Hundred Years' War.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-norham",
+    "name": "Norham Castle",
+    "country": "England",
+    "region": "Northumberland",
+    "coord": [
+      -2.1607,
+      55.7208
+    ],
+    "classification": "stone-keep",
+    "built": "1121",
+    "condition": "ruin",
+    "summary": "Built by Bishop Ranulf Flambard on the Tweed; captured by James IV in 1513 days before Flodden.",
+    "sources": [
+      "src-he-nhle",
+      "src-barr-flodden"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dunstanburgh",
+    "name": "Dunstanburgh Castle",
+    "country": "England",
+    "region": "Northumberland",
+    "coord": [
+      -1.5952,
+      55.4894
+    ],
+    "classification": "enclosure",
+    "built": "1313/1322",
+    "condition": "ruin",
+    "summary": "Built by Thomas, earl of Lancaster; besieged during the Wars of the Roses (1462–64).",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-nottingham",
+    "name": "Nottingham Castle",
+    "country": "England",
+    "region": "Nottinghamshire",
+    "coord": [
+      -1.1544,
+      52.9496
+    ],
+    "classification": "royal-castle",
+    "built": "1068",
+    "endOfUse": {
+      "date": "1651",
+      "kind": "demolished",
+      "note": "Demolished after the Civil War; a ducal mansion was built on the site in the 1670s."
+    },
+    "condition": "lost",
+    "summary": "Royal castle where Charles I raised his standard in August 1642.",
+    "sources": [
+      "src-he-nhle",
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-chester",
+    "name": "Chester Castle",
+    "country": "England",
+    "region": "Cheshire",
+    "coord": [
+      -2.8915,
+      53.1857
+    ],
+    "classification": "royal-castle",
+    "built": "1070",
+    "condition": "altered-in-use",
+    "summary": "Base for Norman and English campaigns into north Wales.",
+    "sources": [
+      "src-he-nhle",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-exeter",
+    "name": "Rougemont Castle, Exeter",
+    "altNames": [
+      "Exeter Castle"
+    ],
+    "country": "England",
+    "region": "Devon",
+    "coord": [
+      -3.5292,
+      50.7259
+    ],
+    "classification": "enclosure",
+    "built": "1068",
+    "condition": "ruin",
+    "summary": "Built after William I's siege of Exeter in 1068; besieged by King Stephen in 1136.",
+    "sources": [
+      "src-he-nhle",
+      "src-orderic",
+      "src-crouch-stephen"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-goodrich",
+    "name": "Goodrich Castle",
+    "country": "England",
+    "region": "Herefordshire",
+    "coord": [
+      -2.6153,
+      51.8768
+    ],
+    "classification": "enclosure",
+    "built": "c.1100/1150",
+    "endOfUse": {
+      "date": "1646",
+      "kind": "slighted"
+    },
+    "condition": "ruin",
+    "summary": "Marcher castle above the Wye, taken by Parliament in 1646 after bombardment by the mortar 'Roaring Meg'.",
+    "sources": [
+      "src-he-nhle",
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-sandal",
+    "name": "Sandal Castle",
+    "country": "England",
+    "region": "Yorkshire",
+    "coord": [
+      -1.4908,
+      53.6573
+    ],
+    "classification": "motte-and-bailey",
+    "built": "c.1106/1130",
+    "endOfUse": {
+      "date": "1646",
+      "kind": "slighted"
+    },
+    "condition": "ruin",
+    "summary": "Yorkist castle beneath which Richard, duke of York, was killed at the battle of Wakefield (1460).",
+    "sources": [
+      "src-he-nhle",
+      "src-goodman-wor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-skipton",
+    "name": "Skipton Castle",
+    "country": "England",
+    "region": "Yorkshire",
+    "coord": [
+      -2.0168,
+      53.9624
+    ],
+    "classification": "enclosure",
+    "built": "c.1090",
+    "condition": "intact",
+    "summary": "Clifford family castle that held for the king through a siege of about three years (1642–45).",
+    "sources": [
+      "src-he-nhle",
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-portchester",
+    "name": "Portchester Castle",
+    "country": "England",
+    "region": "Hampshire",
+    "coord": [
+      -1.1135,
+      50.8371
+    ],
+    "classification": "enclosure",
+    "built": "c.1100/1135",
+    "condition": "ruin",
+    "summary": "Norman castle within the best-preserved Roman Saxon Shore fort in northern Europe.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-berkeley",
+    "name": "Berkeley Castle",
+    "country": "England",
+    "region": "Gloucestershire",
+    "coord": [
+      -2.4585,
+      51.6907
+    ],
+    "classification": "enclosure",
+    "built": "c.1117/1153",
+    "condition": "intact",
+    "summary": "Where the deposed Edward II died in 1327; besieged by Parliamentarians in 1645.",
+    "sources": [
+      "src-he-nhle",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-edinburgh",
+    "name": "Edinburgh Castle",
+    "altNames": [
+      "Castle of the Maidens"
+    ],
+    "country": "Scotland",
+    "region": "Lothian",
+    "coord": [
+      -3.1999,
+      55.9486
+    ],
+    "classification": "royal-castle",
+    "built": {
+      "from": "1093",
+      "to": "1153",
+      "precision": "range",
+      "approximate": true,
+      "note": "A royal castle by the reign of David I (1124–53); the rock was fortified much earlier."
+    },
+    "phases": [
+      {
+        "date": "c.1130",
+        "description": "St Margaret's Chapel, the oldest surviving building in Edinburgh."
+      },
+      {
+        "date": "1574/1577",
+        "description": "Half Moon Battery built after the Lang Siege of 1571–73."
+      }
+    ],
+    "owners": [
+      {
+        "name": "Scottish Crown",
+        "authorityId": "auth-scotland"
+      }
+    ],
+    "controlChanges": [
+      {
+        "date": "1296",
+        "from": "Scottish Crown",
+        "to": "English Crown",
+        "description": "Taken by Edward I.",
+        "eventId": "evt-edinburgh-1296"
+      },
+      {
+        "date": "1314-03-14",
+        "from": "English garrison",
+        "to": "Scottish Crown",
+        "description": "Captured in a night assault led by Thomas Randolph.",
+        "eventId": "evt-edinburgh-1314"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Royal castle on Castle Rock, repeatedly besieged and captured in the Wars of Independence, the Lang Siege, and the 1650 and 1689 sieges.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham",
+      "src-barrow-bruce"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-stirling",
+    "name": "Stirling Castle",
+    "country": "Scotland",
+    "region": "Stirlingshire",
+    "coord": [
+      -3.9478,
+      56.1238
+    ],
+    "classification": "royal-castle",
+    "built": {
+      "from": "1110",
+      "to": "1124",
+      "precision": "range",
+      "approximate": true,
+      "note": "First recorded c.1110 under Alexander I."
+    },
+    "owners": [
+      {
+        "name": "Scottish Crown",
+        "authorityId": "auth-scotland"
+      }
+    ],
+    "controlChanges": [
+      {
+        "date": "1304-07-20",
+        "from": "Scottish garrison",
+        "to": "English Crown",
+        "description": "Surrendered to Edward I after a three-month siege.",
+        "eventId": "evt-stirling-1304"
+      },
+      {
+        "date": "1314-06",
+        "from": "English garrison",
+        "to": "Scottish Crown",
+        "description": "Surrendered after the English defeat at Bannockburn.",
+        "eventId": "evt-bannockburn-1314"
+      }
+    ],
+    "condition": "intact",
+    "summary": "Strategic royal castle commanding the lowest crossing of the Forth; the key to the Wars of Independence.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham",
+      "src-barrow-bruce"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-urquhart",
+    "name": "Urquhart Castle",
+    "country": "Scotland",
+    "region": "Highland",
+    "coord": [
+      -4.4419,
+      57.3242
+    ],
+    "classification": "enclosure",
+    "built": "c.1230/1296",
+    "endOfUse": {
+      "date": "1692",
+      "kind": "destroyed",
+      "note": "Blown up by departing government troops to deny it to Jacobites."
+    },
+    "condition": "ruin",
+    "summary": "Castle on Loch Ness taken by Edward I in 1296 and 1303 and disputed between the Crown and the Lords of the Isles.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dunnottar",
+    "name": "Dunnottar Castle",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "coord": [
+      -2.1972,
+      56.9461
+    ],
+    "classification": "enclosure",
+    "built": "c.1392",
+    "phases": [
+      {
+        "date": "c.1392",
+        "description": "Tower house built by Sir William Keith, Marischal of Scotland, on a site with earlier occupation."
+      }
+    ],
+    "endOfUse": {
+      "date": "1718",
+      "kind": "abandoned",
+      "note": "Forfeited after the 1715 rising and later partly dismantled."
+    },
+    "condition": "ruin",
+    "summary": "Cliff-top fortress where the Honours of Scotland were hidden during an eight-month siege by Cromwell's army (1651–52).",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-caerlaverock",
+    "name": "Caerlaverock Castle",
+    "country": "Scotland",
+    "region": "Dumfries and Galloway",
+    "coord": [
+      -3.5234,
+      55.0058
+    ],
+    "classification": "enclosure",
+    "built": "c.1270s",
+    "endOfUse": {
+      "date": "1640",
+      "kind": "slighted",
+      "note": "Surrendered to Covenanters after a 13-week siege and partly dismantled."
+    },
+    "condition": "ruin",
+    "summary": "Triangular moated castle of the Maxwells, besieged by Edward I in 1300 (recorded in the poem 'The Siege of Caerlaverock').",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham",
+      "src-prestwich-edward"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-bothwell",
+    "name": "Bothwell Castle",
+    "country": "Scotland",
+    "region": "Lanarkshire",
+    "coord": [
+      -4.0942,
+      55.8105
+    ],
+    "classification": "enclosure",
+    "built": "c.1242/1290",
+    "condition": "ruin",
+    "summary": "Great round donjon of the Murrays; captured by Edward I's army in 1301 after a siege using a siege tower.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dumbarton",
+    "name": "Dumbarton Castle",
+    "country": "Scotland",
+    "region": "Dunbartonshire",
+    "coord": [
+      -4.5634,
+      55.9365
+    ],
+    "classification": "royal-castle",
+    "built": "c.1220",
+    "condition": "altered-in-use",
+    "summary": "Royal castle on the volcanic rock that was the centre of the early kingdom of Strathclyde.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham",
+      "src-woolf"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-tantallon",
+    "name": "Tantallon Castle",
+    "country": "Scotland",
+    "region": "East Lothian",
+    "coord": [
+      -2.6508,
+      56.0558
+    ],
+    "classification": "enclosure",
+    "built": "c.1350/1360",
+    "endOfUse": {
+      "date": "1651",
+      "kind": "ruinous",
+      "note": "Battered by Monck's artillery and not repaired."
+    },
+    "condition": "ruin",
+    "summary": "Douglas cliff-top stronghold besieged by James IV (1491), James V (1528) and Monck (1651).",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dirleton",
+    "name": "Dirleton Castle",
+    "country": "Scotland",
+    "region": "East Lothian",
+    "coord": [
+      -2.7783,
+      56.0458
+    ],
+    "classification": "enclosure",
+    "built": "c.1240",
+    "endOfUse": {
+      "date": "1650",
+      "kind": "slighted"
+    },
+    "condition": "ruin",
+    "summary": "Besieged by Edward I's forces under Bishop Bek in 1298 and by Cromwell's army in 1650.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-doune",
+    "name": "Doune Castle",
+    "country": "Scotland",
+    "region": "Stirlingshire",
+    "coord": [
+      -4.0506,
+      56.1854
+    ],
+    "classification": "enclosure",
+    "built": "c.1380s",
+    "condition": "intact",
+    "summary": "Courtyard castle built for Robert Stewart, duke of Albany; held by Jacobites in 1745–46.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-st-andrews",
+    "name": "St Andrews Castle",
+    "country": "Scotland",
+    "region": "Fife",
+    "coord": [
+      -2.79,
+      56.3415
+    ],
+    "classification": "enclosure",
+    "built": "c.1200",
+    "condition": "ruin",
+    "summary": "Bishops' castle seized by Protestant conspirators after Cardinal Beaton's murder (1546) and besieged until 1547; mine and counter-mine survive.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-kildrummy",
+    "name": "Kildrummy Castle",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "coord": [
+      -2.9053,
+      57.2342
+    ],
+    "classification": "enclosure",
+    "built": "c.1250",
+    "condition": "ruin",
+    "summary": "Besieged and taken by the English in 1306 after Robert Bruce's defeat at Methven; base of the earl of Mar in 1715.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham",
+      "src-barrow-bruce"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-threave",
+    "name": "Threave Castle",
+    "country": "Scotland",
+    "region": "Dumfries and Galloway",
+    "coord": [
+      -3.9707,
+      54.9396
+    ],
+    "classification": "tower-house",
+    "built": "c.1369",
+    "endOfUse": {
+      "date": "1640",
+      "kind": "slighted"
+    },
+    "condition": "ruin",
+    "summary": "Island tower of Archibald the Grim, lord of Galloway; besieged by James II in 1455 during the fall of the Black Douglases.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-hermitage",
+    "name": "Hermitage Castle",
+    "country": "Scotland",
+    "region": "Roxburghshire",
+    "coord": [
+      -2.7963,
+      55.2595
+    ],
+    "classification": "tower-house",
+    "built": "c.1360",
+    "condition": "ruin",
+    "summary": "Grim border stronghold in Liddesdale, contested by English and Scottish lords.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-eilean-donan",
+    "name": "Eilean Donan Castle",
+    "country": "Scotland",
+    "region": "Highland",
+    "coord": [
+      -5.5161,
+      57.2741
+    ],
+    "classification": "enclosure",
+    "built": "13C",
+    "endOfUse": {
+      "date": "1719-05",
+      "kind": "destroyed",
+      "note": "Bombarded by Royal Navy frigates and blown up during the 1719 rising; rebuilt 1912–32."
+    },
+    "condition": "altered-in-use",
+    "summary": "Island castle garrisoned by Spanish troops in 1719 and destroyed; the present building is a twentieth-century reconstruction.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dunstaffnage",
+    "name": "Dunstaffnage Castle",
+    "country": "Scotland",
+    "region": "Argyll",
+    "coord": [
+      -5.4372,
+      56.4513
+    ],
+    "classification": "enclosure",
+    "built": "c.1220/1240",
+    "condition": "ruin",
+    "summary": "MacDougall castle captured by Robert Bruce in 1308 after the battle of the Pass of Brander.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-rothesay",
+    "name": "Rothesay Castle",
+    "country": "Scotland",
+    "region": "Bute",
+    "coord": [
+      -5.0553,
+      55.836
+    ],
+    "classification": "enclosure",
+    "built": "c.1200",
+    "condition": "ruin",
+    "summary": "Circular curtain-walled castle besieged by Norwegians in 1230; seized again in the campaign of 1263.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-roxburgh",
+    "name": "Roxburgh Castle",
+    "country": "Scotland",
+    "region": "Roxburghshire",
+    "coord": [
+      -2.4495,
+      55.5966
+    ],
+    "classification": "royal-castle",
+    "built": "c.1120s",
+    "endOfUse": {
+      "date": "1460",
+      "kind": "destroyed",
+      "note": "Razed by the Scots after its recapture in 1460."
+    },
+    "condition": "earthwork",
+    "summary": "Major royal castle and burgh on the Tweed; James II was killed by a bursting cannon while besieging it in 1460.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-berwick",
+    "name": "Berwick Castle",
+    "country": "England",
+    "region": "Northumberland",
+    "coord": [
+      -2.0109,
+      55.7741
+    ],
+    "classification": "royal-castle",
+    "built": "c.1120s",
+    "endOfUse": {
+      "date": "1844/1847",
+      "kind": "demolished",
+      "note": "Largely destroyed to build Berwick railway station."
+    },
+    "controlChanges": [
+      {
+        "date": "1296-03-30",
+        "from": "Kingdom of Scotland",
+        "to": "English Crown",
+        "description": "Town sacked and castle taken by Edward I.",
+        "eventId": "evt-berwick-1296"
+      },
+      {
+        "date": "1318-04",
+        "from": "English Crown",
+        "to": "Kingdom of Scotland",
+        "description": "Recaptured by Robert Bruce.",
+        "eventId": "evt-berwick-1318"
+      },
+      {
+        "date": "1333-07",
+        "from": "Kingdom of Scotland",
+        "to": "English Crown",
+        "description": "Surrendered after Halidon Hill.",
+        "eventId": "evt-halidon-hill-1333"
+      },
+      {
+        "date": "1482-08",
+        "from": "Kingdom of Scotland",
+        "to": "English Crown",
+        "description": "Finally taken by Richard of Gloucester; English thereafter."
+      }
+    ],
+    "condition": "lost",
+    "summary": "Castle of the border burgh that changed hands more than a dozen times between Scotland and England.",
+    "sources": [
+      "src-he-nhle",
+      "src-barrow-bruce",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-lochleven",
+    "name": "Lochleven Castle",
+    "country": "Scotland",
+    "region": "Kinross",
+    "coord": [
+      -3.3916,
+      56.1995
+    ],
+    "classification": "tower-house",
+    "built": "c.1300",
+    "condition": "ruin",
+    "summary": "Island castle where Mary, Queen of Scots was imprisoned (1567–68) and forced to abdicate.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dunbar",
+    "name": "Dunbar Castle",
+    "country": "Scotland",
+    "region": "East Lothian",
+    "coord": [
+      -2.516,
+      56.0047
+    ],
+    "classification": "enclosure",
+    "built": "c.1070s",
+    "endOfUse": {
+      "date": "1568",
+      "kind": "destroyed",
+      "note": "Destroyed by order of Parliament after Mary's defeat."
+    },
+    "condition": "ruin",
+    "summary": "Stronghold of the earls of Dunbar, defended by 'Black Agnes' against an English siege in 1338.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "castle-huntly",
+    "name": "Huntly Castle",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "coord": [
+      -2.7811,
+      57.4545
+    ],
+    "classification": "tower-house",
+    "built": "c.1190",
+    "condition": "ruin",
+    "summary": "Gordon stronghold that grew from a twelfth-century motte to a Renaissance palace.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-kilchurn",
+    "name": "Kilchurn Castle",
+    "country": "Scotland",
+    "region": "Argyll",
+    "coord": [
+      -5.0291,
+      56.4041
+    ],
+    "classification": "tower-house",
+    "built": "c.1450",
+    "condition": "ruin",
+    "summary": "Campbell of Glenorchy tower house converted into a government garrison after 1690.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-blackness",
+    "name": "Blackness Castle",
+    "country": "Scotland",
+    "region": "West Lothian",
+    "coord": [
+      -3.5154,
+      56.0058
+    ],
+    "classification": "artillery-fort",
+    "built": "c.1440s",
+    "condition": "altered-in-use",
+    "summary": "Ship-shaped fortress on the Forth, strengthened for artillery in the 1530s and taken by Cromwell's forces in 1650.",
+    "sources": [
+      "src-hes-portal",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-caernarfon",
+    "name": "Caernarfon Castle",
+    "altNames": [
+      "Castell Caernarfon"
+    ],
+    "country": "Wales",
+    "region": "Gwynedd",
+    "coord": [
+      -4.2768,
+      53.1393
+    ],
+    "classification": "enclosure",
+    "built": "1283",
+    "phases": [
+      {
+        "date": "1283/1330",
+        "description": "Built for Edward I under Master James of St George; never fully completed."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england",
+        "from": "1283"
+      }
+    ],
+    "controlChanges": [
+      {
+        "date": "1294-09",
+        "from": "English Crown",
+        "to": "Welsh rebels",
+        "description": "Town and unfinished castle overrun by Madog ap Llywelyn's rebels.",
+        "eventId": "evt-madog-revolt-1294"
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Edward I's administrative centre for the Principality of north Wales, with polygonal towers evoking Constantinople. Resisted Glyndŵr's sieges in 1403 and 1404.",
+    "significance": "Part of the 'Castles and Town Walls of King Edward in Gwynedd' World Heritage Site.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-conwy",
+    "name": "Conwy Castle",
+    "altNames": [
+      "Castell Conwy"
+    ],
+    "country": "Wales",
+    "region": "Conwy",
+    "coord": [
+      -3.8256,
+      53.2801
+    ],
+    "classification": "enclosure",
+    "built": "1283",
+    "phases": [
+      {
+        "date": "1283/1287",
+        "description": "Built with the town walls for Edward I in about four years."
+      }
+    ],
+    "owners": [
+      {
+        "name": "English Crown",
+        "authorityId": "auth-england",
+        "from": "1283"
+      }
+    ],
+    "controlChanges": [
+      {
+        "date": "1401-04-01",
+        "from": "English Crown",
+        "to": "Glyndŵr supporters",
+        "description": "Seized by Rhys and Gwilym ap Tudur on Good Friday while the garrison was at church.",
+        "eventId": "evt-conwy-1401"
+      },
+      {
+        "date": "1401-06",
+        "from": "Glyndŵr supporters",
+        "to": "English Crown",
+        "description": "Returned under negotiated terms."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "One of the best-preserved Edwardian fortresses; part of the Gwynedd World Heritage Site.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-harlech",
+    "name": "Harlech Castle",
+    "altNames": [
+      "Castell Harlech"
+    ],
+    "country": "Wales",
+    "region": "Gwynedd",
+    "coord": [
+      -4.109,
+      52.8601
+    ],
+    "classification": "concentric",
+    "built": "1283",
+    "phases": [
+      {
+        "date": "1283/1289",
+        "description": "Concentric castle built for Edward I."
+      }
+    ],
+    "controlChanges": [
+      {
+        "date": "1404",
+        "from": "English Crown",
+        "to": "Owain Glyndŵr",
+        "description": "Taken by Glyndŵr after a long blockade; his court and family were based here.",
+        "eventId": "evt-harlech-1404"
+      },
+      {
+        "date": "1409",
+        "from": "Owain Glyndŵr",
+        "to": "English Crown",
+        "description": "Recaptured by English forces under Gilbert Talbot.",
+        "eventId": "evt-harlech-1408"
+      },
+      {
+        "date": "1468-08-14",
+        "from": "Lancastrian garrison",
+        "to": "Yorkist Crown",
+        "description": "Surrendered after a siege of about seven years.",
+        "eventId": "evt-harlech-1468"
+      },
+      {
+        "date": "1647-03",
+        "from": "Royalist garrison",
+        "to": "Parliament",
+        "description": "Last royalist stronghold of the first Civil War to surrender."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Concentric castle on a crag above Tremadog Bay; its long Lancastrian defence is traditionally linked with the song 'Men of Harlech'.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-beaumaris",
+    "name": "Beaumaris Castle",
+    "altNames": [
+      "Castell Biwmares"
+    ],
+    "country": "Wales",
+    "region": "Anglesey",
+    "coord": [
+      -4.0897,
+      53.2647
+    ],
+    "classification": "concentric",
+    "built": "1295",
+    "phases": [
+      {
+        "date": "1295/1330",
+        "description": "Begun after Madog ap Llywelyn's revolt; never completed."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Nearly symmetrical concentric castle, the last of Edward I's great Welsh castles.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-pembroke",
+    "name": "Pembroke Castle",
+    "altNames": [
+      "Castell Penfro"
+    ],
+    "country": "Wales",
+    "region": "Pembrokeshire",
+    "coord": [
+      -4.9201,
+      51.6772
+    ],
+    "classification": "stone-keep",
+    "built": "1093",
+    "phases": [
+      {
+        "date": "1093",
+        "description": "Earth and timber castle founded by Arnulf de Montgomery."
+      },
+      {
+        "date": "c.1200",
+        "description": "Great round keep built by William Marshal."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Norman castle never taken by the Welsh; birthplace of Henry Tudor (1457) and besieged by Cromwell in 1648.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-caerphilly",
+    "name": "Caerphilly Castle",
+    "altNames": [
+      "Castell Caerffili"
+    ],
+    "country": "Wales",
+    "region": "Glamorgan",
+    "coord": [
+      -3.2201,
+      51.5762
+    ],
+    "classification": "concentric",
+    "built": "1268",
+    "phases": [
+      {
+        "date": "1268/1271",
+        "description": "Built by Gilbert de Clare against Llywelyn ap Gruffudd, with extensive water defences."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Huge concentric castle with artificial lakes; attacked by Llywelyn in 1270 and besieged in 1326–27 during the fall of Edward II.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-chepstow",
+    "name": "Chepstow Castle",
+    "altNames": [
+      "Castell Cas-gwent"
+    ],
+    "country": "Wales",
+    "region": "Monmouthshire",
+    "coord": [
+      -2.6729,
+      51.6436
+    ],
+    "classification": "stone-keep",
+    "built": "1067",
+    "phases": [
+      {
+        "date": "1067/1075",
+        "description": "Stone great tower begun by William fitz Osbern, among the earliest stone castle buildings in Britain."
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Norman castle on the Wye cliffs, the springboard of conquest into south-east Wales; besieged in 1645 and 1648.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest",
+      "src-goodall"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-rhuddlan",
+    "name": "Rhuddlan Castle",
+    "country": "Wales",
+    "region": "Denbighshire",
+    "coord": [
+      -3.4646,
+      53.2887
+    ],
+    "classification": "concentric",
+    "built": "1277",
+    "condition": "ruin",
+    "summary": "Edwardian castle beside which the Statute of Rhuddlan (1284) was issued; an earlier Norman motte stands nearby.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-flint",
+    "name": "Flint Castle",
+    "altNames": [
+      "Castell y Fflint"
+    ],
+    "country": "Wales",
+    "region": "Flintshire",
+    "coord": [
+      -3.1295,
+      53.2508
+    ],
+    "classification": "enclosure",
+    "built": "1277",
+    "condition": "ruin",
+    "summary": "The first of Edward I's Welsh castles, with a detached great tower; Richard II was handed to Henry Bolingbroke here in 1399.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "castle-aberystwyth",
+    "name": "Aberystwyth Castle",
+    "country": "Wales",
+    "region": "Ceredigion",
+    "coord": [
+      -4.0898,
+      52.4146
+    ],
+    "classification": "concentric",
+    "built": "1277",
+    "controlChanges": [
+      {
+        "date": "1404",
+        "from": "English Crown",
+        "to": "Owain Glyndŵr",
+        "description": "Captured by Glyndŵr.",
+        "eventId": "evt-aberystwyth-1404"
+      },
+      {
+        "date": "1408",
+        "from": "Owain Glyndŵr",
+        "to": "English Crown",
+        "description": "Recaptured by Prince Henry's forces after a siege.",
+        "eventId": "evt-aberystwyth-1408"
+      }
+    ],
+    "endOfUse": {
+      "date": "1649",
+      "kind": "slighted"
+    },
+    "condition": "ruin",
+    "summary": "Edwardian castle held by Glyndŵr 1404–08 and slighted after the Civil War.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-criccieth",
+    "name": "Criccieth Castle",
+    "altNames": [
+      "Castell Cricieth"
+    ],
+    "country": "Wales",
+    "region": "Gwynedd",
+    "coord": [
+      -4.2321,
+      52.9178
+    ],
+    "classification": "welsh-native",
+    "built": "c.1230",
+    "endOfUse": {
+      "date": "1404",
+      "kind": "destroyed",
+      "note": "Burned by Glyndŵr's forces and never restored."
+    },
+    "condition": "ruin",
+    "summary": "Built by Llywelyn ab Iorwerth, later strengthened by Edward I.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dolbadarn",
+    "name": "Dolbadarn Castle",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "coord": [
+      -4.1143,
+      53.1167
+    ],
+    "classification": "welsh-native",
+    "built": "c.1220s",
+    "condition": "ruin",
+    "summary": "Round tower of Llywelyn ab Iorwerth guarding the Llanberis pass; Llywelyn ap Gruffudd imprisoned his brother Owain here.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dolwyddelan",
+    "name": "Dolwyddelan Castle",
+    "country": "Wales",
+    "region": "Conwy",
+    "coord": [
+      -3.9083,
+      53.0527
+    ],
+    "classification": "welsh-native",
+    "built": "c.1210/1240",
+    "condition": "ruin",
+    "summary": "Welsh princes' castle captured by Edward I's forces in January 1283.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-y-bere",
+    "name": "Castell y Bere",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "coord": [
+      -3.9733,
+      52.6582
+    ],
+    "classification": "welsh-native",
+    "built": "c.1221",
+    "controlChanges": [
+      {
+        "date": "1283-04-25",
+        "from": "Dafydd ap Gruffudd's garrison",
+        "to": "English Crown",
+        "description": "Surrendered to English forces under William de Valence.",
+        "eventId": "evt-y-bere-1283"
+      }
+    ],
+    "condition": "ruin",
+    "summary": "Built by Llywelyn ab Iorwerth; the last Welsh-held castle of the 1282–83 war apart from Dafydd's refuges.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-dinefwr",
+    "name": "Dinefwr Castle",
+    "country": "Wales",
+    "region": "Carmarthenshire",
+    "coord": [
+      -4.0186,
+      51.8781
+    ],
+    "classification": "welsh-native",
+    "built": "c.1220s",
+    "condition": "ruin",
+    "summary": "Chief seat of the princes of Deheubarth; taken by the English in 1277.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-carreg-cennen",
+    "name": "Carreg Cennen Castle",
+    "country": "Wales",
+    "region": "Carmarthenshire",
+    "coord": [
+      -3.9354,
+      51.8543
+    ],
+    "classification": "enclosure",
+    "built": "c.1280s",
+    "endOfUse": {
+      "date": "1462",
+      "kind": "slighted",
+      "note": "Dismantled by Yorkists after its Lancastrian garrison surrendered."
+    },
+    "condition": "ruin",
+    "summary": "Clifftop castle besieged by Glyndŵr (1403) and slighted in the Wars of the Roses.",
+    "sources": [
+      "src-cadw",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-kidwelly",
+    "name": "Kidwelly Castle",
+    "altNames": [
+      "Castell Cydweli"
+    ],
+    "country": "Wales",
+    "region": "Carmarthenshire",
+    "coord": [
+      -4.3053,
+      51.7391
+    ],
+    "classification": "concentric",
+    "built": "1106",
+    "condition": "ruin",
+    "summary": "Founded by Roger, bishop of Salisbury; near here Gwenllian ferch Gruffydd was killed leading a Welsh force in 1136.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-cardiff",
+    "name": "Cardiff Castle",
+    "altNames": [
+      "Castell Caerdydd"
+    ],
+    "country": "Wales",
+    "region": "Glamorgan",
+    "coord": [
+      -3.1812,
+      51.4822
+    ],
+    "classification": "motte-and-bailey",
+    "built": "c.1081/1091",
+    "condition": "altered-in-use",
+    "summary": "Norman motte within a Roman fort; Robert Curthose was imprisoned here until his death in 1134.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-raglan",
+    "name": "Raglan Castle",
+    "country": "Wales",
+    "region": "Monmouthshire",
+    "coord": [
+      -2.8502,
+      51.7704
+    ],
+    "classification": "fortified-manor",
+    "built": "1435",
+    "endOfUse": {
+      "date": "1646",
+      "kind": "slighted",
+      "note": "Slighted after surrendering to Parliament in August 1646."
+    },
+    "condition": "ruin",
+    "summary": "Late medieval castle of the Herberts and Somersets; one of the last royalist strongholds of the first Civil War.",
+    "sources": [
+      "src-cadw",
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-denbigh",
+    "name": "Denbigh Castle",
+    "altNames": [
+      "Castell Dinbych"
+    ],
+    "country": "Wales",
+    "region": "Denbighshire",
+    "coord": [
+      -3.4205,
+      53.1797
+    ],
+    "classification": "enclosure",
+    "built": "1282",
+    "condition": "ruin",
+    "summary": "Built for Henry de Lacy after the conquest; captured in Madog's revolt (1294) and surrendered to Parliament in 1646.",
+    "sources": [
+      "src-cadw",
+      "src-taylor-welsh-castles"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-montgomery",
+    "name": "Montgomery Castle",
+    "altNames": [
+      "Castell Trefaldwyn"
+    ],
+    "country": "Wales",
+    "region": "Powys",
+    "coord": [
+      -3.1503,
+      52.5617
+    ],
+    "classification": "enclosure",
+    "built": "1223",
+    "endOfUse": {
+      "date": "1649",
+      "kind": "demolished"
+    },
+    "condition": "ruin",
+    "summary": "Royal castle built for Henry III; the Treaty of Montgomery (1267) was agreed nearby, and a Civil War battle was fought below it in 1644.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-ruthin",
+    "name": "Ruthin Castle",
+    "country": "Wales",
+    "region": "Denbighshire",
+    "coord": [
+      -3.3106,
+      53.1124
+    ],
+    "classification": "enclosure",
+    "built": "1277",
+    "condition": "altered-in-use",
+    "summary": "Grey family castle; Glyndŵr's attack on Ruthin in September 1400 began his revolt.",
+    "sources": [
+      "src-cadw",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-cardigan",
+    "name": "Cardigan Castle",
+    "altNames": [
+      "Castell Aberteifi"
+    ],
+    "country": "Wales",
+    "region": "Ceredigion",
+    "coord": [
+      -4.6609,
+      52.0812
+    ],
+    "classification": "enclosure",
+    "built": "c.1110",
+    "condition": "altered-in-use",
+    "summary": "Taken by the Lord Rhys in 1166; site of his great assembly of poets and musicians in 1176.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-manorbier",
+    "name": "Manorbier Castle",
+    "country": "Wales",
+    "region": "Pembrokeshire",
+    "coord": [
+      -4.7988,
+      51.6449
+    ],
+    "classification": "enclosure",
+    "built": "12C",
+    "condition": "ruin",
+    "summary": "Birthplace of Gerald of Wales (c.1146), who described it as the pleasantest spot in Wales.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "castle-cilgerran",
+    "name": "Cilgerran Castle",
+    "country": "Wales",
+    "region": "Pembrokeshire",
+    "coord": [
+      -4.6337,
+      52.0566
+    ],
+    "classification": "enclosure",
+    "built": "c.1110s",
+    "condition": "ruin",
+    "summary": "Gorge-side castle taken by the Lord Rhys in 1165 and recaptured by William Marshal the younger in 1223.",
+    "sources": [
+      "src-cadw",
+      "src-davies-conquest"
+    ],
+    "confidence": "medium"
+  }
+]

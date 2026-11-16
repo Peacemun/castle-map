@@ -1,0 +1,538 @@
+wikidata,name,year,type,lon,lat,action,matched curated id
+Q4582489,Battle of Mount Tumbledown,1982,,-57.9675,-51.696388888,excluded: outside Great Britain,
+Q4590555,Battle of Loudoun Hill,1307,battle,-4.21068,55.60926,matched to curated record,evt-loudoun-hill-1307
+Q4677183,Action at Lanark,1297,battle,-3.777,55.6749,matched to curated record,evt-lanark-1297
+Q4677411,Action off Lerwick,1917,,1.1,60.01666667,excluded: outside Great Britain,
+Q4817987,Attack on Ballygawley barracks,1985,,-7.03056,54.4625,excluded: outside Great Britain,
+Q4870137,Battle at Springmartin,1972,,-5.98722,54.5947,excluded: outside Great Britain,
+Q4870208,Battle of Aberconwy,1194,battle,-3.828,53.282,imported,evt-wd-battle-of-aberconwy-1194
+Q4870256,Battle of Aldbourne Chase,1643,battle,-1.677,51.477,imported,evt-wd-battle-of-aldbourne-chase-1643
+Q4870257,Battle of Aldy Charrish,1487,battle,-4.55972222,57.94166667,imported,evt-wd-battle-of-aldy-charrish-1487
+Q4870269,Battle of Alltan-Beath,1542,battle,-4.116,58.031,imported,evt-wd-battle-of-alltan-beath-1542
+Q4870275,Battle of Alnwick,1174,battle,-1.71722222,55.41666667,matched to curated record,evt-alnwick-1174
+Q4870280,Battle of Altimarlach,1680,battle,-3.147,58.456,imported,evt-wd-battle-of-altimarlach-1680
+Q4870281,Battle of Alton,1643,battle,-0.975833333,51.151111111,imported,evt-wd-battle-of-alton-1643
+Q4870310,Battle of Annan,1332,battle,-3.242,54.99,imported,evt-wd-battle-of-annan-1332
+Q4870311,Battle of Annan Moor,1645,battle,-3.242,54.99,imported,evt-wd-battle-of-annan-moor-1645
+Q4870313,Battle of Antrim,1798,,-6.231,54.722,excluded: outside Great Britain,
+Q4870364,Battle of Aura,1583,,-6.21666667,55.08333333,excluded: outside Great Britain,
+Q4870370,Battle of Aylesbury,1642,battle,-0.814722222,51.829972222,imported,evt-wd-battle-of-aylesbury-1642
+Q4870423,Battle of Barry,1010,battle,-2.7083,56.5011,imported,evt-wd-battle-of-barry-1010
+Q4870435,Battle of Bealach nam Broig,1299,battle,-4.65111111,57.70083333,imported,evt-wd-battle-of-bealach-nam-broig-1299
+Q4870492,Battle of Blackpool Sands,1404,battle,-3.60944444,50.31944444,imported,evt-wd-battle-of-blackpool-sands-1404
+Q4870496,Battle of Blar Na Pairce,1480,battle,-4.55361111,57.57666667,imported,evt-wd-battle-of-blar-na-pairce-1480
+Q4870500,Battle of Bloody Bay,1480,battle,-6.11666667,56.65,imported,evt-wd-battle-of-bloody-bay-1480
+Q4870511,Battle of Boldon Hill,1644,battle,-1.436,54.946,imported,evt-wd-battle-of-boldon-hill-1644
+Q4870514,Battle of Bonchurch,1545,battle,-1.19873056,50.60346111,imported,evt-wd-battle-of-bonchurch-1545
+Q4870526,Battle of Boroughmuir,1335,battle,-3.18333333,55.93333333,imported,evt-wd-battle-of-boroughmuir-1335
+Q4870542,Battle of Braddock Down,1643,battle,-4.56722222,50.41416667,matched to curated record,evt-braddock-down-1643
+Q4870548,Battle of Brentford,1642,battle,-0.30944444,51.47833333,imported,evt-wd-battle-of-brentford-1642
+Q233416,Second Battle of St Albans,1461,battle,-0.33611111,51.755,matched to curated record,evt-st-albans-1461
+Q281013,Battle of Monmouth,1233,battle,-2.725,51.813,imported,evt-wd-battle-of-monmouth-1233
+Q281089,Battle of Ludford Bridge,1459,battle,-2.718888888,52.36375,matched to curated record,evt-ludford-1459
+Q281648,Battle of Dupplin Moor,1332,battle,-3.56,56.36,matched to curated record,evt-dupplin-1332
+Q282262,Battle of Cromdale,1690,battle,-3.48916667,57.33166667,matched to curated record,evt-cromdale-1690
+Q288345,Battle of Lincoln,1141,battle,-0.555,53.235,matched to curated record,evt-lincoln-1141
+Q1968883,Battle of Methven,1306,battle,-3.58201,56.42014,matched to curated record,evt-methven-1306
+Q1973800,Battle of the Yellow Ford,1598,,-6.945,54.384,excluded: outside Great Britain,
+Q1985934,Battle of Winchelsea,1350,battle,0.81,50.88,imported,evt-wd-battle-of-winchelsea-1350
+Q2003416,Battle of Portland,1653,,-2.5,50.4,excluded: outside Great Britain,
+Q4870579,Battle of Bryn Derwin,1255,battle,-4.29,52.99,imported,evt-wd-battle-of-bryn-derwin-1255
+Q4870592,Battle of Bun Garbhain,1570,battle,-5.318,56.846,imported,evt-wd-battle-of-bun-garbhain-1570
+Q4870598,Battle of Burton Bridge,1643,battle,-1.6238,52.8067,imported,evt-wd-battle-of-burton-bridge-1643
+Q4870596,Battle of Burton Bridge,1322,battle,-1.6238,52.8067,imported,evt-wd-battle-of-burton-bridge-1322
+Q4870622,Battle of Camp Hill,1643,battle,-1.879,52.471,imported,evt-wd-battle-of-camp-hill-1643
+Q4870655,Battle of Carinish,1601,battle,-7.3158,57.5225,imported,evt-wd-battle-of-carinish-1601
+Q4870662,Battle of Carrickfergus,1760,,-5.80629,54.71345,excluded: outside Great Britain,
+Q4870677,Battle of Castlehaven,1601,,-9.176331,51.512375,excluded: outside Great Britain,
+Q4870706,Battle of Champions,1478,battle,-3.08472,58.475,imported,evt-wd-battle-of-champions-1478
+Q4870756,Battle of Clachnaharry,1454,battle,-4.25972222,57.48833333,imported,evt-wd-battle-of-clachnaharry-1454
+Q4870773,Battle of Coire Na Creiche,1601,battle,-6.25278,57.2483,imported,evt-wd-battle-of-coire-na-creiche-1601
+Q4870784,Battle of Connor,1315,,-6.13,54.48,excluded: outside Great Britain,
+Q4870791,Battle of Corpach,1470,battle,-5.11666667,56.84138889,imported,evt-wd-battle-of-corpach-1470
+Q4870792,Battle of Corrichie,1562,battle,-2.444,57.1018,imported,evt-wd-battle-of-corrichie-1562
+Q4870802,Battle of Craibstone,1571,battle,-2.207,57.189,imported,evt-wd-battle-of-craibstone-1571
+Q4870800,Battle of Craig Cailloc,1441,battle,-3.878,56.987,imported,evt-wd-battle-of-craig-cailloc-1441
+Q4870809,Battle of Crogen,1165,battle,-3.104,52.939,matched to curated record,evt-crogen-1165
+Q4870832,Battle of Dalnaspidal,1654,battle,-4.223,56.832,imported,evt-wd-battle-of-dalnaspidal-1654
+Q4870837,Battle of Dalrigh,1306,battle,-4.68777778,56.42361111,imported,evt-wd-battle-of-dalrigh-1306
+Q4870840,Battle of Danes Moor,1469,battle,-1.24722,52.1144,matched to curated record,evt-edgecote-1469
+Q4870878,Battle of Dingwall,1411,battle,-4.428,57.597,imported,evt-wd-battle-of-dingwall-1411
+Q4870923,Battle of Drumchatt,1497,battle,-4.51666667,57.58333333,imported,evt-wd-battle-of-drumchatt-1497
+Q4870925,Battle of Drumlui,1330,battle,-5.17972222,56.92055556,imported,evt-wd-battle-of-drumlui-1330
+Q4870928,Battle of Drumclog,1679,battle,-4.18459,55.63168,imported,evt-wd-battle-of-drumclog-1679
+Q4870929,Battle of Drumnacoub,1301,battle,-4.45,58.4333,imported,evt-wd-battle-of-drumnacoub-1301
+Q4870936,Battle of Dunaverty,1647,battle,-5.64472222,55.3075,imported,evt-wd-battle-of-dunaverty-1647
+Q4870937,Battle of Duns,1372,battle,-2.352,55.77,imported,evt-wd-battle-of-duns-1372
+Q4870992,Battle of Ewloe,1157,battle,-3.068,53.199,matched to curated record,evt-ewloe-1157
+Q4871072,Battle of Gainsborough,1643,battle,-0.753,53.379,imported,evt-wd-battle-of-gainsborough-1643
+Q4871106,Battle of Glasgow,1544,battle,-4.23444444,55.86297222,imported,evt-wd-battle-of-glasgow-1544
+Q4871105,Battle of Glasgow,1560,battle,-4.23444444,55.86297222,imported,evt-wd-battle-of-glasgow-1560
+Q4871110,Battle of Glenlivet,1594,battle,-3.251002,57.348964,matched to curated record,evt-glenlivet-1594
+Q4871112,Battle of Glen Trool,1307,battle,-4.487,55.09,matched to curated record,evt-glen-trool-1307
+Q4871113,Battle of Glentaisie,1565,,-6.26666667,55.18333333,excluded: outside Great Britain,
+Q4871136,Battle of Graveney Marsh,1940,battle,0.958887,51.343938,imported,evt-wd-battle-of-graveney-marsh-1940
+Q4871191,Battle of Harpsdale,1426,battle,-3.51666667,58.48333333,imported,evt-wd-battle-of-harpsdale-1426
+Q4871209,Battle of Heptonstall,1643,battle,-2.013333333,53.742027777,imported,evt-wd-battle-of-heptonstall-1643
+Q4871213,Battle of Hieton,1650,battle,-4.03885,55.77681,imported,evt-wd-battle-of-hieton-1650
+Q4871276,Battle of Inverlochy,1431,battle,-5.085,56.83138889,imported,evt-wd-battle-of-inverlochy-1431
+Q4871277,Battle of Invernahavon,1386,battle,-4.16,57.03888889,imported,evt-wd-battle-of-invernahavon-1386
+Q4871283,Battle of Inverurie,1745,battle,-2.378,57.282,imported,evt-wd-battle-of-inverurie-1745
+Q4871281,Battle of Inverurie,1308,battle,-2.318,57.335,imported,evt-wd-battle-of-inverurie-1308
+Q4871444,Battle of Kings Norton,1642,battle,-1.9272,52.4072,imported,evt-wd-battle-of-kings-norton-1642
+Q4871462,Battle of Knock Mary,1511,battle,-3.8625,56.38944444,imported,evt-wd-battle-of-knock-mary-1511
+Q4871524,Battle of Lagganmore,1646,battle,-5.482,56.324,imported,evt-wd-battle-of-lagganmore-1646
+Q4871547,Battle of Leckmelm,1586,battle,-5.0939,57.869,imported,evt-wd-battle-of-leckmelm-1586
+Q7509907,Siege of Carlisle,1745,siege,-2.95,54.883333333,matched to curated record,evt-carlisle-1745
+Q7509905,Siege of Carlisle,1644,siege,-2.934,54.895,imported,evt-wd-siege-of-carlisle-1644
+Q7509910,Siege of Carlisle,1745,siege,-2.95,54.883333333,matched to curated record,evt-carlisle-1745
+Q7509918,Siege of Charlemont,1650,,-6.654444,54.349444,excluded: outside Great Britain,
+Q7509929,Siege of Chester,1645,siege,-2.89,53.19,imported,evt-wd-siege-of-chester-1645
+Q7509995,Siege of Exeter,1068,battle,-3.529722222,50.725833333,matched to curated record,evt-exeter-1068
+Q7510004,Siege of Fort Augustus,1745,siege,-4.68066,57.1432,imported,evt-wd-siege-of-fort-augustus-1745
+Q7510005,Siege of Fort Augustus,1746,siege,-4.68066,57.1432,imported,evt-wd-siege-of-fort-augustus-1746
+Q7510033,Siege of Fort William,1746,siege,-5.109722222,56.816944444,imported,evt-wd-siege-of-fort-william-1746
+Q7510051,Siege of Gloucester,1643,siege,-2.2438,51.864,matched to curated record,evt-gloucester-1643
+Q7510065,Siege of Haddington,1548,siege,-2.78332,55.95612,imported,evt-wd-siege-of-haddington-1548
+Q7510083,Siege of High Ercall Hall,1645,siege,-2.60277778,52.75277778,imported,evt-wd-siege-of-high-ercall-hall-1645
+Q7510090,Siege of Hull,1642,siege,-0.332,53.744,imported,evt-wd-siege-of-hull-1642
+Q7510091,Siege of Hull,1643,siege,-0.332,53.744,imported,evt-wd-siege-of-hull-1643
+Q7510098,Siege of Inverness,1649,siege,-4.2253,57.4764,imported,evt-wd-siege-of-inverness-1649
+Q7510099,Siege of Inverness,1562,siege,-4.2255,57.47631,imported,evt-wd-siege-of-inverness-1562
+Q7510102,Siege of Inverness,1689,siege,-4.225833333,57.483888888,imported,evt-wd-siege-of-inverness-1689
+Q7510103,Siege of Inverness,1715,siege,-4.2254,57.4765,imported,evt-wd-siege-of-inverness-1715
+Q7510100,Siege of Inverness,1650,siege,-4.225833333,57.483888888,imported,evt-wd-siege-of-inverness-1650
+Q7510105,Siege of Inverness,1746,siege,-4.225277777,57.476111111,imported,evt-wd-siege-of-inverness-1746
+Q7510183,Siege of Lathom House,1645,siege,-2.82,53.59,imported,evt-wd-siege-of-lathom-house-1645
+Q7510186,Siege of Leith,1560,siege,-3.172,55.974,matched to curated record,evt-leith-1560
+Q7510197,Siege of Lincoln,1644,siege,-0.55,53.25,imported,evt-wd-siege-of-lincoln-1644
+Q7510269,Siege of Newcastle,1644,siege,-1.613333333,54.977777777,imported,evt-wd-siege-of-newcastle-1644
+Q7510289,Siege of Oxford,1644,siege,-1.26,51.75,imported,evt-wd-siege-of-oxford-1644
+Q7510300,Siege of Pembroke,1648,battle,-4.92063,51.67679,matched to curated record,evt-pembroke-1648
+Q7510327,Siege of Portsmouth,1642,siege,-1.087222222,50.805833333,imported,evt-wd-siege-of-portsmouth-1642
+Q7510338,Siege of Reading,1642,siege,-0.973055555,51.454166666,imported,evt-wd-siege-of-reading-1642
+Q7510352,Siege of Roxburgh Castle,1314,siege,-2.457,55.596,matched to curated record,evt-roxburgh-1314
+Q7510412,Siege of Smerwick,1580,,-10.420530555,52.188141666,excluded: outside Great Britain,
+Q7510418,Siege of St Andrews Castle,1546,siege,-2.798888888,56.338888888,matched to curated record,evt-st-andrews-1546
+Q7510444,Sieges of Taunton,1644,siege,-3.1,51.019,imported,evt-wd-sieges-of-taunton-1644
+Q7510525,Siege of York,1644,siege,-1.083333333,53.95,imported,evt-wd-siege-of-york-1644
+Q7533172,Sixth Siege of Gibraltar,1411,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q7598043,Stand-off at the Fords of Arkaig,1665,battle,-5.00139,56.9514,imported,evt-wd-stand-off-at-the-fords-of-arkaig-1665
+Q7784955,Third Siege of Gibraltar,1333,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q1518787,Battle of Moore's Creek Bridge,1776,,-78.109722222,34.457777777,excluded: outside Great Britain,
+Q1576717,Battle of Dungeness,1652,battle,0.994166666,50.997777777,imported,evt-wd-battle-of-dungeness-1652
+Q1613521,Battle of Roslin,1303,battle,-3.16666667,55.85,matched to curated record,evt-roslin-1303
+Q1635231,Battle of Hexham,1464,battle,-2.1,54.97,matched to curated record,evt-hexham-1464
+Q1648673,Battle of Otterburn,1388,battle,-2.194722222,55.236944444,matched to curated record,evt-otterburn-1388
+Q1692857,Battle of Losecoat Field,1470,battle,-0.536111111,52.686111111,matched to curated record,evt-losecoat-1470
+Q1704268,Battle of Assandun,1016,battle,0.6948,51.6028,matched to curated record,evt-assandun-1016
+Q1748450,Battle of Hedgeley Moor,1464,battle,-1.924,55.471,matched to curated record,evt-hedgeley-moor-1464
+Q2889732,Battle of Radcot Bridge,1387,battle,-1.589,51.6931,imported,evt-wd-battle-of-radcot-bridge-1387
+Q2889890,Battle of St Matthew's,1970,,-5.905983,54.5992,excluded: outside Great Britain,
+Q2890025,Battle of Solway Moss,1542,battle,-3.02574,55.01122,matched to curated record,evt-solway-moss-1542
+Q2890741,Battle of the Bogside,1969,,-7.32722,54.9978,excluded: outside Great Britain,
+Q2890852,Action of 2 May 1707,1707,battle,0.24210556,50.73896944,imported,evt-wd-action-of-2-may-1707-1707
+Q2890859,Battle at The Lizard,1707,battle,-5.2096,49.9535,imported,evt-wd-battle-at-the-lizard-1707
+Q3195891,Battle of Alnwick,1093,battle,-1.7005,55.4262,matched to curated record,evt-alnwick-1093
+Q3399475,Battle of St Fagans,1648,battle,-3.27309,51.48593,matched to curated record,evt-st-fagans-1648
+Q3401002,Battle of Cadfan,1257,battle,-3.995,51.884,imported,evt-wd-battle-of-cadfan-1257
+Q3403450,Battle of Mechain,1069,battle,-3.204,52.776,imported,evt-wd-battle-of-mechain-1069
+Q3406467,Battle of Pwll Melyn,1405,battle,-2.954,51.718,matched to curated record,evt-pwll-melyn-1405
+Q3406664,Battle of Maes Moydog,1295,battle,-3.324,52.649,matched to curated record,evt-maes-moydog-1295
+Q3625487,Siege of Kenilworth,1266,siege,-1.58978,52.3464,matched to curated record,evt-kenilworth-1266
+Q3636244,Battle of the Pass of Brander,1308,battle,-5.18027778,56.41305556,matched to curated record,evt-brander-1308
+Q3636352,Battle of Brentford,1016,battle,-0.30694444,51.47861111,imported,evt-wd-battle-of-brentford-1016
+Q3636383,Battle of Chalgrove Field,1643,battle,-1.07,51.67,imported,evt-wd-battle-of-chalgrove-field-1643
+Q3636411,Battle of Crug Mawr,1136,battle,-4.621,52.096,matched to curated record,evt-crug-mawr-1136
+Q3636451,Battle of Glen Fruin,1603,battle,-4.76972222,56.06638889,matched to curated record,evt-glen-fruin-1603
+Q3636587,Battle of Preston,1715,battle,-2.701,53.754,matched to curated record,evt-preston-1715
+Q3756324,Siege of Fort St Philip,1756,,4.30569,39.8653,excluded: outside Great Britain,
+Q3775989,Battle of Sauchieburn,1488,battle,-3.91666667,56.06666667,matched to curated record,evt-sauchieburn-1488
+Q3776135,Siege of Derry,1689,,-7.326,54.994,excluded: outside Great Britain,
+Q4054691,Battle of Aberdeen,1644,battle,-2.10668,57.14101,matched to curated record,evt-aberdeen-1644
+Q4087408,Battle of Alford,1645,battle,-2.72388889,57.23805556,matched to curated record,evt-alford-1645
+Q4087424,Battle of Inverlochy,1645,battle,-5.079,56.831,matched to curated record,evt-inverlochy-1645
+Q4087431,Battle of Carbisdale,1650,battle,-4.4175,57.9175,matched to curated record,evt-carbisdale-1650
+Q4087434,Battle of Kilsyth,1645,battle,-4.01885,55.98427,matched to curated record,evt-kilsyth-1645
+Q4087439,Battle of Langside,1568,battle,-4.27056,55.8277,matched to curated record,evt-langside-1568
+Q4087452,Battle of Auldearn,1645,battle,-3.81194444,57.57638889,matched to curated record,evt-auldearn-1645
+Q4087460,Battle of Renfrew,1164,battle,-4.402,55.861,imported,evt-wd-battle-of-renfrew-1164
+Q4087468,Battle of Sandwich (1460),1460,battle,1.427,51.275,imported,evt-wd-battle-of-sandwich-1460-1460
+Q4087469,Battle of Tippermuir,1644,battle,-3.54,56.395555555,matched to curated record,evt-tippermuir-1644
+Q4087476,Battle of Philiphaugh,1645,battle,-2.8857,55.5398,matched to curated record,evt-philiphaugh-1645
+Q581401,Battle of Blore Heath,1459,battle,-2.424722222,52.913611111,matched to curated record,evt-blore-heath-1459
+Q586189,Battle of Powick Bridge,1642,battle,-2.2425,52.170277777,imported,evt-wd-battle-of-powick-bridge-1642
+Q589318,Battle of Falkirk,1298,battle,-3.76,55.9875,matched to curated record,evt-falkirk-1298
+Q592927,Battle of Goodwin Sands,1652,battle,1.508,51.274,imported,evt-wd-battle-of-goodwin-sands-1652
+Q598069,Battle of Homildon Hill,1402,battle,-2.052,55.559,matched to curated record,evt-homildon-1402
+Q620585,Battle of Mortimer's Cross,1461,battle,-2.869166666,52.318611111,matched to curated record,evt-mortimers-cross-1461
+Q622539,Siege of Galway,1651,,-9.041666666,53.272777777,excluded: outside Great Britain,
+Q630992,Battle of Stratton,1643,battle,-4.519,50.836,matched to curated record,evt-stratton-1643
+Q634629,Battle of Towton,1461,battle,-1.268333333,53.839722222,matched to curated record,evt-towton-1461
+Q645776,Battle of Dublin,1922,,-6.266111,53.342778,excluded: outside Great Britain,
+Q651919,Battle of Culloden,1746,battle,-4.0925,57.477222222,matched to curated record,evt-culloden-1746
+Q675324,Battle of Wigan Lane,1651,battle,-2.63,53.57,imported,evt-wd-battle-of-wigan-lane-1651
+Q675999,Battle of the Downs,1639,battle,1.5,51.2,imported,evt-wd-battle-of-the-downs-1639
+Q2016351,Battle of Stirling,1648,battle,-3.946,56.123,imported,evt-wd-battle-of-stirling-1648
+Q2031282,Second Battle of Newbury,1644,battle,-1.335,51.414,matched to curated record,evt-newbury-1643
+Q2058454,First Battle of Newbury,1643,battle,-1.340277777,51.382222222,matched to curated record,evt-newbury-1643
+Q2096337,Battle of Bantry Bay,1689,,-9.71666667,51.65,excluded: outside Great Britain,
+Q2097266,Battle of Largs,1263,battle,-4.867777777,55.7925,matched to curated record,evt-largs-1263
+Q2113036,Expédition d'Irlande,1796,,-9.8,51.6,excluded: outside Great Britain,
+Q2139756,Battle of Bryn Glas,1402,battle,-3.09703,52.30681,matched to curated record,evt-bryn-glas-1402
+Q2164009,Battle of Lewes,1264,battle,-0.013888888,50.878611111,matched to curated record,evt-lewes-1264
+Q4924393,Siege of Colchester,1648,siege,0.9,51.89,matched to curated record,evt-colchester-1648
+Q4930640,Bluff Cove Air Attacks,1982,,-58.218888888,-51.799166666,excluded: outside Great Britain,
+Q4940204,Bolton Massacre,1644,battle,-2.43,53.578333333,matched to curated record,evt-bolton-1644
+Q5036985,Capture of Berwick,1296,battle,-2.013,55.775,matched to curated record,evt-berwick-1296
+Q5036988,Capture of Berwick,1318,battle,-2,55.766666666,matched to curated record,evt-berwick-1318
+Q5036989,Capture of Berwick,1482,siege,-2,55.766666666,imported,evt-wd-capture-of-berwick-1482
+Q5037027,Capture of London,1326,rebellion,-0.0922,51.5155,imported,evt-wd-capture-of-london-1326
+Q5037052,Capture of Roxburgh,1460,siege,-2.4566,55.5966,matched to curated record,evt-roxburgh-1460
+Q5130585,Cleanse the Causeway,1520,battle,-3.188333,55.95,imported,evt-wd-cleanse-the-causeway-1520
+Q5137071,Clydebank Blitz,1941,battle,-4.4006,55.8997,matched to curated record,evt-clydebank-1941
+Q5180273,Battle of Weymouth,1645,battle,-2.4553,50.6075,imported,evt-wd-battle-of-weymouth-1645
+Q5315640,Dunoon Massacre,1646,massacre,-4.9257,55.946,imported,evt-wd-dunoon-massacre-1646
+Q5349120,Eighth siege of Gibraltar,1462,,-5.345964,36.155341,excluded: outside Great Britain,
+Q5447551,Fifth Siege of Gibraltar,1349,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q5452499,First Battle of Alton,1001,battle,-0.975,51.151,imported,evt-wd-first-battle-of-alton-1001
+Q5452523,First Battle of Middlewich,1643,battle,-2.44457,53.19266,imported,evt-wd-first-battle-of-middlewich-1643
+Q5476164,Fourth Siege of Gibraltar,1333,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q5599959,Great Siege of Scarborough Castle,1645,siege,-0.388,54.287,imported,evt-wd-great-siege-of-scarborough-castle-1645
+Q6784483,Massacre of Monzievaird,1490,massacre,-3.8625,56.389444444,imported,evt-wd-massacre-of-monzievaird-1490
+Q6784486,Massacre of Tranent,1797,massacre,-2.95444,55.9372,imported,evt-wd-massacre-of-tranent-1797
+Q7039234,Ninth Siege of Gibraltar,1466,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q7311097,Relief of Montgomery Castle,1644,battle,-3.15061,52.56253,matched to curated record,evt-montgomery-1644
+Q7416937,Sandside Chase,1437,battle,-3.78694444,58.56333333,imported,evt-wd-sandside-chase-1437
+Q7443098,Second Battle of Middlewich,1643,battle,-2.445,53.193,imported,evt-wd-second-battle-of-middlewich-1643
+Q7443529,Second Siege of Gibraltar,1315,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q17984866,Siege of Ruthven Barracks,1745,siege,-4.04408,57.0678,imported,evt-wd-siege-of-ruthven-barracks-1745
+Q17984869,Siege of Ruthven Barracks,1746,siege,-4.04408,57.0678,imported,evt-wd-siege-of-ruthven-barracks-1746
+Q20712873,Siege of Lyme Regis,1644,siege,-2.94,50.725,imported,evt-wd-siege-of-lyme-regis-1644
+Q21003964,Siege of Stirling Castle,1746,siege,-3.9369,56.1166,imported,evt-wd-siege-of-stirling-castle-1746
+Q21008775,Siege of Carrickfergus,1689,,-5.809,54.716,excluded: outside Great Britain,
+Q21187143,Battle of the Ford of the Biscuits,1594,,-7.639,54.277,excluded: outside Great Britain,
+Q326417,Battle of Marston Moor,1644,battle,-1.254166666,53.962222222,matched to curated record,evt-marston-moor-1644
+Q331740,Raid on the Medway,1667,battle,0.531944,51.4039,imported,evt-wd-raid-on-the-medway-1667
+Q370706,Iranian Embassy Siege,1980,siege,-0.172361111,51.501527777,imported,evt-wd-iranian-embassy-siege-1980
+Q474052,Siege of Carrigafoyle Castle,1580,,-9.495,52.569,excluded: outside Great Britain,
+Q489057,Battle of Carrickfergus,1597,,-5.806,54.713,excluded: outside Great Britain,
+Q493609,Battle of Scarrifholis,1650,,-7.799514,54.932431,excluded: outside Great Britain,
+Q499626,Battle of Stirling Bridge,1297,battle,-3.935,56.13,matched to curated record,evt-stirling-bridge-1297
+Q4871546,Battle of Leeds,1643,battle,-1.5424,53.7969,imported,evt-wd-battle-of-leeds-1643
+Q4871564,Battle of Linlithgow Bridge,1526,battle,-3.634,55.971,imported,evt-wd-battle-of-linlithgow-bridge-1526
+Q4871575,Battle of Littleferry,1746,battle,-4.00305556,57.96027778,imported,evt-wd-battle-of-littleferry-1746
+Q4871578,Battle of Llwchwr,1136,battle,-4.01019,51.656977,imported,evt-wd-battle-of-llwchwr-1136
+Q4871579,Battle of Llandeilo Fawr,1282,battle,-3.996,51.884,imported,evt-wd-battle-of-llandeilo-fawr-1282
+Q4871583,Battle of Lochmaben Fair,1484,battle,-3.44,55.1289,imported,evt-wd-battle-of-lochmaben-fair-1484
+Q4871580,Battle of Lochaber,1429,battle,-5,57,imported,evt-wd-battle-of-lochaber-1429
+Q4871581,Battle of Loch Ryan,1307,battle,-5.03,54.974,imported,evt-wd-battle-of-loch-ryan-1307
+Q4871586,Battle of Logiebride,1597,battle,-4.451,57.55,imported,evt-wd-battle-of-logiebride-1597
+Q4871603,Battle of Lostwithiel,1644,battle,-4.667,50.408,matched to curated record,evt-lostwithiel-1644
+Q4871606,Battle of Loup Hill,1689,battle,-4.924,56.272,imported,evt-wd-battle-of-loup-hill-1689
+Q4871616,Battle of Lumphanan,1057,battle,-2.70375,57.11974,matched to curated record,evt-lumphanan-1057
+Q4871639,Battle of Maidstone,1648,battle,0.524,51.27,imported,evt-wd-battle-of-maidstone-1648
+Q4871653,Battle of Mam Garvia,1187,battle,-4.428,57.597,imported,evt-wd-battle-of-mam-garvia-1187
+Q4871670,Battle of Mapperley Hills,1842,battle,-1.1357,52.9762,imported,evt-wd-battle-of-mapperley-hills-1842
+Q4871668,Battle of Maol Ruadh,1688,battle,-4.83861111,56.90305556,imported,evt-wd-battle-of-maol-ruadh-1688
+Q4871698,Battle of Mauchline Muir,1648,battle,-4.38022,55.50783,imported,evt-wd-battle-of-mauchline-muir-1648
+Q4871754,Battle of Moel-y-don,1282,battle,-4.154,53.23,matched to curated record,evt-moel-y-don-1282
+Q4871762,Battle of Moiry Pass,1315,,-6.37,54.08,excluded: outside Great Britain,
+Q4871785,Battle of Morar,1602,battle,-5.81666667,56.96666667,imported,evt-wd-battle-of-morar-1602
+Q4871801,Battle of Mount Harriet,1982,,-58.015611111,-51.708833333,excluded: outside Great Britain,
+Q4871814,Battle of Mudeford,1784,battle,-1.741176,50.7249,imported,evt-wd-battle-of-mudeford-1784
+Q4871831,Battle of Mynydd Hyddgen,1401,battle,-3.797,52.506,matched to curated record,evt-hyddgen-1401
+Q4871832,Battle of Myton,1319,battle,-1.3409,54.0956,matched to curated record,evt-myton-1319
+Q4871863,Battle of Nantwich,1644,battle,-2.54445,53.08096,matched to curated record,evt-nantwich-1644
+Q4871876,Battle of Nesbit Moor,1402,battle,-2.29472222,55.75638889,imported,evt-wd-battle-of-nesbit-moor-1402
+Q4871877,Battle of Nesbit Moor,1355,battle,-2.1741,55.4523,imported,evt-wd-battle-of-nesbit-moor-1355
+Q4871895,Battle of Nibley Green,1469,battle,-2.3985,51.66,imported,evt-wd-battle-of-nibley-green-1469
+Q4871892,Battle of Newtownbutler,1689,,-7.366,54.184,excluded: outside Great Britain,
+Q4871910,Battle of North Walsham,1381,battle,1.3725,52.804166666,imported,evt-wd-battle-of-north-walsham-1381
+Q4871912,Battle of Northampton,1264,battle,-0.905,52.237,matched to curated record,evt-northampton-1264
+Q4871940,Battle of Olney Bridge,1643,battle,-0.70314,52.14938,imported,evt-wd-battle-of-olney-bridge-1643
+Q4872047,Battle of Piperdean,1436,battle,-2.301667,55.920556,imported,evt-wd-battle-of-piperdean-1436
+Q4872044,Battle of Pinhoe,1001,battle,-3.477244,50.743336,imported,evt-wd-battle-of-pinhoe-1001
+Q4872172,Battle of Red Ford,1294,battle,-5.211,56.3073,imported,evt-wd-battle-of-red-ford-1294
+Q4872178,Battle of Rhunahaorine Moss,1647,battle,-5.646,55.677,imported,evt-wd-battle-of-rhunahaorine-moss-1647
+Q4872183,Battle of Ringmere,1010,battle,1.35,52.816666666,matched to curated record,evt-ringmere-1010
+Q4872207,Battle of Rowton Heath,1645,battle,-2.828333333,53.1725,matched to curated record,evt-rowton-heath-1645
+Q4872215,Battle of Rullion Green,1666,battle,-3.25505,55.85005,imported,evt-wd-battle-of-rullion-green-1666
+Q4872265,Battle of San Carlos,1982,,-59.07972222,-51.50777778,excluded: outside Great Britain,
+Q4872334,Battle of Seacroft Moor,1643,battle,-1.4,53.85,imported,evt-wd-battle-of-seacroft-moor-1643
+Q4872347,Battle of Selby,1644,battle,-1.07031,53.7818,imported,evt-wd-battle-of-selby-1644
+Q4872390,Battle of Skibo and Strathfleet,1480,battle,-4.06666667,57.95,imported,evt-wd-battle-of-skibo-and-strathfleet-1480
+Q4872388,Battle of Skaithmuir,1316,battle,-2.253,55.686,imported,evt-wd-battle-of-skaithmuir-1316
+Q4872393,Battle of Slioch,1307,battle,-2.731,57.432,imported,evt-wd-battle-of-slioch-1307
+Q4872415,Battle of Sourton Down,1643,battle,-4.06,50.705,imported,evt-wd-battle-of-sourton-down-1643
+Q4872434,Battle of Stanhope Park,1327,battle,-2.11,54.74111111,imported,evt-wd-battle-of-stanhope-park-1327
+Q4872432,Battle of Stalling Down,1403,battle,-3.4179,51.4619,imported,evt-wd-battle-of-stalling-down-1403
+Q4872447,Battle of Stracathro,1130,battle,-2.655,56.741,imported,evt-wd-battle-of-stracathro-1130
+Q4872448,Battle of Stow-on-the-Wold,1646,battle,-1.73034,51.94162,matched to curated record,evt-stow-1646
+Q4872503,Battle of Tannach,1464,battle,-3.14611111,58.41166667,imported,evt-wd-battle-of-tannach-1464
+Q4872508,Battle of Tarbat,1486,battle,-3.81666667,57.83333333,imported,evt-wd-battle-of-tarbat-1486
+Q4872561,Battle of Tipton Green,1644,battle,-2.075,52.531,imported,evt-wd-battle-of-tipton-green-1644
+Q4872579,Battle of Torrington,1646,battle,-4.141,50.953,imported,evt-wd-battle-of-torrington-1646
+Q4872577,Battle of Torran Dubh,1517,battle,-4.179,58.003,imported,evt-wd-battle-of-torran-dubh-1517
+Q4872582,Battle of Tragh-Bhaile,1399,,-6.4049,54.009,excluded: outside Great Britain,
+Q4872584,Battle of Traigh Ghruinneart,1598,battle,-6.355,55.822,imported,evt-wd-battle-of-traigh-ghruinneart-1598
+Q4872603,Battle of Tullich,1652,battle,-3.0454,57.0597,imported,evt-wd-battle-of-tullich-1652
+Q4872600,Battle of Tuiteam Tarbhach,1406,battle,-4.64583333,57.97555556,imported,evt-wd-battle-of-tuiteam-tarbhach-1406
+Q4872609,Battle of Turnberry,1307,battle,-4.83,55.32,imported,evt-wd-battle-of-turnberry-1307
+Q4872612,Battle of Turnham Green,1642,battle,-0.2664,51.4919,imported,evt-wd-battle-of-turnham-green-1642
+Q4872613,Battle of Tuthill,1401,battle,-4.27,53.14,imported,evt-wd-battle-of-tuthill-1401
+Q4872632,Battle of Upton,1651,battle,-2.218,52.065,imported,evt-wd-battle-of-upton-1651
+Q4872711,Battle of Warrington Bridge,1651,battle,-2.5911,53.3856,imported,evt-wd-battle-of-warrington-bridge-1651
+Q4872727,Battle of Wester Kinghorn,1332,battle,-3.231,56.06,imported,evt-wd-battle-of-wester-kinghorn-1332
+Q4872743,Battle of Wireless Ridge,1982,,-57.931944444,-51.670555555,excluded: outside Great Britain,
+Q4872740,Battle of Wilton,1143,battle,-1.864,51.08,matched to curated record,evt-wilton-1143
+Q4872755,Battle of Worksop,1460,battle,-1.1227,53.3096,imported,evt-wd-battle-of-worksop-1460
+Q4872777,Battle of Yeavering,1415,battle,-2.11277778,55.56694444,imported,evt-wd-battle-of-yeavering-1415
+Q4872909,Battle of the Diamond,1795,,-6.6,54.411,excluded: outside Great Britain,
+Q4872973,Battle of the North Inch,1396,battle,-3.43,56.4,imported,evt-wd-battle-of-the-north-inch-1396
+Q4873013,Battle of the Shirts,1544,battle,-4.81888889,57.03027778,imported,evt-wd-battle-of-the-shirts-1544
+Q4873016,Battle of the Spoiling Dyke,1578,battle,-6.22,57.29,imported,evt-wd-battle-of-the-spoiling-dyke-1578
+Q11688184,Battle of Haddon Rig,1542,battle,-2.35,55.6,imported,evt-wd-battle-of-haddon-rig-1542
+Q11688250,Wincanton Skirmish,1688,battle,-2.405,51.058,imported,evt-wd-wincanton-skirmish-1688
+Q11703925,Twelfth Siege of Gibraltar,1704,,-5.35,36.15,excluded: outside Great Britain,
+Q11960495,Siege of Stirling Castle,1304,siege,-3.945,56.124722222,matched to curated record,evt-stirling-1304
+Q13126309,Battle of Bron yr Erw,1075,battle,-4.364,53.02,imported,evt-wd-battle-of-bron-yr-erw-1075
+Q15197184,Battle of Dornock,1333,battle,-3.202,54.984,imported,evt-wd-battle-of-dornock-1333
+Q15197371,Battle of Newry Road,1993,,-6.59111111,54.08472222,excluded: outside Great Britain,
+Q15250634,Massacre of St George's Fields,1768,massacre,-0.105,51.499,imported,evt-wd-massacre-of-st-george-s-fields-1768
+Q15277671,Siege of Carlisle,1315,siege,-2.95,54.883333333,matched to curated record,evt-carlisle-1315
+Q21187149,Siege of Enniskillen,1594,,-7.634061,54.345306,excluded: outside Great Britain,
+Q23018836,Battle of Ripple Field,1643,battle,-2.187,52.042,imported,evt-wd-battle-of-ripple-field-1643
+Q27627904,Battle of Lenadoon,1972,,-6.012694444,54.5752,excluded: outside Great Britain,
+Q27628016,Battle at the Yadkin River,1771,battle,-1.793611111,51.073888888,imported,evt-wd-battle-at-the-yadkin-river-1771
+Q28232890,Battle of Stourbridge Heath,1644,battle,-2.152772,52.451164,imported,evt-wd-battle-of-stourbridge-heath-1644
+Q42377514,Siege of Lichfield,1643,siege,-1.830555555,52.685555555,imported,evt-wd-siege-of-lichfield-1643
+Q48780596,Siege of Worcester,1643,siege,-2.222222222,52.191111111,imported,evt-wd-siege-of-worcester-1643
+Q55887216,Siege of Berwick,1333,siege,-2.0064,55.771,imported,evt-wd-siege-of-berwick-1333
+Q60524541,Siege of Canterbury,1011,siege,1.0775,51.278333333,matched to curated record,evt-canterbury-1011
+Q60543909,Siege of Oxford,1142,siege,-1.257777777,51.751944444,matched to curated record,evt-oxford-1142
+Q60749287,Siege of Culloden House,1745,siege,-4.13525,57.4904,matched to curated record,evt-culloden-1746
+Q65057590,Battle of Oswestry,1644,battle,-3.05524,52.86111,imported,evt-wd-battle-of-oswestry-1644
+Q65067509,Siege of Plymouth,1642,siege,-4.142222222,50.371388888,imported,evt-wd-siege-of-plymouth-1642
+Q65082997,Battle of Belleek,1593,,-8.0961,54.4812,excluded: outside Great Britain,
+Q67001560,Battle of Bovey Heath,1646,battle,-3.666667,50.575556,imported,evt-wd-battle-of-bovey-heath-1646
+Q69922225,Battle of Babylon Hill,1642,battle,-2.595,50.9425,imported,evt-wd-battle-of-babylon-hill-1642
+Q80354932,Battle of the Brig of Dee,1639,battle,-2.12,57.122777777,imported,evt-wd-battle-of-the-brig-of-dee-1639
+Q85745876,Battle of Marshall's Elm,1642,battle,-2.7375,51.106944444,imported,evt-wd-battle-of-marshall-s-elm-1642
+Q85745955,Battle of Winnington Bridge,1644,battle,-2.538381,53.269224,imported,evt-wd-battle-of-winnington-bridge-1644
+Q85801106,Siege of Wardour Castle,1643,siege,-2.088888888,51.036388888,imported,evt-wd-siege-of-wardour-castle-1643
+Q86756750,Battle of Tadcaster,1642,battle,-1.262,53.8852,imported,evt-wd-battle-of-tadcaster-1642
+Q86757147,Battle of Piercebridge,1642,battle,-1.67583,54.5348,imported,evt-wd-battle-of-piercebridge-1642
+Q96373241,Battle of Bramber Bridge,1643,battle,-0.306651,50.882662,imported,evt-wd-battle-of-bramber-bridge-1643
+Q96405650,Siege of Bridgwater,1645,siege,-2.9,51.1,imported,evt-wd-siege-of-bridgwater-1645
+Q97356496,Battle of Denbigh Green,1645,battle,-3.3909,53.1849,imported,evt-wd-battle-of-denbigh-green-1645
+Q104846617,Battle of Y Dalar Hir,1648,battle,-4.058478,53.232598,imported,evt-wd-battle-of-y-dalar-hir-1648
+Q104882444,Siege of the Tower of London,1460,siege,-0.076111111,51.508055555,imported,evt-wd-siege-of-the-tower-of-london-1460
+Q108460025,Battle of Ronas Voe,1674,battle,-1.44667,60.50694,imported,evt-wd-battle-of-ronas-voe-1674
+Q113649166,Battle of Dunsinane,1054,battle,-3.277777777,56.470277777,matched to curated record,evt-dunsinane-1054
+Q113715524,Siege of Wark,1138,siege,-2.28196,55.64162,matched to curated record,evt-wark-1138
+Q116483398,Battle of Winwick,1648,battle,-2.605,53.44,imported,evt-wd-battle-of-winwick-1648
+Q118498823,Siege of Helmsley Castle,1644,siege,-1.0643,54.2448,imported,evt-wd-siege-of-helmsley-castle-1644
+Q126284860,Siege of Durham,1006,siege,-1.575555555,54.775277777,matched to curated record,evt-durham-1006
+Q127698630,Siege of Perth,1339,siege,-3.433333333,56.395833333,imported,evt-wd-siege-of-perth-1339
+Q130386021,Battle of Drumlanrig,1548,battle,-3.81,55.274,imported,evt-wd-battle-of-drumlanrig-1548
+Q906912,Battle of Wakefield,1460,battle,-1.492222222,53.680138888,matched to curated record,evt-wakefield-1460
+Q916295,Battle of Northampton,1460,battle,-0.884166666,52.223055555,matched to curated record,evt-northampton-1460
+Q944506,St. James's Day Battle,1666,battle,1.6,51.367,imported,evt-wd-st-james-s-day-battle-1666
+Q949724,Battle of Naseby,1645,battle,-0.99529,52.41561,matched to curated record,evt-naseby-1645
+Q976820,Battle of Newburn,1640,battle,-1.751388888,54.983333333,matched to curated record,evt-newburn-1640
+Q981031,First Siege of Gibraltar,1309,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q1113659,Battle of Fulford,1066,battle,-1.070833333,53.9325,matched to curated record,evt-fulford-1066
+Q1116626,Battle of Worcester,1651,battle,-2.220833333,52.188888888,matched to curated record,evt-worcester-1651
+Q1134191,Battle of Tory Island,1798,,-8.5,55.3,excluded: outside Great Britain,
+Q1136870,Battle of Sandwich (1217),1217,battle,1.42,51.27027778,matched to curated record,evt-sandwich-1217
+Q1164151,Battle of Hopton Heath,1643,battle,-2.06666667,52.83333333,matched to curated record,evt-hopton-heath-1643
+Q1196554,Battle of Minorca,1756,,4.35,39.89,excluded: outside Great Britain,
+Q1248605,Battle of Beachy Head,1690,battle,0.24768,50.73743,imported,evt-wd-battle-of-beachy-head-1690
+Q1254804,massacre of Glencoe,1692,massacre,-5.056944444,56.6625,matched to curated record,evt-glencoe-1692
+Q1300742,Battle of Flodden,1513,battle,-2.1753,55.62693,matched to curated record,evt-flodden-1513
+Q1337059,Battle of Tewkesbury,1471,battle,-2.161388888,51.986388888,matched to curated record,evt-tewkesbury-1471
+Q1339928,Battle of Evesham,1265,battle,-1.946111111,52.108055555,matched to curated record,evt-evesham-1265
+Q1351207,Battle of Moyry Pass,1600,,-6.385,54.071,excluded: outside Great Britain,
+Q1406897,Battle of Roundway Down,1643,battle,-1.98,51.385,matched to curated record,evt-roundway-down-1643
+Q1406921,Battle of Lansdowne,1643,battle,-2.401,51.4313,matched to curated record,evt-lansdown-1643
+Q1417580,Battle of Falkirk Muir,1746,battle,-3.784,56.001,matched to curated record,evt-falkirk-1746
+Q1428169,Battle of Barnet,1471,battle,-0.198888888,51.665833333,matched to curated record,evt-barnet-1471
+Q1438686,Battle of Plymouth,1652,,-4.21,49.964,excluded: outside Great Britain,
+Q1473857,Rout of Winchester,1141,battle,-1.312523,51.060494,matched to curated record,evt-winchester-1141
+Q1478525,Battle of Edgehill,1642,battle,-1.48416,52.13997,matched to curated record,evt-edgehill-1642
+Q1488817,Battle of Orewin Bridge,1282,battle,-3.4617,52.1519,matched to curated record,evt-orewin-bridge-1282
+Q1495481,Battle of Stoke Field,1487,battle,-0.888,53.035,matched to curated record,evt-stoke-1487
+Q1509663,Battle of Dunbar,1296,battle,-2.52119,55.97692,matched to curated record,evt-dunbar-1296
+Q2737232,Battle of Old Byland,1322,battle,-1.159,54.227,matched to curated record,evt-old-byland-1322
+Q2744242,Battle of Sheriffmuir,1715,battle,-3.91011,56.19524,matched to curated record,evt-sheriffmuir-1715
+Q2781949,Battle of Mynydd Carn,1081,battle,-4.760277,51.764239,matched to curated record,evt-mynydd-carn-1081
+Q2887854,Battle of Ancrum Moor,1545,battle,-2.60758,55.53675,matched to curated record,evt-ancrum-moor-1545
+Q2887887,Battle of Arkinholm,1455,battle,-2.99944444,55.15083333,imported,evt-wd-battle-of-arkinholm-1455
+Q2887993,Battle of Inverkeithing,1651,battle,-3.415833333,56.048055555,matched to curated record,evt-inverkeithing-1651
+Q2888096,Battle of Ballynahinch,1798,,-5.895,54.411,excluded: outside Great Britain,
+Q2888187,Battle of Bothwell Bridge,1679,battle,-4.05777778,55.79583333,imported,evt-wd-battle-of-bothwell-bridge-1679
+Q2888197,Battle of Bramham Moor,1408,battle,-1.34138889,53.86444444,imported,evt-wd-battle-of-bramham-moor-1408
+Q2888317,Battle of Clitheroe,1138,battle,-2.391,53.873,matched to curated record,evt-clitheroe-1138
+Q2888502,Battle of Flamborough Head,1779,battle,-0.11944444,54.1625,imported,evt-wd-battle-of-flamborough-head-1779
+Q2888504,Battle of Fishguard,1797,battle,-4.9804111,51.9982,matched to curated record,evt-fishguard-1797
+Q2888767,Action at Happrew,1304,battle,-3.29944444,55.65416667,imported,evt-wd-action-at-happrew-1304
+Q2888946,Battle of Killiecrankie,1689,battle,-3.785,56.751388888,matched to curated record,evt-killiecrankie-1689
+Q61314298,Battle of Mathrafal Castle,1213,battle,-3.2865,52.687805555,imported,evt-wd-battle-of-mathrafal-castle-1213
+Q61314430,Battle of Caereinion Castle,1167,battle,-3.21694,52.644616111,imported,evt-wd-battle-of-caereinion-castle-1167
+Q61314454,Battle of Powis Castle,1274,battle,-3.158281,52.650573,imported,evt-wd-battle-of-powis-castle-1274
+Q61314490,Battle of Domen Gastell,1196,battle,-3.139553,52.658916,imported,evt-wd-battle-of-domen-gastell-1196
+Q61345722,Battle of Wonastow Court,1644,battle,-2.7472,51.7939,imported,evt-wd-battle-of-wonastow-court-1644
+Q61346193,Battle of Chepstow Castle,1645,battle,-2.675694444,51.643888888,imported,evt-wd-battle-of-chepstow-castle-1645
+Q61346478,Battle of Dingestow Castle,1182,battle,-2.790358,51.78955,imported,evt-wd-battle-of-dingestow-castle-1182
+Q61346990,Battle of Porthskewed,1065,battle,-2.73,51.59,imported,evt-wd-battle-of-porthskewed-1065
+Q61347087,Battle of Usk,1402,battle,-2.9019,51.7035,imported,evt-wd-battle-of-usk-1402
+Q61347424,Battle of Caerleon Castle,1217,battle,-2.959,51.615,imported,evt-wd-battle-of-caerleon-castle-1217
+Q61347696,Battle of Newport,1402,battle,-2.994993,51.590621,imported,evt-wd-battle-of-newport-1402
+Q61348110,Battle of Abergavenny Castle,1233,battle,-3.017647,51.82002,imported,evt-wd-battle-of-abergavenny-castle-1233
+Q61349104,Battle of Hawarden Castle,1282,battle,-3.01977,53.180849,matched to curated record,evt-hawarden-1282
+Q61349275,Battle of Mold Castle,1199,battle,-3.145117,53.170867,imported,evt-wd-battle-of-mold-castle-1199
+Q61349528,Battle of Prestatyn Castle,1167,battle,-3.394722,53.338611,imported,evt-wd-battle-of-prestatyn-castle-1167
+Q61395072,Battle of Diserth Castle,1263,battle,-3.40978,53.3076,imported,evt-wd-battle-of-diserth-castle-1263
+Q61395962,Battle of Rhuddlan Castle,1075,battle,-3.46147,53.286859,imported,evt-wd-battle-of-rhuddlan-castle-1075
+Q61397129,Battle of St Asaph,1406,battle,-3.442,53.258,imported,evt-wd-battle-of-st-asaph-1406
+Q61398003,Battle of Holywell Castle,1213,battle,-3.225668,53.264912,imported,evt-wd-battle-of-holywell-castle-1213
+Q61398580,Battle of the White Castle,1215,battle,-2.902019,51.84585,imported,evt-wd-battle-of-the-white-castle-1215
+Q61399735,Battle of Seisyll's Court,1175,battle,-2.98712,51.784969,imported,evt-wd-battle-of-seisyll-s-court-1175
+Q61403655,Battle of Penrhos Castle,1251,battle,-2.858051,51.813954,imported,evt-wd-battle-of-penrhos-castle-1251
+Q61410115,Battle of Holt Castle,1646,battle,-2.88023,53.0779,imported,evt-wd-battle-of-holt-castle-1646
+Q61410140,Battle of Chirk Castle,1644,battle,-3.089722,52.935,imported,evt-wd-battle-of-chirk-castle-1644
+Q61410261,Battle of St Clears,1403,battle,-4.504194444,51.820388888,imported,evt-wd-battle-of-st-clears-1403
+Q61410355,Battle of Laugharne Castle,1257,battle,-4.462016,51.769427,imported,evt-wd-battle-of-laugharne-castle-1257
+Q61410664,Battle of Cydweli,1223,battle,-4.307,51.736,imported,evt-wd-battle-of-cydweli-1223
+Q61410880,Battle of Carnwyllion,1189,battle,-4.15,51.68,imported,evt-wd-battle-of-carnwyllion-1189
+Q61412130,Battle of Loughor Castle,1215,battle,-4.0774,51.6622,imported,evt-wd-battle-of-loughor-castle-1215
+Q61412377,Battle of Caerphilly Castle,1270,battle,-3.2203,51.5761,matched to curated record,evt-caerphilly-1270
+Q61412773,Battle of Cardiff Castle,1233,battle,-3.1812,51.4823,imported,evt-wd-battle-of-cardiff-castle-1233
+Q61413183,Battle of Ystradowain,1027,battle,-3.417353,51.486705,imported,evt-wd-battle-of-ystradowain-1027
+Q61413319,Battle of Neath Castle,1231,battle,-3.8037,51.6651,imported,evt-wd-battle-of-neath-castle-1231
+Q61413669,Battle of Kenfig,1243,battle,-3.729728,51.530037,imported,evt-wd-battle-of-kenfig-1243
+Q70766650,Siege of Lathom House,1645,siege,-2.817,53.576,imported,evt-wd-siege-of-lathom-house-1645-x
+Q76608465,Siege of Brampton Castle,1643,siege,-2.9263,52.3478,imported,evt-wd-siege-of-brampton-castle-1643
+Q76609011,Siege of Hopton Castle,1644,siege,-2.9318,52.3958,matched to curated record,evt-hopton-heath-1643
+Q89574399,Siege of Wardour,1643,siege,-2.088888888,51.036388888,imported,evt-wd-siege-of-wardour-1643
+Q96638398,Battle for Stanley,1982,,-57.966666666,-51.666666666,excluded: outside Great Britain,
+Q99549748,Siege of Dover Castle,1216,siege,1.323503888,51.128268055,matched to curated record,evt-dover-1216
+Q124721242,Battle of Grindon,1558,battle,-2.130533,55.70192,imported,evt-wd-battle-of-grindon-1558
+Q4870911,Battle of Dover,1217,battle,1.311,51.13,matched to curated record,evt-dover-1216
+Q5036994,Capture of Cambridge,1326,battle,0.1313,52.2053,imported,evt-wd-capture-of-cambridge-1326
+Q5710379,Sinking of HMS Royal Oak,1939,battle,-3.05,58.9,imported,evt-wd-sinking-of-hms-royal-oak-1939
+Q5905257,Sinking of the SS Cantabria,1938,,1.40213056,53.05442222,excluded: outside Great Britain,
+Q6927554,Rout of Moy,1746,battle,-4.0452,57.3811,imported,evt-wd-rout-of-moy-1746
+Q7509901,Siege of Cardiff,1326,siege,-3.1823,51.4827,imported,evt-wd-siege-of-cardiff-1326
+Q13126298,Battle of Abergwili,1022,battle,-4.269,51.866,imported,evt-wd-battle-of-abergwili-1022
+Q13126299,Battle of Aber Towi,1044,battle,-3.83,53.28,imported,evt-wd-battle-of-aber-towi-1044
+Q13126301,Battle of Rhymney,1071,battle,-3.18,51.48,imported,evt-wd-battle-of-rhymney-1071
+Q13126306,Battle of Campston Hill,1404,battle,-2.8674,51.9149,imported,evt-wd-battle-of-campston-hill-1404
+Q13126307,Battle of Craig-y-dorth,1404,battle,-2.75923,51.76373,imported,evt-wd-battle-of-craig-y-dorth-1404
+Q13126305,Battle of Gelli Carnant,1096,battle,-4.842222222,51.845,imported,evt-wd-battle-of-gelli-carnant-1096
+Q13126308,Battle of Ceri,1228,battle,-3.25803,52.5012,imported,evt-wd-battle-of-ceri-1228
+Q13126314,Battle of Tal Moelfre,1157,battle,-4.2356,53.35351,imported,evt-wd-battle-of-tal-moelfre-1157
+Q13126315,Battle of Grosmont,1405,battle,-2.8664593,51.914935,imported,evt-wd-battle-of-grosmont-1405
+Q13126312,Battle of the Slate Bridge,1087,battle,-4.6,52.06,imported,evt-wd-battle-of-the-slate-bridge-1087
+Q18003278,Siege of Bayonne,1374,,-1.425,43.5,excluded: outside Great Britain,
+Q18027703,Battle of Coleshill,1150,battle,-3.1554447,52.248408,imported,evt-wd-battle-of-coleshill-1150
+Q20584437,Battle of Glyn Cyning,1075,battle,-3.835,52.758,imported,evt-wd-battle-of-glyn-cyning-1075
+Q20584463,Battle of Llanllieni,1052,battle,-2.7385,52.2282,imported,evt-wd-battle-of-llanllieni-1052
+Q20584475,Battle of Maes Maen Cymro,1118,battle,-3.333,53.133,imported,evt-wd-battle-of-maes-maen-cymro-1118
+Q20584483,Battle of Maesyfed,1195,battle,-3.16,52.24,imported,evt-wd-battle-of-maesyfed-1195
+Q20584525,Battle of Pentraeth,1170,battle,-4.235946,53.288325,imported,evt-wd-battle-of-pentraeth-1170
+Q25456539,Battle of Heworth Moor,1453,battle,-1.083333333,54.6,imported,evt-wd-battle-of-heworth-moor-1453
+Q33039195,Battle of Tuthill,1461,battle,-4.27,53.14,imported,evt-wd-battle-of-tuthill-1461
+Q48760228,Siege of Guernesey,1372,,-2.583333333,49.45,excluded: outside Great Britain,
+Q54806107,Battle of Aberllech,1086,battle,-3.5847,51.978,imported,evt-wd-battle-of-aberllech-1086
+Q55599902,Siege of Caernarfon,1404,siege,-4.27,53.14,matched to curated record,evt-caernarfon-1403
+Q55599903,Siege of Harlech,1402,siege,-4.105488888,52.860438888,imported,evt-wd-siege-of-harlech-1402
+Q55610896,English invasion of Scotland,1385,siege,-2.213,55.0917,imported,evt-wd-english-invasion-of-scotland-1385
+Q56310177,Siege of Leeds,1321,siege,-1.549166666,53.799722222,imported,evt-wd-siege-of-leeds-1321
+Q61053041,Battle of Clastbirig,1095,battle,-3.195743,52.037998,imported,evt-wd-battle-of-clastbirig-1095
+Q61078881,Battle of Hay on Wye,1216,battle,-3.1314,52.0758,imported,evt-wd-battle-of-hay-on-wye-1216
+Q61079929,Battle of Builth Castle,1260,battle,-3.3986,52.1492,imported,evt-wd-battle-of-builth-castle-1260
+Q61080124,Battle of Bwlch y Dinas Castle,1233,battle,-3.1965,51.9636,imported,evt-wd-battle-of-bwlch-y-dinas-castle-1233
+Q61080931,Battle of Tretower,1233,battle,-3.1833,51.8833,imported,evt-wd-battle-of-tretower-1233
+Q61082856,Battle of Blaenllyfni Castle,1233,battle,-3.243694444,51.898111111,imported,evt-wd-battle-of-blaenllyfni-castle-1233
+Q61087651,Battle of Pengelli Castle,1233,battle,-3.316991,51.915143,imported,evt-wd-battle-of-pengelli-castle-1233
+Q61089370,Battle of Brecon,1233,battle,-3.424831,51.97341,imported,evt-wd-battle-of-brecon-1233
+Q61262570,Battle of Castell Llandandras,1262,battle,-3.012453,52.273027,imported,evt-wd-battle-of-castell-llandandras-1262
+Q61263351,Battle of Bleddfa Castle,1262,battle,-3.161887,52.307227,imported,evt-wd-battle-of-bleddfa-castle-1262
+Q61264359,Battle of Radnor,1264,battle,-3.155972,52.241752,imported,evt-wd-battle-of-radnor-1264
+Q61268045,Battle of Colwyn Castle,1216,battle,-3.306403,52.176985,imported,evt-wd-battle-of-colwyn-castle-1216
+Q61268143,Battle of Painscastle Castle,1196,battle,-3.218627,52.106905,imported,evt-wd-battle-of-painscastle-castle-1196
+Q61268345,Battle of Carreghofa,1213,battle,-3.101142,52.776907,imported,evt-wd-battle-of-carreghofa-1213
+Q61268370,Battle of Bodyddon Castle,1257,battle,-3.09732,52.77775,imported,evt-wd-battle-of-bodyddon-castle-1257
+Q61268393,Battle of Nantcriba,1263,battle,-3.127549,52.604937,imported,evt-wd-battle-of-nantcriba-1263
+Q61268413,Battle of Old Domen,1095,battle,-3.161414,52.574438,imported,evt-wd-battle-of-old-domen-1095
+Q61268425,Battle of Gwernesgof,1257,battle,-3.147261,52.518962,imported,evt-wd-battle-of-gwernesgof-1257
+Q61314200,Battle of Dolfrowyn Castle,1277,battle,-3.252,52.5462,imported,evt-wd-battle-of-dolfrowyn-castle-1277
+Q61314245,Battle of Taflowern,1167,battle,-3.63919,52.61014,imported,evt-wd-battle-of-taflowern-1167
+Q83224,Battle of Hastings,1066,battle,0.487777777,50.914444444,matched to curated record,evt-hastings-1066
+Q166961,Battle of Shrewsbury,1403,battle,-2.7185,52.7475,matched to curated record,evt-shrewsbury-1403
+Q211582,Zong massacre,1781,,-77.852,18.025,excluded: outside Great Britain,
+Q222013,Battle of Bosworth Field,1485,battle,-1.410277777,52.591111111,matched to curated record,evt-bosworth-1485
+Q222520,Battle of Bannockburn,1314,battle,-3.937777777,56.093333333,matched to curated record,evt-bannockburn-1314
+Q190819,Bloody Sunday,1972,,-7.3255581,54.9969674,excluded: outside Great Britain,
+Q203225,Battle of Stamford Bridge,1066,battle,-0.9125,53.9925,matched to curated record,evt-stamford-bridge-1066
+Q1770727,Battle of Sark,1448,battle,-3.07194444,54.98611111,imported,evt-wd-battle-of-sark-1448
+Q1772463,Battle of Reading,1688,battle,-0.9733,51.4557,imported,evt-wd-battle-of-reading-1688
+Q1808375,Battle of Solebay,1672,battle,1.8,52.4,imported,evt-wd-battle-of-solebay-1672
+Q1849818,Battle of Edgcote,1469,battle,-1.247222222,52.114444444,matched to curated record,evt-edgecote-1469
+Q1852373,Battle of the Standard,1138,battle,-1.45,54.36666667,matched to curated record,evt-standard-1138
+Q1855461,Battle of Lincoln,1217,battle,-0.538653,53.2333,matched to curated record,evt-lincoln-1217
+Q1887057,Battle of Halidon Hill,1333,battle,-2.05,55.7875,matched to curated record,evt-halidon-hill-1333
+Q2575960,Battle of Carham,1010,battle,-2.32083333,55.63694444,imported,evt-wd-battle-of-carham-1010
+Q2589203,Battle off Lizard Point,1637,,-5.213888888,49.821388888,excluded: outside Great Britain,
+Q2605977,Battle of Dunbar,1650,battle,-2.484444444,55.983611111,matched to curated record,evt-dunbar-1650
+Q2641750,Battle of Goose Green,1982,,-58.969166666,-51.828833333,excluded: outside Great Britain,
+Q2657479,"Raid on Scarborough, Hartlepool and Whitby",1914,,0.4017,54.2773,excluded: outside Great Britain,
+Q2657536,Battle of Boroughbridge,1322,battle,-1.395833333,54.096944444,matched to curated record,evt-boroughbridge-1322
+Q766136,Battle of Harlaw,1411,battle,-2.411944444,57.308055555,matched to curated record,evt-harlaw-1411
+Q815102,Siege of Sidney Street,1911,siege,-0.055277777,51.518333333,imported,evt-wd-siege-of-sidney-street-1911
+Q815132,Siege of Clonmel,1650,,-7.7116,52.3539,excluded: outside Great Britain,
+Q815145,Great Siege of Gibraltar,1779,,-5.3551,36.1397,excluded: outside Great Britain,
+Q842796,First Battle of St Albans,1455,battle,0.339,51.7487,matched to curated record,evt-st-albans-1455
+Q876357,Peterloo Massacre,1819,massacre,-2.245833333,53.476666666,matched to curated record,evt-peterloo-1819
+Q2368123,Battle of Pinkie,1547,battle,-3.03,55.935,matched to curated record,evt-pinkie-1547
+Q2475657,Battle of Adwalton Moor,1643,battle,-1.664,53.751,matched to curated record,evt-adwalton-moor-1643
+Q2485365,Battle of Glen Shiel,1719,battle,-5.31722222,57.16638889,matched to curated record,evt-glen-shiel-1719
+Q2557155,Battle of Sedgemoor,1685,battle,-2.928333333,51.115555555,matched to curated record,evt-sedgemoor-1685
+Q2572804,Battle of Dunkeld,1689,battle,-3.586944444,56.565555555,matched to curated record,evt-dunkeld-1689
+Q510943,Battle of Preston,1648,battle,-2.67944444,53.75277778,matched to curated record,evt-preston-1648
+Q522168,Battle of Benburb,1646,,-6.746,54.412,excluded: outside Great Britain,
+Q544936,Battle of Ferrybridge,1461,battle,-1.273611111,53.7125,matched to curated record,evt-ferrybridge-1461
+Q546317,Battle of Prestonpans,1745,battle,-2.959722222,55.955,matched to curated record,evt-prestonpans-1745
+Q547328,Kingsmill massacre,1976,,-6.450861111,54.215472222,excluded: outside Great Britain,
+Q15277698,Siege of Worcester,1646,siege,-2.222222222,52.191111111,imported,evt-wd-siege-of-worcester-1646
+Q16158877,Battle of Alamance,1771,,-79.52055556,36.00833333,excluded: outside Great Britain,
+Q16207495,Betrayal of Clannabuidhe,1574,,-5.93,54.596388888,excluded: outside Great Britain,
+Q16253591,Battle of Aberdeen,1646,battle,-2.11,57.15,imported,evt-wd-battle-of-aberdeen-1646
+Q16253797,Battle of Landguard Fort,1667,battle,1.32111,51.9389,imported,evt-wd-battle-of-landguard-fort-1667
+Q16822717,Battle of Summerdale,1529,battle,-3.1405,58.977111111,imported,evt-wd-battle-of-summerdale-1529
+Q16824407,Siege of Bristol,1645,siege,-2.583333333,51.45,imported,evt-wd-siege-of-bristol-1645
+Q16826489,Battle of Chesterfield,1266,battle,-1.416667,53.233333,imported,evt-wd-battle-of-chesterfield-1266
+Q16930987,Battle of Hornshole,1514,battle,-2.955,55.331,imported,evt-wd-battle-of-hornshole-1514
+Q16931400,Siege of Chichester,1642,siege,-0.7792,50.8365,imported,evt-wd-siege-of-chichester-1642
+Q16931436,Siege of Inverness,1429,siege,-4.225,57.476,imported,evt-wd-siege-of-inverness-1429
+Q16931510,Battle of Ormskirk,1644,battle,-2.8869,53.5665,imported,evt-wd-battle-of-ormskirk-1644
+Q17018024,Capture of Wakefield,1643,battle,-1.496944444,53.683055555,imported,evt-wd-capture-of-wakefield-1643
+Q17622618,Battle of Margate,1387,,2.22,51.29,excluded: outside Great Britain,
+Q689433,Battle of Langport,1645,battle,-2.80111111,51.04194444,matched to curated record,evt-langport-1645
+Q694073,Capture of Gibraltar,1704,,-5.353872,36.13971,excluded: outside Great Britain,
+Q699527,Scuttling of the German Fleet in Scapa Flow,1919,battle,-3.18,58.89,imported,evt-wd-scuttling-of-the-german-fleet-in-scapa-flow-1919
+Q730986,Siege of Waterford,1649,,-7.126944444,52.251944444,excluded: outside Great Britain,
+Q734934,Four Days' Battle,1666,,2,51.4,excluded: outside Great Britain,
+Q742260,Battle of Winceby,1643,battle,-0.03166667,53.20166667,matched to curated record,evt-winceby-1643
+Q2204399,Battle of Neville's Cross,1346,battle,-1.593333333,54.7725,matched to curated record,evt-nevilles-cross-1346
+Q2236857,Battle of Cheriton,1644,battle,-1.14666667,51.05972222,matched to curated record,evt-cheriton-1644
+Q2237461,Battle of Cropredy Bridge,1644,battle,-1.31388889,52.115,matched to curated record,evt-cropredy-1644
+Q2237470,Battle of Culblean,1335,battle,-2.9341,57.0899,imported,evt-wd-battle-of-culblean-1335
+Q2297059,Battle of the Solent,1545,battle,-1.226388888,50.7775,imported,evt-wd-battle-of-the-solent-1545
+Q7457743,Seventh Siege of Gibraltar,1436,,-5.345361111,36.13775,excluded: outside Great Britain,
+Q7509861,Siege of Basing House,1643,siege,-1.0518,51.2686,matched to curated record,evt-basing-1645
+Q7509878,Siege of Blair Castle,1746,battle,-3.84,56.77,imported,evt-wd-siege-of-blair-castle-1746
+Q7509883,Siege of Brahan,1715,siege,-4.4893,57.5568,imported,evt-wd-siege-of-brahan-1715
+Q7509888,Siege of Bristol,1326,siege,-2.5869,51.4558,imported,evt-wd-siege-of-bristol-1326

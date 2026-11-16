@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "evt-otterburn-1388",
+    "name": "Battle of Otterburn",
+    "type": "battle",
+    "date": {
+      "from": "1388-08-05",
+      "precision": "day",
+      "disputed": true,
+      "note": "Usually dated 5 August 1388; some accounts give 19 August."
+    },
+    "country": "England",
+    "region": "Northumberland",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.18,
+        55.24
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Otterburn, Redesdale"
+    },
+    "participants": [
+      "auth-scotland:Scottish army (James, earl of Douglas)",
+      "auth-england:English army (Henry 'Hotspur' Percy)"
+    ],
+    "narrative": "Hotspur attacked a Scottish raiding army's camp late in the day; Douglas was killed but the Scots won and captured Hotspur.",
+    "outcome": "Scottish victory.",
+    "disagreements": [
+      "Froissart's account and the Scottish chronicles differ; casualty figures are not reliable and are not used."
+    ],
+    "sources": [
+      "src-he-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-glyndwr-revolt",
+    "name": "Revolt of Owain Glyndŵr",
+    "type": "rebellion",
+    "date": "1400-09-16/1415",
+    "country": "Wales",
+    "location": {
+      "kind": "unknown",
+      "note": "Rebellion-level record; see linked events."
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr and supporters",
+      "auth-england:Henry IV and Prince Henry"
+    ],
+    "narrative": "Owain Glyndŵr was proclaimed Prince of Wales in September 1400. The rising controlled much of Wales by 1404–05 before English recovery.",
+    "outcome": "Revolt suppressed by 1409–10; Glyndŵr disappeared c.1415.",
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-ruthin-1400",
+    "name": "Attack on Ruthin",
+    "type": "raid",
+    "date": "1400-09-18",
+    "country": "Wales",
+    "region": "Denbighshire",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.3106,
+        53.1124
+      ],
+      "placeName": "Ruthin"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "Reginald Grey of Ruthin"
+    ],
+    "narrative": "Two days after his proclamation, Glyndŵr's followers burned the town of Ruthin, the seat of his enemy Reginald Grey.",
+    "outcome": "Town burned; castle held.",
+    "castleIds": [
+      "castle-ruthin"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-conwy-1401",
+    "name": "Seizure of Conwy Castle",
+    "type": "siege",
+    "date": "1401-04-01",
+    "country": "Wales",
+    "region": "Conwy",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.8256,
+        53.2801
+      ],
+      "placeName": "Conwy Castle"
+    },
+    "participants": [
+      "auth-welsh:Rhys and Gwilym ap Tudur",
+      "auth-england:English garrison"
+    ],
+    "narrative": "The Tudur brothers seized Conwy castle by ruse on Good Friday and held it for about three months.",
+    "outcome": "Returned to the crown under negotiated terms.",
+    "castleIds": [
+      "castle-conwy"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-hyddgen-1401",
+    "name": "Battle of Mynydd Hyddgen",
+    "type": "battle",
+    "date": "1401-06",
+    "country": "Wales",
+    "region": "Plynlimon",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.8,
+        52.5
+      ],
+      "uncertaintyKm": 5,
+      "placeName": "Hyddgen, Pumlumon"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "English and Flemish settlers of south-west Wales"
+    ],
+    "narrative": "Glyndŵr's small force defeated a larger army from the English and Flemish settlements of Pembrokeshire on the slopes of Pumlumon.",
+    "outcome": "Welsh victory.",
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-bryn-glas-1402",
+    "name": "Battle of Bryn Glas",
+    "altNames": [
+      "Battle of Pilleth"
+    ],
+    "type": "battle",
+    "date": "1402-06-22",
+    "country": "Wales",
+    "region": "Radnorshire",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.047,
+        52.301
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Bryn Glas, Pilleth"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "auth-england:Herefordshire levies (Edmund Mortimer)"
+    ],
+    "narrative": "Glyndŵr defeated Edmund Mortimer's army when Welsh archers in the English ranks changed sides. Mortimer was captured and later joined Glyndŵr.",
+    "outcome": "Welsh victory.",
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-homildon-1402",
+    "name": "Battle of Homildon Hill",
+    "type": "battle",
+    "date": "1402-09-14",
+    "country": "England",
+    "region": "Northumberland",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.06,
+        55.56
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Humbleton Hill, near Wooler"
+    },
+    "participants": [
+      "auth-england:English army (Percies)",
+      "auth-scotland:Scottish army (Archibald, earl of Douglas)"
+    ],
+    "narrative": "English archers shot down a Scottish raiding army returning home; Douglas and many nobles were captured.",
+    "outcome": "English victory; dispute over prisoners contributed to the Percy rebellion.",
+    "sources": [
+      "src-he-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-shrewsbury-1403",
+    "name": "Battle of Shrewsbury",
+    "type": "battle",
+    "date": "1403-07-21",
+    "country": "England",
+    "region": "Shropshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.724,
+        52.745
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Battlefield, Shrewsbury"
+    },
+    "participants": [
+      "auth-england:Henry IV and Prince Henry",
+      "Rebel Percies (Henry 'Hotspur' Percy, earl of Worcester)"
+    ],
+    "narrative": "Henry IV defeated Hotspur's rebel army before it could join Glyndŵr. Hotspur was killed and Prince Henry wounded in the face by an arrow.",
+    "outcome": "Royal victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-caernarfon-1403",
+    "name": "Sieges of Caernarfon",
+    "type": "siege",
+    "date": "1403/1404",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.2768,
+        53.1393
+      ],
+      "placeName": "Caernarfon Castle"
+    },
+    "participants": [
+      "auth-welsh:Glyndŵr's forces with French support",
+      "auth-england:English garrison"
+    ],
+    "narrative": "Glyndŵr's forces, aided by French troops in 1404, besieged Caernarfon, but the small garrison held.",
+    "outcome": "Castle held for the crown.",
+    "castleIds": [
+      "castle-caernarfon"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-carreg-cennen-1403",
+    "name": "Siege of Carreg Cennen",
+    "type": "siege",
+    "date": "1403-07",
+    "country": "Wales",
+    "region": "Carmarthenshire",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.9354,
+        51.8543
+      ],
+      "placeName": "Carreg Cennen Castle"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "auth-england:English garrison (John Skidmore)"
+    ],
+    "narrative": "Glyndŵr besieged Carreg Cennen during his 1403 campaign in the Tywi valley.",
+    "outcome": "Castle held.",
+    "castleIds": [
+      "castle-carreg-cennen"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "evt-harlech-1404",
+    "name": "Glyndŵr captures Harlech",
+    "type": "siege",
+    "date": "1404",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.109,
+        52.8601
+      ],
+      "placeName": "Harlech Castle"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "auth-england:English garrison"
+    ],
+    "narrative": "After a long blockade the starving garrison of Harlech surrendered; it became Glyndŵr's court.",
+    "outcome": "Castle taken by Glyndŵr.",
+    "castleIds": [
+      "castle-harlech"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-aberystwyth-1404",
+    "name": "Glyndŵr captures Aberystwyth",
+    "type": "siege",
+    "date": "1404",
+    "country": "Wales",
+    "region": "Ceredigion",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.0898,
+        52.4146
+      ],
+      "placeName": "Aberystwyth Castle"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "auth-england:English garrison"
+    ],
+    "narrative": "Aberystwyth castle fell to Glyndŵr in 1404.",
+    "outcome": "Castle taken by Glyndŵr.",
+    "castleIds": [
+      "castle-aberystwyth"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-criccieth-1404",
+    "name": "Destruction of Criccieth Castle",
+    "type": "siege",
+    "date": "1404",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.2321,
+        52.9178
+      ],
+      "placeName": "Criccieth Castle"
+    },
+    "participants": [
+      "auth-welsh:Owain Glyndŵr",
+      "auth-england:English garrison"
+    ],
+    "narrative": "Criccieth was taken and burned by Glyndŵr's forces; it was never restored.",
+    "outcome": "Castle destroyed.",
+    "castleIds": [
+      "castle-criccieth"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-pwll-melyn-1405",
+    "name": "Battle of Pwll Melyn",
+    "type": "battle",
+    "date": "1405-05-05",
+    "country": "Wales",
+    "region": "Monmouthshire",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.9,
+        51.7
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Near Usk"
+    },
+    "participants": [
+      "auth-england:English garrison of Usk",
+      "auth-welsh:Welsh army (Gruffudd ab Owain)"
+    ],
+    "narrative": "An attack on Usk failed; Glyndŵr's son Gruffudd was captured. Adam of Usk records the execution of many prisoners.",
+    "outcome": "English victory.",
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-aberystwyth-1408",
+    "name": "Siege of Aberystwyth",
+    "type": "siege",
+    "date": "1407/1408",
+    "country": "Wales",
+    "region": "Ceredigion",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.0898,
+        52.4146
+      ],
+      "placeName": "Aberystwyth Castle"
+    },
+    "participants": [
+      "auth-england:Prince Henry",
+      "auth-welsh:Glyndŵr's garrison"
+    ],
+    "narrative": "Prince Henry besieged Aberystwyth with artillery in 1407; it surrendered in 1408.",
+    "outcome": "Castle recovered by the crown.",
+    "castleIds": [
+      "castle-aberystwyth"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-harlech-1408",
+    "name": "Siege of Harlech (1408–09)",
+    "type": "siege",
+    "date": "1408/1409-02",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "parentId": "evt-glyndwr-revolt",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.109,
+        52.8601
+      ],
+      "placeName": "Harlech Castle"
+    },
+    "participants": [
+      "auth-england:English army (Gilbert and John Talbot)",
+      "auth-welsh:Glyndŵr's garrison (Edmund Mortimer)"
+    ],
+    "narrative": "English forces besieged Harlech; Edmund Mortimer died during the siege and Glyndŵr's wife and family were captured.",
+    "outcome": "Castle surrendered early in 1409.",
+    "castleIds": [
+      "castle-harlech"
+    ],
+    "sources": [
+      "src-davies-glyndwr"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-harlaw-1411",
+    "name": "Battle of Harlaw",
+    "type": "battle",
+    "date": "1411-07-24",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.42,
+        57.31
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Harlaw, near Inverurie"
+    },
+    "participants": [
+      "Lordship of the Isles (Donald, Lord of the Isles)",
+      "auth-scotland:Earl of Mar and the burgesses of Aberdeen"
+    ],
+    "narrative": "The earl of Mar halted Donald of the Isles' advance on Aberdeen in a bloody battle.",
+    "outcome": "Indecisive; Donald withdrew.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-threave-1455",
+    "name": "Siege of Threave Castle",
+    "type": "siege",
+    "date": "1455-06/1455-08",
+    "country": "Scotland",
+    "region": "Galloway",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.9707,
+        54.9396
+      ],
+      "placeName": "Threave Castle"
+    },
+    "participants": [
+      "auth-scotland:James II",
+      "Black Douglas garrison"
+    ],
+    "narrative": "James II besieged Threave, the last Black Douglas stronghold, with artillery; the garrison surrendered.",
+    "outcome": "Fall of the Black Douglases.",
+    "castleIds": [
+      "castle-threave"
+    ],
+    "sources": [
+      "src-lynch",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-wars-of-roses",
+    "name": "Wars of the Roses",
+    "type": "campaign",
+    "date": "1455-05/1487-06",
+    "country": "England",
+    "location": {
+      "kind": "unknown",
+      "note": "War-level record; see linked battles."
+    },
+    "participants": [
+      "House of Lancaster",
+      "House of York",
+      "auth-england:Tudors"
+    ],
+    "narrative": "Intermittent dynastic civil wars between Lancaster and York.",
+    "outcome": "Tudor accession (1485) and defeat of the Yorkist pretender at Stoke (1487).",
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-st-albans-1455",
+    "name": "First Battle of St Albans",
+    "type": "battle",
+    "date": "1455-05-22",
+    "country": "England",
+    "region": "Hertfordshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.336,
+        51.752
+      ],
+      "uncertaintyKm": 0.7,
+      "placeName": "St Albans"
+    },
+    "participants": [
+      "House of York (Richard, duke of York; earl of Warwick)",
+      "House of Lancaster (Henry VI; duke of Somerset)"
+    ],
+    "narrative": "Street fighting in St Albans; Somerset, Northumberland and Clifford were killed and Henry VI captured.",
+    "outcome": "Yorkist victory.",
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-blore-heath-1459",
+    "name": "Battle of Blore Heath",
+    "type": "battle",
+    "date": "1459-09-23",
+    "country": "England",
+    "region": "Staffordshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.43,
+        52.92
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Blore Heath"
+    },
+    "participants": [
+      "House of York (earl of Salisbury)",
+      "House of Lancaster (Lord Audley)"
+    ],
+    "narrative": "Salisbury's Yorkists defeated a larger Lancastrian army trying to intercept them; Audley was killed.",
+    "outcome": "Yorkist victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-ludford-1459",
+    "name": "Rout of Ludford Bridge",
+    "type": "skirmish",
+    "date": "1459-10-12",
+    "country": "England",
+    "region": "Shropshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.72,
+        52.364
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Ludford Bridge, Ludlow"
+    },
+    "participants": [
+      "House of York",
+      "House of Lancaster (Henry VI)"
+    ],
+    "narrative": "The Yorkist army dispersed overnight when Andrew Trollope's Calais contingent defected; Ludlow was sacked.",
+    "outcome": "Yorkist leaders fled abroad.",
+    "castleIds": [
+      "castle-ludlow"
+    ],
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-northampton-1460",
+    "name": "Battle of Northampton",
+    "type": "battle",
+    "date": "1460-07-10",
+    "country": "England",
+    "region": "Northamptonshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.885,
+        52.226
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Delapré Abbey, Northampton"
+    },
+    "participants": [
+      "House of York (earl of Warwick)",
+      "House of Lancaster (Henry VI; duke of Buckingham)"
+    ],
+    "narrative": "Lord Grey of Ruthin changed sides, letting the Yorkists into the Lancastrian camp. Buckingham was killed and Henry VI captured.",
+    "outcome": "Yorkist victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-roxburgh-1460",
+    "name": "Siege of Roxburgh",
+    "type": "siege",
+    "date": "1460-07/1460-08-08",
+    "country": "Scotland",
+    "region": "Roxburghshire",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.4495,
+        55.5966
+      ],
+      "placeName": "Roxburgh Castle"
+    },
+    "participants": [
+      "auth-scotland:James II",
+      "auth-england:English garrison"
+    ],
+    "narrative": "James II was killed on 3 August 1460 when a cannon burst beside him; the castle fell days later and was razed.",
+    "outcome": "Castle taken and destroyed.",
+    "castleIds": [
+      "castle-roxburgh"
+    ],
+    "sources": [
+      "src-lynch",
+      "src-tabraham"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-wakefield-1460",
+    "name": "Battle of Wakefield",
+    "type": "battle",
+    "date": "1460-12-30",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.492,
+        53.662
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Below Sandal Castle, Wakefield"
+    },
+    "participants": [
+      "House of Lancaster",
+      "House of York (Richard, duke of York)"
+    ],
+    "narrative": "Richard, duke of York, left Sandal castle and was killed with his son Edmund, earl of Rutland, and the earl of Salisbury.",
+    "outcome": "Lancastrian victory.",
+    "castleIds": [
+      "castle-sandal"
+    ],
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-mortimers-cross-1461",
+    "name": "Battle of Mortimer's Cross",
+    "type": "battle",
+    "date": {
+      "from": "1461-02-02",
+      "precision": "day",
+      "disputed": true,
+      "note": "2 or 3 February 1461."
+    },
+    "country": "England",
+    "region": "Herefordshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.85,
+        52.27
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Mortimer's Cross"
+    },
+    "participants": [
+      "House of York (Edward, earl of March)",
+      "House of Lancaster (Jasper Tudor, earl of Wiltshire)"
+    ],
+    "narrative": "Edward of March defeated a Lancastrian army from Wales after a parhelion (three suns) was seen. Owen Tudor was captured and executed.",
+    "outcome": "Yorkist victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-st-albans-1461",
+    "name": "Second Battle of St Albans",
+    "type": "battle",
+    "date": "1461-02-17",
+    "country": "England",
+    "region": "Hertfordshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.33,
+        51.76
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "St Albans and Bernards Heath"
+    },
+    "participants": [
+      "House of Lancaster (Queen Margaret)",
+      "House of York (earl of Warwick)"
+    ],
+    "narrative": "The Lancastrian army defeated Warwick and recovered Henry VI.",
+    "outcome": "Lancastrian victory, but London refused to admit the queen's army.",
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-ferrybridge-1461",
+    "name": "Battle of Ferrybridge",
+    "type": "battle",
+    "date": "1461-03-28",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.27,
+        53.712
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Ferrybridge on the Aire"
+    },
+    "participants": [
+      "House of Lancaster (Lord Clifford)",
+      "House of York"
+    ],
+    "narrative": "Fighting for the Aire crossing on the eve of Towton; Lord Clifford was killed at Dintingdale.",
+    "outcome": "Yorkists forced the crossing.",
+    "sources": [
+      "src-goodman-wor",
+      "src-boardman-towton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-towton-1461",
+    "name": "Battle of Towton",
+    "type": "battle",
+    "date": "1461-03-29",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.272,
+        53.835
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Towton"
+    },
+    "participants": [
+      "House of York (Edward IV)",
+      "House of Lancaster (duke of Somerset)"
+    ],
+    "commanders": [
+      "Edward IV",
+      "Earl of Warwick",
+      "Lord Fauconberg",
+      "Duke of Somerset",
+      "Earl of Northumberland (killed)"
+    ],
+    "narrative": "Fought on Palm Sunday in a snowstorm, the battle ended in a Lancastrian rout across the Cock Beck. Mass graves excavated near Towton Hall show severe battle injuries.",
+    "outcome": "Decisive Yorkist victory securing Edward IV's throne.",
+    "disagreements": [
+      "The figure of 28,000 dead derives from contemporary heralds' counts reported in letters; many modern historians consider it inflated, but no agreed alternative exists."
+    ],
+    "sources": [
+      "src-he-battlefields",
+      "src-boardman-towton",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-harlech-1468",
+    "name": "Siege of Harlech (1461–68)",
+    "type": "siege",
+    "date": "1461/1468-08-14",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.109,
+        52.8601
+      ],
+      "placeName": "Harlech Castle"
+    },
+    "participants": [
+      "House of York (William Herbert)",
+      "House of Lancaster (Dafydd ab Ieuan ab Einion)"
+    ],
+    "narrative": "Harlech held out for the Lancastrians for about seven years, the last Lancastrian fortress in England and Wales.",
+    "outcome": "Surrendered to William Herbert on 14 August 1468.",
+    "castleIds": [
+      "castle-harlech"
+    ],
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-hedgeley-moor-1464",
+    "name": "Battle of Hedgeley Moor",
+    "type": "battle",
+    "date": "1464-04-25",
+    "country": "England",
+    "region": "Northumberland",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.92,
+        55.48
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Hedgeley Moor"
+    },
+    "participants": [
+      "House of York (John Neville, Lord Montagu)",
+      "House of Lancaster (Sir Ralph Percy)"
+    ],
+    "narrative": "Montagu defeated Lancastrians under Ralph Percy, who was killed.",
+    "outcome": "Yorkist victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-hexham-1464",
+    "name": "Battle of Hexham",
+    "type": "battle",
+    "date": "1464-05-15",
+    "country": "England",
+    "region": "Northumberland",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.07,
+        54.95
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Near Hexham (Linnels)"
+    },
+    "participants": [
+      "House of York (Lord Montagu)",
+      "House of Lancaster (duke of Somerset)"
+    ],
+    "narrative": "Montagu surprised the Lancastrian camp; Somerset and other leaders were captured and executed.",
+    "outcome": "Yorkist victory; Lancastrian resistance in the north collapsed.",
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-bamburgh-1464",
+    "name": "Siege of Bamburgh (1464)",
+    "type": "siege",
+    "date": "1464-06/1464-07",
+    "country": "England",
+    "region": "Northumberland",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -1.7099,
+        55.609
+      ],
+      "placeName": "Bamburgh Castle"
+    },
+    "participants": [
+      "House of York (earl of Warwick)",
+      "House of Lancaster (Sir Ralph Grey)"
+    ],
+    "narrative": "Warwick bombarded Bamburgh with great guns — often described as the first English castle taken by artillery.",
+    "outcome": "Castle taken; Grey executed.",
+    "castleIds": [
+      "castle-bamburgh"
+    ],
+    "sources": [
+      "src-goodman-wor",
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-edgecote-1469",
+    "name": "Battle of Edgecote Moor",
+    "type": "battle",
+    "date": "1469-07-26",
+    "country": "England",
+    "region": "Northamptonshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.27,
+        52.13
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Edgecote"
+    },
+    "participants": [
+      "Rebels backed by the earl of Warwick ('Robin of Redesdale')",
+      "Royal army (earl of Pembroke)"
+    ],
+    "narrative": "Northern rebels defeated the earl of Pembroke's largely Welsh army; Pembroke was executed afterwards.",
+    "outcome": "Rebel victory; Edward IV briefly in Warwick's custody.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-losecoat-1470",
+    "name": "Battle of Losecoat Field",
+    "type": "battle",
+    "date": "1470-03-12",
+    "country": "England",
+    "region": "Rutland",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.56,
+        52.72
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Near Empingham"
+    },
+    "participants": [
+      "auth-england:Edward IV",
+      "Lincolnshire rebels (Robert Welles)"
+    ],
+    "narrative": "Edward IV routed the Lincolnshire rebels; the name traditionally refers to fleeing rebels discarding their livery coats.",
+    "outcome": "Royal victory.",
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-barnet-1471",
+    "name": "Battle of Barnet",
+    "type": "battle",
+    "date": "1471-04-14",
+    "country": "England",
+    "region": "Hertfordshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.2,
+        51.67
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "North of Barnet"
+    },
+    "participants": [
+      "House of York (Edward IV)",
+      "Lancastrians and the earl of Warwick"
+    ],
+    "narrative": "Fought in fog on Easter Sunday; confusion between Lancastrian contingents led to defeat. Warwick was killed.",
+    "outcome": "Yorkist victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-tewkesbury-1471",
+    "name": "Battle of Tewkesbury",
+    "type": "battle",
+    "date": "1471-05-04",
+    "country": "England",
+    "region": "Gloucestershire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.16,
+        51.985
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "South of Tewkesbury"
+    },
+    "participants": [
+      "House of York (Edward IV)",
+      "House of Lancaster (Queen Margaret, Edward of Westminster)"
+    ],
+    "narrative": "Edward IV defeated the Lancastrian army; Prince Edward of Westminster was killed and Somerset executed after the battle.",
+    "outcome": "Decisive Yorkist victory; Henry VI died in the Tower shortly afterwards.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-bosworth-1485",
+    "name": "Battle of Bosworth",
+    "type": "battle",
+    "date": "1485-08-22",
+    "country": "England",
+    "region": "Leicestershire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.437,
+        52.574
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Fenn Lane, near Upton and Dadlington",
+      "note": "Archaeological survey (2005–10) located the fighting about 3 km south-west of the traditional site on Ambion Hill."
+    },
+    "participants": [
+      "Henry Tudor",
+      "auth-england:Richard III"
+    ],
+    "commanders": [
+      "Henry Tudor",
+      "Earl of Oxford",
+      "Richard III (killed)",
+      "Duke of Norfolk (killed)",
+      "Thomas and William Stanley"
+    ],
+    "narrative": "Richard III was killed charging towards Henry Tudor after the intervention of Sir William Stanley.",
+    "outcome": "Henry Tudor became Henry VII.",
+    "disagreements": [
+      "The battlefield location was revised following the Battlefields Trust survey published by Foard and Curry (2013)."
+    ],
+    "sources": [
+      "src-foard-curry-bosworth",
+      "src-he-battlefields"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-stoke-1487",
+    "name": "Battle of Stoke Field",
+    "type": "battle",
+    "date": "1487-06-16",
+    "country": "England",
+    "region": "Nottinghamshire",
+    "parentId": "evt-wars-of-roses",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.85,
+        53.04
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "East Stoke"
+    },
+    "participants": [
+      "auth-england:Henry VII",
+      "Yorkist rebels (earl of Lincoln) with German and Irish troops"
+    ],
+    "narrative": "Henry VII defeated the army supporting the pretender Lambert Simnel; the earl of Lincoln was killed.",
+    "outcome": "Royal victory; often considered the last battle of the Wars of the Roses.",
+    "sources": [
+      "src-he-battlefields",
+      "src-goodman-wor"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-sauchieburn-1488",
+    "name": "Battle of Sauchieburn",
+    "type": "battle",
+    "date": "1488-06-11",
+    "country": "Scotland",
+    "region": "Stirlingshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.94,
+        56.08
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Near Bannockburn"
+    },
+    "participants": [
+      "auth-scotland:James III",
+      "Rebel nobles in the name of Prince James"
+    ],
+    "narrative": "James III was defeated by rebels nominally led by his son and was killed during or after the battle.",
+    "outcome": "Accession of James IV.",
+    "sources": [
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-blackheath-1497",
+    "name": "Battle of Deptford Bridge (Blackheath)",
+    "type": "battle",
+    "date": "1497-06-17",
+    "country": "England",
+    "region": "Kent",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.02,
+        51.474
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Deptford Bridge, Blackheath"
+    },
+    "participants": [
+      "auth-england:Henry VII",
+      "Cornish rebels (Michael An Gof, Lord Audley)"
+    ],
+    "narrative": "The Cornish rising against taxation for war with Scotland was defeated outside London.",
+    "outcome": "Royal victory; rebel leaders executed.",
+    "sources": [
+      "src-goodman-wor"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-norham-1513",
+    "name": "Siege of Norham Castle",
+    "type": "siege",
+    "date": "1513-08-24/1513-08-29",
+    "country": "England",
+    "region": "Northumberland",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.1607,
+        55.7208
+      ],
+      "placeName": "Norham Castle"
+    },
+    "participants": [
+      "auth-scotland:James IV",
+      "auth-england:English garrison"
+    ],
+    "narrative": "James IV's artillery reduced Norham in under a week at the start of his invasion.",
+    "outcome": "Castle taken.",
+    "castleIds": [
+      "castle-norham"
+    ],
+    "sources": [
+      "src-barr-flodden"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-flodden-1513",
+    "name": "Battle of Flodden",
+    "type": "battle",
+    "date": "1513-09-09",
+    "country": "England",
+    "region": "Northumberland",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.18,
+        55.62
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Branxton, Northumberland"
+    },
+    "participants": [
+      "auth-england:English army (earl of Surrey)",
+      "auth-scotland:James IV"
+    ],
+    "commanders": [
+      "Thomas Howard, earl of Surrey",
+      "James IV (killed)"
+    ],
+    "narrative": "Scottish pikemen advancing downhill were stalled in boggy ground and cut down by English billmen. James IV and many Scottish nobles were killed.",
+    "outcome": "Decisive English victory; the largest battle (by numbers) fought between the two kingdoms.",
+    "sources": [
+      "src-he-battlefields",
+      "src-barr-flodden"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-melrose-1526",
+    "name": "Battle of Melrose",
+    "altNames": [
+      "Battle of Darnick"
+    ],
+    "type": "battle",
+    "date": "1526-07",
+    "country": "Scotland",
+    "region": "Roxburghshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.75,
+        55.6
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Darnick, near Melrose"
+    },
+    "participants": [
+      "Walter Scott of Buccleuch",
+      "auth-scotland:Archibald Douglas, earl of Angus (with the young James V)"
+    ],
+    "narrative": "Scott of Buccleuch attacked the earl of Angus's party in an attempt to free the young James V from Angus's control.",
+    "outcome": "Victory for Angus; James V remained in his custody until 1528.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-pilgrimage-grace-1536",
+    "name": "Pilgrimage of Grace",
+    "type": "rebellion",
+    "date": "1536-10/1537-02",
+    "country": "England",
+    "region": "Yorkshire and the North",
+    "location": {
+      "kind": "area",
+      "point": [
+        -1.1,
+        53.9
+      ],
+      "uncertaintyKm": 50,
+      "placeName": "Yorkshire and northern England"
+    },
+    "participants": [
+      "auth-england:Henry VIII",
+      "Northern rebels (Robert Aske)"
+    ],
+    "narrative": "A mass rising against the dissolution of the monasteries and religious change; a large rebel host confronted royal forces at Doncaster without battle.",
+    "outcome": "Rebels dispersed on promises; leaders executed after renewed risings in 1537.",
+    "sources": [
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-solway-moss-1542",
+    "name": "Battle of Solway Moss",
+    "type": "battle",
+    "date": "1542-11-24",
+    "country": "England",
+    "region": "Cumbria",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.99,
+        55.03
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Solway Moss, near Longtown"
+    },
+    "participants": [
+      "auth-england:English border force (Thomas Wharton)",
+      "auth-scotland:Scottish army"
+    ],
+    "narrative": "A disorganised Scottish army was routed between the Esk and the Solway Moss by a much smaller English force; many were captured.",
+    "outcome": "English victory; James V died weeks later.",
+    "sources": [
+      "src-he-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-ancrum-moor-1545",
+    "name": "Battle of Ancrum Moor",
+    "type": "battle",
+    "date": "1545-02-27",
+    "country": "Scotland",
+    "region": "Roxburghshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.6,
+        55.53
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Ancrum Moor"
+    },
+    "participants": [
+      "auth-scotland:Scottish army (earl of Angus)",
+      "auth-england:English raiding force (Ralph Eure)"
+    ],
+    "narrative": "During the 'Rough Wooing' the earl of Angus ambushed an English raiding army; Eure was killed.",
+    "outcome": "Scottish victory.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-st-andrews-1546",
+    "name": "Siege of St Andrews Castle",
+    "type": "siege",
+    "date": "1546-10/1547-07-31",
+    "country": "Scotland",
+    "region": "Fife",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.79,
+        56.3415
+      ],
+      "placeName": "St Andrews Castle"
+    },
+    "participants": [
+      "auth-scotland:Regent Arran and French forces",
+      "Protestant 'Castilians' (including John Knox)"
+    ],
+    "narrative": "After Cardinal Beaton's murder in May 1546 the conspirators held the castle; mines and counter-mines were dug, and a French fleet forced surrender.",
+    "outcome": "Garrison surrendered; Knox sent to the French galleys.",
+    "castleIds": [
+      "castle-st-andrews"
+    ],
+    "sources": [
+      "src-lynch",
+      "src-tabraham"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-pinkie-1547",
+    "name": "Battle of Pinkie",
+    "altNames": [
+      "Battle of Pinkie Cleugh"
+    ],
+    "type": "battle",
+    "date": "1547-09-10",
+    "country": "Scotland",
+    "region": "East Lothian",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.04,
+        55.94
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Near Musselburgh"
+    },
+    "participants": [
+      "auth-england:English army (duke of Somerset)",
+      "auth-scotland:Scottish army (earl of Arran)"
+    ],
+    "narrative": "Somerset's army, supported by naval gunfire, routed the Scots; the pursuit caused very heavy losses.",
+    "outcome": "English victory; Mary, Queen of Scots, was sent to France.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-prayer-book-1549",
+    "name": "Prayer Book Rebellion",
+    "type": "rebellion",
+    "date": "1549-06/1549-08",
+    "country": "England",
+    "region": "Devon and Cornwall",
+    "location": {
+      "kind": "area",
+      "point": [
+        -3.8,
+        50.75
+      ],
+      "uncertaintyKm": 35,
+      "placeName": "Devon and Cornwall"
+    },
+    "participants": [
+      "auth-england:Royal army (Lord Russell)",
+      "Cornish and Devon rebels"
+    ],
+    "narrative": "Rising against the English Book of Common Prayer; the rebels besieged Exeter and were defeated in a series of engagements.",
+    "outcome": "Rebellion crushed at Sampford Courtenay.",
+    "sources": [
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-sampford-courtenay-1549",
+    "name": "Battle of Sampford Courtenay",
+    "type": "battle",
+    "date": "1549-08-17",
+    "country": "England",
+    "region": "Devon",
+    "parentId": "evt-prayer-book-1549",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.95,
+        50.79
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Sampford Courtenay"
+    },
+    "participants": [
+      "auth-england:Royal army (Lord Russell)",
+      "Prayer Book rebels"
+    ],
+    "narrative": "The final defeat of the western rebels.",
+    "outcome": "Royal victory.",
+    "sources": [
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-ketts-1549",
+    "name": "Kett's Rebellion",
+    "type": "rebellion",
+    "date": "1549-07/1549-08-27",
+    "country": "England",
+    "region": "Norfolk",
+    "location": {
+      "kind": "unknown",
+      "note": "Rebellion-level record; see Dussindale."
+    },
+    "participants": [
+      "Norfolk rebels (Robert Kett)",
+      "auth-england:Royal army (earl of Warwick)"
+    ],
+    "narrative": "A rising against enclosure camped on Mousehold Heath and took Norwich.",
+    "outcome": "Crushed at Dussindale; Kett executed.",
+    "sources": [
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-dussindale-1549",
+    "name": "Battle of Dussindale",
+    "type": "battle",
+    "date": "1549-08-27",
+    "country": "England",
+    "region": "Norfolk",
+    "parentId": "evt-ketts-1549",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        1.35,
+        52.64
+      ],
+      "uncertaintyKm": 3,
+      "placeName": "Near Norwich",
+      "note": "The exact site of Dussindale is not known."
+    },
+    "participants": [
+      "auth-england:Royal army (earl of Warwick) with foreign mercenaries",
+      "Kett's rebels"
+    ],
+    "narrative": "The rebels were defeated with heavy loss after leaving their camp on Mousehold Heath.",
+    "outcome": "Royal victory.",
+    "sources": [
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-leith-1560",
+    "name": "Siege of Leith",
+    "type": "siege",
+    "date": "1560-04/1560-07",
+    "country": "Scotland",
+    "region": "Lothian",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.17,
+        55.975
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Leith"
+    },
+    "participants": [
+      "auth-england:English army with the Lords of the Congregation",
+      "French garrison of Mary of Guise"
+    ],
+    "narrative": "English and Scottish Protestant forces besieged the fortified French garrison in Leith.",
+    "outcome": "Treaty of Edinburgh: French and English troops withdrew.",
+    "sources": [
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-langside-1568",
+    "name": "Battle of Langside",
+    "type": "battle",
+    "date": "1568-05-13",
+    "country": "Scotland",
+    "region": "Glasgow",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.27,
+        55.82
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Langside, Glasgow"
+    },
+    "participants": [
+      "Regent Moray",
+      "Supporters of Mary, Queen of Scots"
+    ],
+    "narrative": "Mary's army, after her escape from Lochleven, was defeated by the Regent Moray.",
+    "outcome": "Mary fled to England.",
+    "castleIds": [
+      "castle-lochleven"
+    ],
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-rising-north-1569",
+    "name": "Rising of the North",
+    "type": "rebellion",
+    "date": "1569-11/1570-01",
+    "country": "England",
+    "region": "Northern England",
+    "location": {
+      "kind": "area",
+      "point": [
+        -1.6,
+        54.6
+      ],
+      "uncertaintyKm": 45,
+      "placeName": "Durham and Yorkshire"
+    },
+    "participants": [
+      "Catholic northern earls (Northumberland, Westmorland)",
+      "auth-england:Elizabeth I"
+    ],
+    "narrative": "The northern earls rose in favour of Catholicism and Mary, Queen of Scots; the rising collapsed without a major battle.",
+    "outcome": "Rebellion suppressed; widespread executions followed.",
+    "sources": [
+      "src-goodall"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-lang-siege-1571",
+    "name": "Lang Siege of Edinburgh Castle",
+    "type": "siege",
+    "date": "1571-05/1573-05-28",
+    "country": "Scotland",
+    "region": "Lothian",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.1999,
+        55.9486
+      ],
+      "placeName": "Edinburgh Castle"
+    },
+    "participants": [
+      "King's party with English artillery (1573)",
+      "Queen's party (William Kirkcaldy of Grange)"
+    ],
+    "narrative": "Mary's supporters held Edinburgh castle for two years; English siege guns brought down David's Tower in May 1573.",
+    "outcome": "Surrender; Kirkcaldy executed.",
+    "castleIds": [
+      "castle-edinburgh"
+    ],
+    "sources": [
+      "src-lynch",
+      "src-tabraham"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-glenlivet-1594",
+    "name": "Battle of Glenlivet",
+    "type": "battle",
+    "date": "1594-10-03",
+    "country": "Scotland",
+    "region": "Moray",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.32,
+        57.33
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Glenlivet"
+    },
+    "participants": [
+      "Catholic earls (Huntly, Erroll)",
+      "Royal force (earl of Argyll)"
+    ],
+    "narrative": "The Catholic earls defeated a larger royal army under the young earl of Argyll.",
+    "outcome": "Victory for Huntly, but James VI destroyed his castles afterwards.",
+    "castleIds": [
+      "castle-huntly"
+    ],
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  }
+]

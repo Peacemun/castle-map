@@ -1,0 +1,194 @@
+event id,name,year,type
+evt-st-brice-1002,St Brice's Day massacre,1002,massacre
+evt-durham-1006,Siege of Durham,1006,siege
+evt-ringmere-1010,Battle of Ringmere,1010,battle
+evt-canterbury-1011,Siege of Canterbury,1011,siege
+evt-london-1016,Siege of London,1016,siege
+evt-penselwood-1016,Battle of Penselwood,1016,battle
+evt-sherston-1016,Battle of Sherston,1016,battle
+evt-otford-1016,Battle of Otford,1016,battle
+evt-assandun-1016,Battle of Assandun,1016,battle
+evt-carham-1018,Battle of Carham,1018,battle
+evt-rhyd-y-groes-1039,Battle of Rhyd-y-groes,1039,battle
+evt-dunsinane-1054,Battle of the Seven Sleepers (Dunsinane),1054,battle
+evt-hereford-1055,Sack of Hereford,1055,raid
+evt-lumphanan-1057,Battle of Lumphanan,1057,battle
+evt-fulford-1066,Battle of Fulford,1066,battle
+evt-stamford-bridge-1066,Battle of Stamford Bridge,1066,battle
+evt-hastings-1066,Battle of Hastings,1066,battle
+evt-exeter-1068,Siege of Exeter,1068,siege
+evt-york-1069,Capture of York,1069,siege
+evt-ely-1071,Siege of Ely,1071,siege
+evt-norwich-1075,Siege of Norwich Castle,1075,siege
+evt-mynydd-carn-1081,Battle of Mynydd Carn,1081,battle
+evt-pevensey-1088,Siege of Pevensey,1088,siege
+evt-rochester-1088,Siege of Rochester,1088,siege
+evt-alnwick-1093,Battle of Alnwick (1093),1093,battle
+evt-bamburgh-1095,Siege of Bamburgh,1095,siege
+evt-exeter-1136,Siege of Exeter Castle,1136,siege
+evt-crug-mawr-1136,Battle of Crug Mawr,1136,battle
+evt-clitheroe-1138,Battle of Clitheroe,1138,battle
+evt-wark-1138,Siege of Wark,1138,siege
+evt-standard-1138,Battle of the Standard,1138,battle
+evt-lincoln-1141,First Battle of Lincoln,1141,battle
+evt-winchester-1141,Rout of Winchester,1141,battle
+evt-oxford-1142,Siege of Oxford,1142,siege
+evt-wilton-1143,Battle of Wilton,1143,battle
+evt-ewloe-1157,Battle of Ewloe,1157,battle
+evt-crogen-1165,Battle of Crogen,1165,battle
+evt-cardigan-1165,Lord Rhys captures Cardigan and Cilgerran,1165,siege
+evt-fornham-1173,Battle of Fornham,1173,battle
+evt-alnwick-1174,Battle of Alnwick (1174),1174,battle
+evt-rochester-1215,Siege of Rochester Castle,1215,siege
+evt-dover-1216,Siege of Dover Castle,1216,siege
+evt-windsor-1216,Siege of Windsor Castle,1216,siege
+evt-lincoln-1217,Second Battle of Lincoln,1217,battle
+evt-sandwich-1217,Battle of Sandwich,1217,battle
+evt-rothesay-1230,Siege of Rothesay Castle,1230,siege
+evt-largs-1263,Battle of Largs,1263,battle
+evt-northampton-1264,Siege of Northampton,1264,siege
+evt-lewes-1264,Battle of Lewes,1264,battle
+evt-evesham-1265,Battle of Evesham,1265,battle
+evt-kenilworth-1266,Siege of Kenilworth,1266,siege
+evt-caerphilly-1270,Llywelyn's attack on Caerphilly,1270,raid
+evt-hawarden-1282,Attack on Hawarden Castle,1282,raid
+evt-moel-y-don-1282,Battle of Moel-y-don,1282,battle
+evt-orewin-bridge-1282,Battle of Orewin Bridge,1282,battle
+evt-dolwyddelan-1283,Capture of Dolwyddelan,1283,siege
+evt-y-bere-1283,Siege of Castell y Bere,1283,siege
+evt-maes-moydog-1295,Battle of Maes Moydog,1295,battle
+evt-dunbar-1296,Battle of Dunbar (1296),1296,battle
+evt-edinburgh-1296,Siege of Edinburgh Castle (1296),1296,siege
+evt-lanark-1297,Action at Lanark,1297,raid
+evt-stirling-bridge-1297,Battle of Stirling Bridge,1297,battle
+evt-falkirk-1298,Battle of Falkirk (1298),1298,battle
+evt-dirleton-1298,Siege of Dirleton Castle,1298,siege
+evt-stirling-1299,Siege of Stirling Castle (1299),1299,siege
+evt-caerlaverock-1300,Siege of Caerlaverock,1300,siege
+evt-bothwell-1301,Siege of Bothwell Castle,1301,siege
+evt-roslin-1303,Battle of Roslin,1303,battle
+evt-stirling-1304,Siege of Stirling Castle (1304),1304,siege
+evt-methven-1306,Battle of Methven,1306,battle
+evt-kildrummy-1306,Siege of Kildrummy,1306,siege
+evt-loudoun-hill-1307,Battle of Loudoun Hill,1307,battle
+evt-brander-1308,Battle of the Pass of Brander,1308,battle
+evt-roxburgh-1314,Capture of Roxburgh Castle,1314,siege
+evt-edinburgh-1314,Capture of Edinburgh Castle,1314,siege
+evt-stirling-1314,Siege of Stirling Castle (1314),1314,siege
+evt-bannockburn-1314,Battle of Bannockburn,1314,battle
+evt-carlisle-1315,Siege of Carlisle,1315,siege
+evt-berwick-1318,Capture of Berwick (1318),1318,siege
+evt-myton-1319,Battle of Myton,1319,battle
+evt-boroughbridge-1322,Battle of Boroughbridge,1322,battle
+evt-old-byland-1322,Battle of Old Byland,1322,battle
+evt-caerphilly-1326,Siege of Caerphilly Castle (1326–27),1326,siege
+evt-dupplin-1332,Battle of Dupplin Moor,1332,battle
+evt-halidon-hill-1333,Battle of Halidon Hill,1333,battle
+evt-dunbar-1338,Siege of Dunbar Castle,1338,siege
+evt-nevilles-cross-1346,Battle of Neville's Cross,1346,battle
+evt-otterburn-1388,Battle of Otterburn,1388,battle
+evt-ruthin-1400,Attack on Ruthin,1400,raid
+evt-conwy-1401,Seizure of Conwy Castle,1401,siege
+evt-hyddgen-1401,Battle of Mynydd Hyddgen,1401,battle
+evt-bryn-glas-1402,Battle of Bryn Glas,1402,battle
+evt-homildon-1402,Battle of Homildon Hill,1402,battle
+evt-shrewsbury-1403,Battle of Shrewsbury,1403,battle
+evt-caernarfon-1403,Sieges of Caernarfon,1403,siege
+evt-carreg-cennen-1403,Siege of Carreg Cennen,1403,siege
+evt-harlech-1404,Glyndŵr captures Harlech,1404,siege
+evt-aberystwyth-1404,Glyndŵr captures Aberystwyth,1404,siege
+evt-criccieth-1404,Destruction of Criccieth Castle,1404,siege
+evt-pwll-melyn-1405,Battle of Pwll Melyn,1405,battle
+evt-aberystwyth-1408,Siege of Aberystwyth,1407,siege
+evt-harlech-1408,Siege of Harlech (1408–09),1408,siege
+evt-harlaw-1411,Battle of Harlaw,1411,battle
+evt-threave-1455,Siege of Threave Castle,1455,siege
+evt-st-albans-1455,First Battle of St Albans,1455,battle
+evt-blore-heath-1459,Battle of Blore Heath,1459,battle
+evt-northampton-1460,Battle of Northampton,1460,battle
+evt-roxburgh-1460,Siege of Roxburgh,1460,siege
+evt-wakefield-1460,Battle of Wakefield,1460,battle
+evt-mortimers-cross-1461,Battle of Mortimer's Cross,1461,battle
+evt-st-albans-1461,Second Battle of St Albans,1461,battle
+evt-ferrybridge-1461,Battle of Ferrybridge,1461,battle
+evt-harlech-1468,Siege of Harlech (1461–68),1461,siege
+evt-hedgeley-moor-1464,Battle of Hedgeley Moor,1464,battle
+evt-hexham-1464,Battle of Hexham,1464,battle
+evt-bamburgh-1464,Siege of Bamburgh (1464),1464,siege
+evt-edgecote-1469,Battle of Edgecote Moor,1469,battle
+evt-losecoat-1470,Battle of Losecoat Field,1470,battle
+evt-barnet-1471,Battle of Barnet,1471,battle
+evt-tewkesbury-1471,Battle of Tewkesbury,1471,battle
+evt-stoke-1487,Battle of Stoke Field,1487,battle
+evt-sauchieburn-1488,Battle of Sauchieburn,1488,battle
+evt-blackheath-1497,Battle of Deptford Bridge (Blackheath),1497,battle
+evt-norham-1513,Siege of Norham Castle,1513,siege
+evt-melrose-1526,Battle of Melrose,1526,battle
+evt-solway-moss-1542,Battle of Solway Moss,1542,battle
+evt-ancrum-moor-1545,Battle of Ancrum Moor,1545,battle
+evt-st-andrews-1546,Siege of St Andrews Castle,1546,siege
+evt-pinkie-1547,Battle of Pinkie,1547,battle
+evt-sampford-courtenay-1549,Battle of Sampford Courtenay,1549,battle
+evt-leith-1560,Siege of Leith,1560,siege
+evt-langside-1568,Battle of Langside,1568,battle
+evt-lang-siege-1571,Lang Siege of Edinburgh Castle,1571,siege
+evt-glenlivet-1594,Battle of Glenlivet,1594,battle
+evt-glen-fruin-1603,Battle of Glen Fruin,1603,battle
+evt-newburn-1640,Battle of Newburn,1640,battle
+evt-caerlaverock-1640,Siege of Caerlaverock (1640),1640,siege
+evt-edgehill-1642,Battle of Edgehill,1642,battle
+evt-skipton-1642,Siege of Skipton Castle,1642,siege
+evt-braddock-down-1643,Battle of Braddock Down,1643,battle
+evt-hopton-heath-1643,Battle of Hopton Heath,1643,battle
+evt-stratton-1643,Battle of Stratton,1643,battle
+evt-adwalton-moor-1643,Battle of Adwalton Moor,1643,battle
+evt-lansdown-1643,Battle of Lansdown,1643,battle
+evt-roundway-down-1643,Battle of Roundway Down,1643,battle
+evt-bristol-1643,Storming of Bristol,1643,siege
+evt-gloucester-1643,Siege of Gloucester,1643,siege
+evt-newbury-1643,First Battle of Newbury,1643,battle
+evt-winceby-1643,Battle of Winceby,1643,battle
+evt-nantwich-1644,Battle of Nantwich,1644,battle
+evt-cheriton-1644,Battle of Cheriton,1644,battle
+evt-cropredy-1644,Battle of Cropredy Bridge,1644,battle
+evt-tippermuir-1644,Battle of Tippermuir,1644,battle
+evt-aberdeen-1644,Battle of Aberdeen (Justice Mills),1644,battle
+evt-fyvie-1644,Battle of Fyvie,1644,battle
+evt-montgomery-1644,Battle of Montgomery,1644,battle
+evt-lostwithiel-1644,Battle of Lostwithiel,1644,battle
+evt-newbury-1644,Second Battle of Newbury,1644,battle
+evt-inverlochy-1645,Battle of Inverlochy,1645,battle
+evt-auldearn-1645,Battle of Auldearn,1645,battle
+evt-alford-1645,Battle of Alford,1645,battle
+evt-langport-1645,Battle of Langport,1645,battle
+evt-kilsyth-1645,Battle of Kilsyth,1645,battle
+evt-philiphaugh-1645,Battle of Philiphaugh,1645,battle
+evt-rowton-heath-1645,Battle of Rowton Heath,1645,battle
+evt-basing-1645,Siege of Basing House,1643,siege
+evt-corfe-1646,Siege of Corfe Castle,1645,siege
+evt-stow-1646,Battle of Stow-on-the-Wold,1646,battle
+evt-goodrich-1646,Siege of Goodrich Castle,1646,siege
+evt-raglan-1646,Siege of Raglan Castle,1646,siege
+evt-harlech-1647,Surrender of Harlech (1647),1646,siege
+evt-st-fagans-1648,Battle of St Fagans,1648,battle
+evt-pembroke-1648,Siege of Pembroke,1648,siege
+evt-colchester-1648,Siege of Colchester,1648,siege
+evt-preston-1648,Battle of Preston (1648),1648,battle
+evt-pontefract-1648,Third Siege of Pontefract,1648,siege
+evt-carbisdale-1650,Battle of Carbisdale,1650,battle
+evt-edinburgh-1650,Siege of Edinburgh Castle (1650),1650,siege
+evt-inverkeithing-1651,Battle of Inverkeithing,1651,battle
+evt-dundee-1651,Sack of Dundee,1651,massacre
+evt-dunnottar-1651,Siege of Dunnottar Castle,1651,siege
+evt-edinburgh-1689,Siege of Edinburgh Castle (1689),1689,siege
+evt-killiecrankie-1689,Battle of Killiecrankie,1689,battle
+evt-dunkeld-1689,Battle of Dunkeld,1689,battle
+evt-cromdale-1690,Battle of Cromdale,1690,battle
+evt-sheriffmuir-1715,Battle of Sheriffmuir,1715,battle
+evt-preston-1715,Battle of Preston (1715),1715,battle
+evt-eilean-donan-1719,Bombardment of Eilean Donan,1719,siege
+evt-glen-shiel-1719,Battle of Glen Shiel,1719,battle
+evt-carlisle-1745,Sieges of Carlisle (1745),1745,siege
+evt-falkirk-1746,Battle of Falkirk Muir,1746,battle
+evt-fishguard-1797,Fishguard landing,1797,raid
+evt-manchester-1940,Manchester Christmas Blitz,1940,air-raid

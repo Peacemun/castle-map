@@ -1,0 +1,13 @@
+{
+  "_comment": "Explicit register-to-event matches where automatic name matching is ambiguous (e.g. HES numbers repeated battlefields 'I'/'II' without dates). null = do not use the polygon (outside AD 1000–2000).",
+  "he-1000019": null,
+  "hes-BTL7": "evt-dunbar-1650",
+  "hes-BTL31": "evt-dunbar-1296",
+  "hes-BTL9": "evt-falkirk-1746",
+  "hes-BTL34": "evt-wd-battle-of-inverlochy-1431",
+  "hes-BTL24": "evt-inverlochy-1645",
+  "hes-BTL10": "evt-glen-shiel-1719",
+  "hes-BTL23": "evt-inverkeithing-1651",
+  "hes-BTL22": "evt-fyvie-1644",
+  "hes-BTL30": "evt-melrose-1526"
+}

@@ -1,0 +1,88 @@
+register id,register name,matched event,event name,distance km
+he-1000000,Battle of Adwalton Moor 1643,evt-adwalton-moor-1643,Battle of Adwalton Moor,0.66
+he-1000001,Battle of Barnet 1471,evt-barnet-1471,Battle of Barnet,0.92
+he-1000002,Battle of Blore Heath 1459,evt-blore-heath-1459,Battle of Blore Heath,0.72
+he-1000003,Battle of Boroughbridge 1322,evt-boroughbridge-1322,Battle of Boroughbridge,0.70
+he-1000004,Battle of Bosworth (Field) 1485,evt-bosworth-1485,Battle of Bosworth,1.70
+he-1000005,Battle of Braddock Down 1643,evt-braddock-down-1643,Battle of Braddock Down,2.17
+he-1000006,Battle of Chalgrove 1643,evt-wd-battle-of-chalgrove-field-1643,Battle of Chalgrove Field,0.71
+he-1000007,Battle of Cheriton 1644,evt-cheriton-1644,Battle of Cheriton,1.43
+he-1000008,Battle of Cropredy Bridge 1644,evt-cropredy-1644,Battle of Cropredy Bridge,1.21
+he-1000009,Battle of Edgehill 1642,evt-edgehill-1642,Battle of Edgehill,1.19
+he-1000010,Battle of Evesham 1265,evt-evesham-1265,Battle of Evesham,0.67
+he-1000011,Battle of Flodden 1513,evt-flodden-1513,Battle of Flodden,1.07
+he-1000012,The Site of The Battle of Halidon Hill 1333,evt-halidon-hill-1333,Battle of Halidon Hill,0.86
+he-1000013,Battle of Hastings 1066,evt-hastings-1066,Battle of Hastings,0.16
+he-1000014,Battle of Homildon Hill 1402,evt-homildon-1402,Battle of Homildon Hill,0.78
+he-1000015,Battle of Hopton Heath 1643,evt-hopton-heath-1643,Battle of Hopton Heath,1.97
+he-1000016,Battle of Langport 1645,evt-langport-1645,Battle of Langport,0.55
+he-1000017,Battle of Lansdown (Hill) 1643,evt-lansdown-1643,Battle of Lansdown,2.14
+he-1000018,Battle of Lewes 1264,evt-lewes-1264,Battle of Lewes,1.29
+he-1000019,Battle of Maldon 991,EXCLUDED (override),,
+he-1000020,Battle of Marston Moor 1644,evt-marston-moor-1644,Battle of Marston Moor,0.96
+he-1000021,Battle of Myton 1319,evt-myton-1319,Battle of Myton,1.45
+he-1000022,Battle of Nantwich 1644,evt-nantwich-1644,Battle of Nantwich,0.46
+he-1000023,Battle of Naseby 1645,evt-naseby-1645,Battle of Naseby,1.40
+he-1000024,Battle of Neville's Cross 1346,evt-nevilles-cross-1346,Battle of Neville's Cross,0.73
+he-1000025,Battle of Newburn Ford 1640,evt-newburn-1640,Battle of Newburn,0.42
+he-1000026,Battle of Newbury 1643,evt-newbury-1643,First Battle of Newbury,0.60
+he-1000027,Battle of Northallerton 1138,evt-standard-1138,Battle of the Standard,1.87
+he-1000028,Battle of Northampton 1460,evt-northampton-1460,Battle of Northampton,0.31
+he-1000029,Battle of Otterburn 1388,evt-otterburn-1388,Battle of Otterburn,0.81
+he-1000030,Battle of Roundway Down 1643,evt-roundway-down-1643,Battle of Roundway Down,1.35
+he-1000031,Battle of Rowton Heath 1645,evt-rowton-heath-1645,Battle of Rowton Heath,2.30
+he-1000032,Battle of Sedgemoor 1685,evt-sedgemoor-1685,Battle of Sedgemoor,1.36
+he-1000033,Battle of Shrewsbury 1403,evt-shrewsbury-1403,Battle of Shrewsbury,0.65
+he-1000034,Battle of Solway Moss 1542,evt-solway-moss-1542,Battle of Solway Moss,3.81
+he-1000035,Battle of Stamford Bridge 1066,evt-stamford-bridge-1066,Battle of Stamford Bridge,0.69
+he-1000036,Battle of Stoke (Field) 1487,evt-stoke-1487,Battle of Stoke Field,3.02
+he-1000037,Battle of Stow (-on-the-Wold) 1646,evt-stow-1646,Battle of Stow-on-the-Wold,2.62
+he-1000038,Battle of Stratton 1643,evt-stratton-1643,Battle of Stratton,0.62
+he-1000039,Battle of Tewkesbury 1471,evt-tewkesbury-1471,Battle of Tewkesbury,0.35
+he-1000040,"Battle of Towton, 1461",evt-towton-1461,Battle of Towton,0.51
+he-1000041,Battle of Winceby 1643,evt-winceby-1643,Battle of Winceby,1.01
+he-1000042,Battle of Worcester 1651 with Powick Old Bridge 1642,evt-worcester-1651,Battle of Worcester,1.09
+he-1412878,Battle of Winwick (also known as Battle of Red Bank) 1648,evt-wd-battle-of-winwick-1648,Battle of Winwick,0.15
+he-1413619,Battle of Lostwithiel 21 August 1644,evt-lostwithiel-1644,Battle of Lostwithiel,2.01
+he-1413762,Battle of Lostwithiel 31 August - 1 September 1644,evt-lostwithiel-1644,Battle of Lostwithiel,5.06
+he-1413782,Battle of Edgcote 1469,evt-edgecote-1469,Battle of Edgecote Moor,2.06
+hes-BTL1,Battle of Alford,evt-alford-1645,Battle of Alford,1.15
+hes-BTL2,Battle of Ancrum Moor,evt-ancrum-moor-1545,Battle of Ancrum Moor,0.83
+hes-BTL3,Battle of Auldearn,evt-auldearn-1645,Battle of Auldearn,1.29
+hes-BTL4,Battle of Bannockburn,evt-bannockburn-1314,Battle of Bannockburn,1.43
+hes-BTL5,Battle of Bothwell Bridge,evt-wd-battle-of-bothwell-bridge-1679,Battle of Bothwell Bridge,0.24
+hes-BTL6,Battle of Culloden,evt-culloden-1746,Battle of Culloden,2.25
+hes-BTL7,Battle of Dunbar Ii,evt-dunbar-1650,Battle of Dunbar (1650),1.38
+hes-BTL8,Battle of Dupplin Moor,evt-dupplin-1332,Battle of Dupplin Moor,1.55
+hes-BTL9,Battle of Falkirk Ii,evt-falkirk-1746,Battle of Falkirk Muir,0.81
+hes-BTL10,Battle of Glenshiel,evt-glen-shiel-1719,Battle of Glen Shiel,4.43
+hes-BTL11,Battle of Harlaw,evt-harlaw-1411,Battle of Harlaw,0.53
+hes-BTL12,Battle of Killiecrankie,evt-killiecrankie-1689,Battle of Killiecrankie,1.38
+hes-BTL13,Battle of Kilsyth,evt-kilsyth-1645,Battle of Kilsyth,1.12
+hes-BTL14,Battle of Philiphaugh,evt-philiphaugh-1645,Battle of Philiphaugh,1.36
+hes-BTL17,Battle of Sheriffmuir,evt-sheriffmuir-1715,Battle of Sheriffmuir,2.44
+hes-BTL15,Battle of Pinkie,evt-pinkie-1547,Battle of Pinkie,1.18
+hes-BTL18,Battle of Barra,evt-wd-battle-of-inverurie-1308,Battle of Inverurie,1.48
+hes-BTL19,Battle of Carbisdale,evt-carbisdale-1650,Battle of Carbisdale,0.58
+hes-BTL20,Battle of Cromdale,evt-cromdale-1690,Battle of Cromdale,1.06
+hes-BTL21,Battle of Drumclog,evt-wd-battle-of-drumclog-1679,Battle of Drumclog,0.29
+hes-BTL22,Battle of Fyvie,evt-fyvie-1644,Battle of Fyvie,1.27
+hes-BTL23,Battle of Inverkeithing Ii,evt-inverkeithing-1651,Battle of Inverkeithing,1.10
+hes-BTL25,Battle of Linlithgow Bridge,evt-wd-battle-of-linlithgow-bridge-1526,Battle of Linlithgow Bridge,0.16
+hes-BTL26,Battle of Mulroy,evt-wd-battle-of-maol-ruadh-1688,Battle of Maol Ruadh,0.88
+hes-BTL27,Battle of Rullion Green,evt-wd-battle-of-rullion-green-1666,Battle of Rullion Green,0.82
+hes-BTL28,Battle of Stirling Bridge,evt-stirling-bridge-1297,Battle of Stirling Bridge,0.62
+hes-BTL24,Battle of Inverlochy Ii,evt-inverlochy-1645,Battle of Inverlochy,0.83
+hes-BTL31,Battle of Dunbar I,evt-dunbar-1296,Battle of Dunbar (1296),2.93
+hes-BTL32,Battle of Dunkeld,evt-dunkeld-1689,Battle of Dunkeld,0.41
+hes-BTL33,Battle of Glenlivet,evt-glenlivet-1594,Battle of Glenlivet,4.71
+hes-BTL34,Battle of Inverlochy I,evt-wd-battle-of-inverlochy-1431,Battle of Inverlochy,0.40
+hes-BTL36,Battle of Loudoun Hill,evt-loudoun-hill-1307,Battle of Loudoun Hill,1.83
+hes-BTL38,Battle of Sauchieburn,evt-sauchieburn-1488,Battle of Sauchieburn,1.85
+hes-BTL39,Battle of Tippermuir,evt-tippermuir-1644,Battle of Tippermuir,0.53
+hes-BTL29,Blar Na Léine,evt-wd-battle-of-the-shirts-1544,Battle of the Shirts,0.47
+hes-BTL37,Battle of Roslin,evt-roslin-1303,Battle of Roslin,1.20
+hes-BTL35,Battle of Langside,evt-langside-1568,Battle of Langside,0.79
+hes-BTL30,Battle of Darnick,evt-melrose-1526,Battle of Melrose,0.33
+hes-BTL40,Battle of Sark,evt-wd-battle-of-sark-1448,Battle of Sark,0.14
+hes-BTL16,Battle of Prestonpans,evt-prestonpans-1745,Battle of Prestonpans,1.32

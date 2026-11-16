@@ -1,0 +1,2094 @@
+[
+  {
+    "id": "evt-glen-fruin-1603",
+    "name": "Battle of Glen Fruin",
+    "type": "battle",
+    "date": "1603-02-07",
+    "country": "Scotland",
+    "region": "Dunbartonshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.7,
+        56.04
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Glen Fruin"
+    },
+    "participants": [
+      "Clan Gregor",
+      "Clan Colquhoun"
+    ],
+    "narrative": "The MacGregors defeated the Colquhouns of Luss in a clan battle that led to the proscription of the name MacGregor.",
+    "outcome": "MacGregor victory; the clan was outlawed by the Privy Council.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-three-kingdoms",
+    "name": "Wars of the Three Kingdoms",
+    "type": "campaign",
+    "date": "1639/1651",
+    "country": "Cross-border",
+    "location": {
+      "kind": "unknown",
+      "note": "War-level record; see linked events."
+    },
+    "participants": [
+      "Royalists",
+      "Parliamentarians",
+      "Scottish Covenanters"
+    ],
+    "narrative": "Interlinked wars in England, Scotland, Wales and Ireland, from the Bishops' Wars to the battle of Worcester.",
+    "outcome": "Execution of Charles I (1649) and the Commonwealth.",
+    "sources": [
+      "src-woolrych",
+      "src-carlton"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-newburn-1640",
+    "name": "Battle of Newburn",
+    "type": "battle",
+    "date": "1640-08-28",
+    "country": "England",
+    "region": "Northumberland",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.74,
+        54.98
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Newburn ford on the Tyne"
+    },
+    "participants": [
+      "Scottish Covenanter army (Alexander Leslie)",
+      "auth-england:English royal army (Lord Conway)"
+    ],
+    "narrative": "In the Second Bishops' War the Covenanters forced the Tyne crossing at Newburn and occupied Newcastle.",
+    "outcome": "Scottish victory; Charles I forced to summon the Long Parliament.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-caerlaverock-1640",
+    "name": "Siege of Caerlaverock (1640)",
+    "type": "siege",
+    "date": "1640-07/1640-09",
+    "country": "Scotland",
+    "region": "Dumfries and Galloway",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.5234,
+        55.0058
+      ],
+      "placeName": "Caerlaverock Castle"
+    },
+    "participants": [
+      "Covenanters",
+      "Royalist garrison (earl of Nithsdale)"
+    ],
+    "narrative": "The royalist earl of Nithsdale held Caerlaverock for thirteen weeks against Covenanters.",
+    "outcome": "Surrendered on the king's instructions; partly dismantled.",
+    "castleIds": [
+      "castle-caerlaverock"
+    ],
+    "sources": [
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-edgehill-1642",
+    "name": "Battle of Edgehill",
+    "type": "battle",
+    "date": "1642-10-23",
+    "country": "England",
+    "region": "Warwickshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.47,
+        52.13
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Below Edge Hill"
+    },
+    "participants": [
+      "Royalists (Charles I)",
+      "Parliamentarians (earl of Essex)"
+    ],
+    "narrative": "The first pitched battle of the English Civil War.",
+    "outcome": "Indecisive; the king later advanced on London but turned back at Turnham Green.",
+    "sources": [
+      "src-he-battlefields",
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-skipton-1642",
+    "name": "Siege of Skipton Castle",
+    "type": "siege",
+    "date": "1642-12/1645-12-21",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.0168,
+        53.9624
+      ],
+      "placeName": "Skipton Castle"
+    },
+    "participants": [
+      "Parliamentarians",
+      "Royalist garrison (John Mallory)"
+    ],
+    "narrative": "Skipton was blockaded for about three years, one of the longest sieges of the war.",
+    "outcome": "Surrendered on terms in December 1645.",
+    "castleIds": [
+      "castle-skipton"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-braddock-down-1643",
+    "name": "Battle of Braddock Down",
+    "type": "battle",
+    "date": "1643-01-19",
+    "country": "England",
+    "region": "Cornwall",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.58,
+        50.42
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Braddock Down"
+    },
+    "participants": [
+      "Royalists (Ralph Hopton)",
+      "Parliamentarians (William Ruthin)"
+    ],
+    "narrative": "Hopton's Cornish army routed the Parliamentarian invaders of Cornwall.",
+    "outcome": "Royalist victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-hopton-heath-1643",
+    "name": "Battle of Hopton Heath",
+    "type": "battle",
+    "date": "1643-03-19",
+    "country": "England",
+    "region": "Staffordshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.04,
+        52.83
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Hopton Heath"
+    },
+    "participants": [
+      "Royalists (earl of Northampton)",
+      "Parliamentarians (Sir John Gell, Sir William Brereton)"
+    ],
+    "narrative": "An inconclusive battle near Stafford in which the royalist commander Northampton was killed.",
+    "outcome": "Indecisive.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-stratton-1643",
+    "name": "Battle of Stratton",
+    "type": "battle",
+    "date": "1643-05-16",
+    "country": "England",
+    "region": "Cornwall",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.52,
+        50.83
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Stamford Hill, Stratton"
+    },
+    "participants": [
+      "Royalists (Ralph Hopton)",
+      "Parliamentarians (earl of Stamford)"
+    ],
+    "narrative": "Hopton's army stormed the Parliamentarian position on Stamford Hill.",
+    "outcome": "Royalist victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-adwalton-moor-1643",
+    "name": "Battle of Adwalton Moor",
+    "type": "battle",
+    "date": "1643-06-30",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.67,
+        53.75
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Adwalton Moor"
+    },
+    "participants": [
+      "Royalists (earl of Newcastle)",
+      "Parliamentarians (Lord Fairfax)"
+    ],
+    "narrative": "Newcastle's army defeated the Fairfaxes, giving the royalists control of most of Yorkshire.",
+    "outcome": "Royalist victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-lansdown-1643",
+    "name": "Battle of Lansdown",
+    "type": "battle",
+    "date": "1643-07-05",
+    "country": "England",
+    "region": "Somerset",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.4,
+        51.42
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Lansdown Hill, near Bath"
+    },
+    "participants": [
+      "Royalists (Ralph Hopton)",
+      "Parliamentarians (Sir William Waller)"
+    ],
+    "narrative": "Royalists stormed Waller's position on Lansdown Hill at heavy cost; Sir Bevil Grenville was killed.",
+    "outcome": "Pyrrhic royalist victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-roundway-down-1643",
+    "name": "Battle of Roundway Down",
+    "type": "battle",
+    "date": "1643-07-13",
+    "country": "England",
+    "region": "Wiltshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.99,
+        51.38
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Roundway Down, near Devizes"
+    },
+    "participants": [
+      "Royalist cavalry (Lord Wilmot)",
+      "Parliamentarians (Sir William Waller)"
+    ],
+    "narrative": "Royalist cavalry relieving Devizes destroyed Waller's army; many fugitives fell down the steep scarp.",
+    "outcome": "Decisive royalist victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-bristol-1643",
+    "name": "Storming of Bristol",
+    "type": "siege",
+    "date": "1643-07-26",
+    "country": "England",
+    "region": "Bristol",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.6,
+        51.46
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Bristol"
+    },
+    "participants": [
+      "Royalists (Prince Rupert)",
+      "Parliamentarian garrison (Nathaniel Fiennes)"
+    ],
+    "narrative": "Prince Rupert stormed Bristol, England's second city, with heavy royalist losses.",
+    "outcome": "Bristol surrendered to the royalists.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-gloucester-1643",
+    "name": "Siege of Gloucester",
+    "type": "siege",
+    "date": "1643-08-10/1643-09-05",
+    "country": "England",
+    "region": "Gloucestershire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.245,
+        51.865
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Gloucester"
+    },
+    "participants": [
+      "Royalists (Charles I)",
+      "Parliamentarian garrison (Edward Massey)"
+    ],
+    "narrative": "Charles I besieged Gloucester until a relief army under the earl of Essex arrived.",
+    "outcome": "Siege lifted.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-newbury-1643",
+    "name": "First Battle of Newbury",
+    "type": "battle",
+    "date": "1643-09-20",
+    "country": "England",
+    "region": "Berkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.34,
+        51.39
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Wash Common, Newbury"
+    },
+    "participants": [
+      "Royalists (Charles I)",
+      "Parliamentarians (earl of Essex)"
+    ],
+    "narrative": "The king tried to block Essex's return to London; Lord Falkland was among the dead.",
+    "outcome": "Indecisive; Essex reached London.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-winceby-1643",
+    "name": "Battle of Winceby",
+    "type": "battle",
+    "date": "1643-10-11",
+    "country": "England",
+    "region": "Lincolnshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.02,
+        53.2
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Winceby"
+    },
+    "participants": [
+      "Parliamentarians (Manchester, Cromwell, Fairfax)",
+      "Royalists"
+    ],
+    "narrative": "A cavalry action in which Cromwell's horse routed royalists in Lincolnshire.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-nantwich-1644",
+    "name": "Battle of Nantwich",
+    "type": "battle",
+    "date": "1644-01-25",
+    "country": "England",
+    "region": "Cheshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.54,
+        53.08
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Acton, near Nantwich"
+    },
+    "participants": [
+      "Parliamentarians (Thomas Fairfax)",
+      "Royalists (Lord Byron)"
+    ],
+    "narrative": "Fairfax relieved Nantwich, defeating royalist troops recently returned from Ireland.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-cheriton-1644",
+    "name": "Battle of Cheriton",
+    "type": "battle",
+    "date": "1644-03-29",
+    "country": "England",
+    "region": "Hampshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.16,
+        51.05
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Cheriton"
+    },
+    "participants": [
+      "Parliamentarians (Sir William Waller)",
+      "Royalists (Lord Forth, Ralph Hopton)"
+    ],
+    "narrative": "Waller defeated the royalist army in Hampshire, ending royalist hopes of advancing into the south-east.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-bolton-1644",
+    "name": "Bolton Massacre",
+    "type": "massacre",
+    "date": "1644-05-28",
+    "country": "England",
+    "region": "Lancashire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.43,
+        53.578
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Bolton"
+    },
+    "participants": [
+      "Royalists (Prince Rupert, earl of Derby)",
+      "Parliamentarian garrison and townspeople of Bolton"
+    ],
+    "narrative": "Royalist forces stormed Bolton; Parliamentarian pamphlets described the killing of soldiers and civilians.",
+    "outcome": "Town taken.",
+    "disagreements": [
+      "Death figures come from partisan contemporary reports and vary considerably."
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-cropredy-1644",
+    "name": "Battle of Cropredy Bridge",
+    "type": "battle",
+    "date": "1644-06-29",
+    "country": "England",
+    "region": "Oxfordshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.32,
+        52.11
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Cropredy Bridge"
+    },
+    "participants": [
+      "Royalists (Charles I)",
+      "Parliamentarians (Sir William Waller)"
+    ],
+    "narrative": "Waller attacked the strung-out royalist army on the Cherwell and was repulsed.",
+    "outcome": "Royalist victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-marston-moor-1644",
+    "name": "Battle of Marston Moor",
+    "type": "battle",
+    "date": "1644-07-02",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.27,
+        53.96
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Long Marston"
+    },
+    "participants": [
+      "Parliamentarians and Scottish Covenanters (Leven, Manchester, Fairfax)",
+      "Royalists (Prince Rupert, marquess of Newcastle)"
+    ],
+    "commanders": [
+      "Earl of Leven",
+      "Earl of Manchester",
+      "Lord Fairfax",
+      "Oliver Cromwell",
+      "Prince Rupert",
+      "Marquess of Newcastle"
+    ],
+    "narrative": "The largest battle of the English Civil Wars, fought in the evening; Cromwell's cavalry decided the day.",
+    "outcome": "Decisive allied victory; royalist control of the north collapsed and York surrendered.",
+    "sources": [
+      "src-he-battlefields",
+      "src-newman-marston"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-tippermuir-1644",
+    "name": "Battle of Tippermuir",
+    "type": "battle",
+    "date": "1644-09-01",
+    "country": "Scotland",
+    "region": "Perthshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.53,
+        56.39
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Tippermuir, west of Perth"
+    },
+    "participants": [
+      "Royalists (marquess of Montrose, Alasdair Mac Colla)",
+      "Covenanters (Lord Elcho)"
+    ],
+    "narrative": "Montrose's first victory, over a larger but inexperienced Covenanter force.",
+    "outcome": "Royalist victory; Perth occupied.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-aberdeen-1644",
+    "name": "Battle of Aberdeen (Justice Mills)",
+    "type": "battle",
+    "date": "1644-09-13",
+    "country": "Scotland",
+    "region": "Aberdeen",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.115,
+        57.14
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Justice Mills, Aberdeen"
+    },
+    "participants": [
+      "Royalists (Montrose)",
+      "Covenanters (Lord Balfour of Burleigh)"
+    ],
+    "narrative": "Montrose defeated the Covenanters outside Aberdeen; his troops then killed many townspeople.",
+    "outcome": "Royalist victory followed by the sack of Aberdeen.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-fyvie-1644",
+    "name": "Battle of Fyvie",
+    "type": "battle",
+    "date": "1644-10",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.39,
+        57.43
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Fyvie"
+    },
+    "participants": [
+      "Royalists (Montrose)",
+      "Covenanters (marquess of Argyll)"
+    ],
+    "narrative": "Montrose, caught by Argyll's larger army near Fyvie castle, held a strong position on a hillside and repulsed Covenanter attacks.",
+    "outcome": "Inconclusive; Montrose withdrew into the hills.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-montgomery-1644",
+    "name": "Battle of Montgomery",
+    "type": "battle",
+    "date": "1644-09-18",
+    "country": "Wales",
+    "region": "Powys",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.14,
+        52.57
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Below Montgomery Castle"
+    },
+    "participants": [
+      "Parliamentarians (Sir John Meldrum, Sir Thomas Myddelton)",
+      "Royalists (Lord Byron)"
+    ],
+    "narrative": "Royalists besieging Parliament's garrison in Montgomery castle were defeated by a relief force; the largest Civil War battle in Wales.",
+    "outcome": "Parliamentarian victory.",
+    "castleIds": [
+      "castle-montgomery"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-lostwithiel-1644",
+    "name": "Battle of Lostwithiel",
+    "type": "battle",
+    "date": "1644-08-21/1644-09-02",
+    "country": "England",
+    "region": "Cornwall",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "area",
+      "point": [
+        -4.67,
+        50.4
+      ],
+      "uncertaintyKm": 3,
+      "placeName": "Lostwithiel and Fowey"
+    },
+    "participants": [
+      "Royalists (Charles I)",
+      "Parliamentarians (earl of Essex)"
+    ],
+    "narrative": "Essex's army was trapped in Cornwall; his cavalry broke out but the infantry surrendered at Fowey.",
+    "outcome": "Major royalist victory.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-newbury-1644",
+    "name": "Second Battle of Newbury",
+    "type": "battle",
+    "date": "1644-10-27",
+    "country": "England",
+    "region": "Berkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.31,
+        51.41
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Speen and Shaw, Newbury"
+    },
+    "participants": [
+      "Parliamentarians (earl of Manchester, Waller)",
+      "Royalists (Charles I)"
+    ],
+    "narrative": "A Parliamentarian pincer attack failed to destroy the king's army.",
+    "outcome": "Indecisive; the dispute that followed led to the New Model Army.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-inverlochy-1645",
+    "name": "Battle of Inverlochy",
+    "type": "battle",
+    "date": "1645-02-02",
+    "country": "Scotland",
+    "region": "Lochaber",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -5.09,
+        56.83
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Inverlochy, near Fort William"
+    },
+    "participants": [
+      "Royalists (Montrose)",
+      "Covenanters (Campbells under the marquess of Argyll)"
+    ],
+    "narrative": "After a winter flank march Montrose fell on the Campbell army at Inverlochy.",
+    "outcome": "Decisive royalist victory.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-auldearn-1645",
+    "name": "Battle of Auldearn",
+    "type": "battle",
+    "date": "1645-05-09",
+    "country": "Scotland",
+    "region": "Nairnshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.8,
+        57.58
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Auldearn"
+    },
+    "participants": [
+      "Royalists (Montrose)",
+      "Covenanters (Sir John Hurry)"
+    ],
+    "narrative": "Montrose defeated a Covenanter attack on his position at Auldearn.",
+    "outcome": "Royalist victory.",
+    "sources": [
+      "src-hes-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-naseby-1645",
+    "name": "Battle of Naseby",
+    "type": "battle",
+    "date": "1645-06-14",
+    "country": "England",
+    "region": "Northamptonshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -0.99,
+        52.42
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "North of Naseby"
+    },
+    "participants": [
+      "New Model Army (Sir Thomas Fairfax, Oliver Cromwell)",
+      "Royalists (Charles I, Prince Rupert)"
+    ],
+    "narrative": "The New Model Army destroyed the king's main field army; the royalist infantry surrendered and the king's papers were captured. Women in the royalist baggage train were killed in the pursuit.",
+    "outcome": "Decisive Parliamentarian victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-foard-naseby"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-alford-1645",
+    "name": "Battle of Alford",
+    "type": "battle",
+    "date": "1645-07-02",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.7,
+        57.23
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Alford"
+    },
+    "participants": [
+      "Royalists (Montrose)",
+      "Covenanters (William Baillie)"
+    ],
+    "narrative": "Montrose defeated Baillie's army near the Don; Lord Gordon was killed.",
+    "outcome": "Royalist victory.",
+    "sources": [
+      "src-hes-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-langport-1645",
+    "name": "Battle of Langport",
+    "type": "battle",
+    "date": "1645-07-10",
+    "country": "England",
+    "region": "Somerset",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.8,
+        51.04
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Langport"
+    },
+    "participants": [
+      "New Model Army (Fairfax)",
+      "Royalists (Lord Goring)"
+    ],
+    "narrative": "The New Model Army destroyed Goring's western army.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-kilsyth-1645",
+    "name": "Battle of Kilsyth",
+    "type": "battle",
+    "date": "1645-08-15",
+    "country": "Scotland",
+    "region": "Stirlingshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.03,
+        55.98
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Kilsyth"
+    },
+    "participants": [
+      "Royalists (Montrose)",
+      "Covenanters (William Baillie)"
+    ],
+    "narrative": "Montrose's greatest victory; the Covenanter infantry was destroyed in the pursuit.",
+    "outcome": "Royalist victory; Montrose briefly controlled Scotland.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-philiphaugh-1645",
+    "name": "Battle of Philiphaugh",
+    "type": "battle",
+    "date": "1645-09-13",
+    "country": "Scotland",
+    "region": "Selkirkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.86,
+        55.55
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Philiphaugh, near Selkirk"
+    },
+    "participants": [
+      "Covenanters (David Leslie)",
+      "Royalists (Montrose)"
+    ],
+    "narrative": "Leslie surprised Montrose's depleted army; prisoners and camp followers were killed afterwards.",
+    "outcome": "Decisive Covenanter victory.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-rowton-heath-1645",
+    "name": "Battle of Rowton Heath",
+    "type": "battle",
+    "date": "1645-09-24",
+    "country": "England",
+    "region": "Cheshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.83,
+        53.18
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Rowton Heath, near Chester"
+    },
+    "participants": [
+      "Parliamentarians (Sydnam Poyntz)",
+      "Royalists (Charles I's horse under Sir Marmaduke Langdale)"
+    ],
+    "narrative": "The king, watching from Chester, saw his cavalry defeated while trying to relieve the city.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-basing-1645",
+    "name": "Siege of Basing House",
+    "type": "siege",
+    "date": "1643-08/1645-10-14",
+    "country": "England",
+    "region": "Hampshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -1.057,
+        51.27
+      ],
+      "placeName": "Basing House"
+    },
+    "participants": [
+      "Parliamentarians (Oliver Cromwell in 1645)",
+      "Royalist garrison (marquess of Winchester)"
+    ],
+    "narrative": "The fortified mansion of the marquess of Winchester withstood repeated sieges before Cromwell stormed it on 14 October 1645.",
+    "outcome": "Stormed and destroyed; many defenders killed.",
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-corfe-1646",
+    "name": "Siege of Corfe Castle",
+    "type": "siege",
+    "date": "1645-10/1646-02",
+    "country": "England",
+    "region": "Dorset",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.0571,
+        50.6404
+      ],
+      "placeName": "Corfe Castle"
+    },
+    "participants": [
+      "Parliamentarians",
+      "Royalist garrison (Lady Mary Bankes)"
+    ],
+    "narrative": "Corfe, defended by Lady Bankes, fell through treachery in February 1646 after a long siege.",
+    "outcome": "Castle taken and slighted.",
+    "castleIds": [
+      "castle-corfe"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-stow-1646",
+    "name": "Battle of Stow-on-the-Wold",
+    "type": "battle",
+    "date": "1646-03-21",
+    "country": "England",
+    "region": "Gloucestershire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -1.72,
+        51.93
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Near Donnington, Stow-on-the-Wold"
+    },
+    "participants": [
+      "Parliamentarians (William Brereton, Thomas Morgan)",
+      "Royalists (Lord Astley)"
+    ],
+    "narrative": "The last royalist field army of the first Civil War was defeated.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-goodrich-1646",
+    "name": "Siege of Goodrich Castle",
+    "type": "siege",
+    "date": "1646-06/1646-07-31",
+    "country": "England",
+    "region": "Herefordshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.6153,
+        51.8768
+      ],
+      "placeName": "Goodrich Castle"
+    },
+    "participants": [
+      "Parliamentarians (John Birch)",
+      "Royalist garrison (Henry Lingen)"
+    ],
+    "narrative": "Birch's mortar 'Roaring Meg' bombarded Goodrich into surrender.",
+    "outcome": "Castle surrendered and slighted.",
+    "castleIds": [
+      "castle-goodrich"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-raglan-1646",
+    "name": "Siege of Raglan Castle",
+    "type": "siege",
+    "date": "1646-06/1646-08-19",
+    "country": "Wales",
+    "region": "Monmouthshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.8502,
+        51.7704
+      ],
+      "placeName": "Raglan Castle"
+    },
+    "participants": [
+      "Parliamentarians (Sir Thomas Fairfax)",
+      "Royalist garrison (marquess of Worcester)"
+    ],
+    "narrative": "One of the last royalist strongholds surrendered after a siege of about thirteen weeks.",
+    "outcome": "Castle surrendered and slighted.",
+    "castleIds": [
+      "castle-raglan"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-harlech-1647",
+    "name": "Surrender of Harlech (1647)",
+    "type": "siege",
+    "date": "1646-06/1647-03-15",
+    "country": "Wales",
+    "region": "Gwynedd",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.109,
+        52.8601
+      ],
+      "placeName": "Harlech Castle"
+    },
+    "participants": [
+      "Parliamentarians (Thomas Mytton)",
+      "Royalist garrison (William Owen)"
+    ],
+    "narrative": "Harlech was the last royalist castle of the first Civil War to surrender.",
+    "outcome": "Surrender to Parliament.",
+    "castleIds": [
+      "castle-harlech"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-st-fagans-1648",
+    "name": "Battle of St Fagans",
+    "type": "battle",
+    "date": "1648-05-08",
+    "country": "Wales",
+    "region": "Glamorgan",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.27,
+        51.49
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "St Fagans, near Cardiff"
+    },
+    "participants": [
+      "New Model Army detachment (Thomas Horton)",
+      "Welsh royalist rebels (Rowland Laugharne)"
+    ],
+    "narrative": "The largest battle in Wales of the Second Civil War; the rebel army was defeated.",
+    "outcome": "Parliamentarian victory.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-pembroke-1648",
+    "name": "Siege of Pembroke",
+    "type": "siege",
+    "date": "1648-05-31/1648-07-11",
+    "country": "Wales",
+    "region": "Pembrokeshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -4.9201,
+        51.6772
+      ],
+      "placeName": "Pembroke Castle"
+    },
+    "participants": [
+      "Parliamentarians (Oliver Cromwell)",
+      "Rebel garrison (John Poyer)"
+    ],
+    "narrative": "Cromwell besieged Pembroke for about six weeks until the garrison surrendered.",
+    "outcome": "Surrender; Poyer later executed.",
+    "castleIds": [
+      "castle-pembroke"
+    ],
+    "sources": [
+      "src-woolrych",
+      "src-carlton"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-colchester-1648",
+    "name": "Siege of Colchester",
+    "type": "siege",
+    "date": "1648-06-13/1648-08-28",
+    "country": "England",
+    "region": "Essex",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        0.9024,
+        51.8903
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Colchester"
+    },
+    "participants": [
+      "New Model Army (Fairfax)",
+      "Royalists (earl of Norwich, Sir Charles Lucas, Sir George Lisle)"
+    ],
+    "narrative": "A royalist army was besieged in Colchester for eleven weeks, with severe hunger among the townspeople.",
+    "outcome": "Surrender; Lucas and Lisle shot.",
+    "castleIds": [
+      "castle-colchester"
+    ],
+    "sources": [
+      "src-carlton",
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-preston-1648",
+    "name": "Battle of Preston (1648)",
+    "type": "battle",
+    "date": "1648-08-17/1648-08-19",
+    "country": "England",
+    "region": "Lancashire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.67,
+        53.77
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Ribbleton Moor, Preston"
+    },
+    "participants": [
+      "New Model Army (Oliver Cromwell)",
+      "Scottish Engagers and English royalists (duke of Hamilton)"
+    ],
+    "narrative": "Cromwell attacked the strung-out invading army at Preston and pursued it south to Warrington.",
+    "outcome": "Decisive Parliamentarian victory; end of the Second Civil War.",
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-pontefract-1648",
+    "name": "Third Siege of Pontefract",
+    "type": "siege",
+    "date": "1648-10/1649-03-24",
+    "country": "England",
+    "region": "Yorkshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -1.3065,
+        53.6948
+      ],
+      "placeName": "Pontefract Castle"
+    },
+    "participants": [
+      "Parliamentarians (John Lambert)",
+      "Royalist garrison"
+    ],
+    "narrative": "Royalists who had seized Pontefract in 1648 held out until after Charles I's execution.",
+    "outcome": "Surrender; castle demolished.",
+    "castleIds": [
+      "castle-pontefract"
+    ],
+    "sources": [
+      "src-carlton"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-carbisdale-1650",
+    "name": "Battle of Carbisdale",
+    "type": "battle",
+    "date": "1650-04-27",
+    "country": "Scotland",
+    "region": "Sutherland",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.41,
+        57.91
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Carbisdale"
+    },
+    "participants": [
+      "Covenanters (Archibald Strachan)",
+      "Royalists (Montrose)"
+    ],
+    "narrative": "Montrose's final invasion was defeated; he was captured and executed in Edinburgh.",
+    "outcome": "Covenanter victory.",
+    "sources": [
+      "src-hes-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-dunbar-1650",
+    "name": "Battle of Dunbar (1650)",
+    "type": "battle",
+    "date": "1650-09-03",
+    "country": "Scotland",
+    "region": "East Lothian",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.47,
+        55.98
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Broxmouth, east of Dunbar"
+    },
+    "participants": [
+      "English Commonwealth army (Oliver Cromwell)",
+      "Scottish Covenanter army (David Leslie)"
+    ],
+    "narrative": "Cromwell's army, cornered at Dunbar, attacked at dawn and routed Leslie's army. Thousands of prisoners were marched south; many died, including at Durham.",
+    "outcome": "Decisive English victory; Edinburgh occupied.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-cromwell-letters",
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-edinburgh-1650",
+    "name": "Siege of Edinburgh Castle (1650)",
+    "type": "siege",
+    "date": "1650-09/1650-12-24",
+    "country": "Scotland",
+    "region": "Lothian",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.1999,
+        55.9486
+      ],
+      "placeName": "Edinburgh Castle"
+    },
+    "participants": [
+      "English Commonwealth army",
+      "Scottish garrison"
+    ],
+    "narrative": "After Dunbar, Cromwell's forces besieged Edinburgh castle, which surrendered on Christmas Eve.",
+    "outcome": "Castle surrendered.",
+    "castleIds": [
+      "castle-edinburgh"
+    ],
+    "sources": [
+      "src-woolrych"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-inverkeithing-1651",
+    "name": "Battle of Inverkeithing",
+    "type": "battle",
+    "date": "1651-07-20",
+    "country": "Scotland",
+    "region": "Fife",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.41,
+        56.04
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Inverkeithing"
+    },
+    "participants": [
+      "English Commonwealth army (John Lambert)",
+      "Scottish royalists"
+    ],
+    "narrative": "Lambert's force crossed the Forth and defeated the Scots, outflanking their position at Stirling.",
+    "outcome": "English victory.",
+    "sources": [
+      "src-hes-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-dundee-1651",
+    "name": "Sack of Dundee",
+    "type": "massacre",
+    "date": "1651-09-01",
+    "country": "Scotland",
+    "region": "Angus",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.97,
+        56.462
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Dundee"
+    },
+    "participants": [
+      "English Commonwealth army (George Monck)",
+      "Garrison and townspeople of Dundee"
+    ],
+    "narrative": "Monck stormed Dundee; soldiers and civilians were killed and the town plundered.",
+    "outcome": "Town taken.",
+    "disagreements": [
+      "Estimates of the dead vary widely and derive from later and partisan accounts; no figure is used."
+    ],
+    "sources": [
+      "src-woolrych",
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-worcester-1651",
+    "name": "Battle of Worcester",
+    "type": "battle",
+    "date": "1651-09-03",
+    "country": "England",
+    "region": "Worcestershire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.21,
+        52.18
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Worcester"
+    },
+    "participants": [
+      "English Commonwealth army (Oliver Cromwell)",
+      "Scottish-royalist army (Charles II)"
+    ],
+    "narrative": "The final battle of the Wars of the Three Kingdoms; Charles II escaped after the defeat, famously hiding in an oak tree.",
+    "outcome": "Decisive Commonwealth victory.",
+    "sources": [
+      "src-he-battlefields",
+      "src-cromwell-letters",
+      "src-woolrych"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-dunnottar-1651",
+    "name": "Siege of Dunnottar Castle",
+    "type": "siege",
+    "date": "1651-09/1652-05-24",
+    "country": "Scotland",
+    "region": "Aberdeenshire",
+    "parentId": "evt-three-kingdoms",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.1972,
+        56.9461
+      ],
+      "placeName": "Dunnottar Castle"
+    },
+    "participants": [
+      "English Commonwealth army",
+      "Scottish garrison (George Ogilvy)"
+    ],
+    "narrative": "Dunnottar held out for about eight months; the Honours of Scotland were smuggled out and hidden in Kinneff church.",
+    "outcome": "Garrison surrendered; the regalia were not found.",
+    "castleIds": [
+      "castle-dunnottar"
+    ],
+    "sources": [
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-sedgemoor-1685",
+    "name": "Battle of Sedgemoor",
+    "type": "battle",
+    "date": "1685-07-06",
+    "country": "England",
+    "region": "Somerset",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.91,
+        51.12
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Westonzoyland"
+    },
+    "participants": [
+      "auth-england:Royal army (earl of Feversham, John Churchill)",
+      "Monmouth's rebels"
+    ],
+    "narrative": "Monmouth's night attack on the royal camp failed; his largely untrained army was destroyed.",
+    "outcome": "Royal victory; Monmouth executed and the 'Bloody Assizes' followed.",
+    "sources": [
+      "src-he-battlefields"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-edinburgh-1689",
+    "name": "Siege of Edinburgh Castle (1689)",
+    "type": "siege",
+    "date": "1689-03/1689-06-14",
+    "country": "Scotland",
+    "region": "Lothian",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.1999,
+        55.9486
+      ],
+      "placeName": "Edinburgh Castle"
+    },
+    "participants": [
+      "Convention of Estates (Williamite)",
+      "Jacobite garrison (duke of Gordon)"
+    ],
+    "narrative": "The duke of Gordon held the castle for James VII for three months.",
+    "outcome": "Surrender.",
+    "castleIds": [
+      "castle-edinburgh"
+    ],
+    "sources": [
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-killiecrankie-1689",
+    "name": "Battle of Killiecrankie",
+    "type": "battle",
+    "date": "1689-07-27",
+    "country": "Scotland",
+    "region": "Perthshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.77,
+        56.74
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Killiecrankie"
+    },
+    "participants": [
+      "Jacobites (Viscount Dundee)",
+      "Government army (Hugh Mackay)"
+    ],
+    "narrative": "A Highland charge swept away Mackay's army, but Dundee was mortally wounded.",
+    "outcome": "Jacobite victory.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-lynch"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-dunkeld-1689",
+    "name": "Battle of Dunkeld",
+    "type": "battle",
+    "date": "1689-08-21",
+    "country": "Scotland",
+    "region": "Perthshire",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -3.586,
+        56.565
+      ],
+      "placeName": "Dunkeld"
+    },
+    "participants": [
+      "Government Cameronian regiment (William Cleland)",
+      "Jacobites"
+    ],
+    "narrative": "The Cameronians held Dunkeld against a Jacobite army in street fighting; much of the town burned.",
+    "outcome": "Government victory.",
+    "sources": [
+      "src-lynch"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-cromdale-1690",
+    "name": "Battle of Cromdale",
+    "type": "battle",
+    "date": "1690-05-01",
+    "country": "Scotland",
+    "region": "Speyside",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.53,
+        57.33
+      ],
+      "uncertaintyKm": 2,
+      "placeName": "Haughs of Cromdale"
+    },
+    "participants": [
+      "Government forces (Thomas Livingstone)",
+      "Jacobites (Thomas Buchan)"
+    ],
+    "narrative": "Government dragoons surprised the Jacobite camp at dawn.",
+    "outcome": "Government victory.",
+    "sources": [
+      "src-hes-battlefields"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-glencoe-1692",
+    "name": "Massacre of Glencoe",
+    "type": "massacre",
+    "date": "1692-02-13",
+    "country": "Scotland",
+    "region": "Argyll",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -5.03,
+        56.675
+      ],
+      "uncertaintyKm": 3,
+      "placeName": "Glen Coe"
+    },
+    "participants": [
+      "Government troops (Argyll's Regiment)",
+      "MacDonalds of Glencoe"
+    ],
+    "narrative": "Soldiers billeted with the MacDonalds of Glencoe killed their hosts on government orders after the chief's late oath of allegiance.",
+    "outcome": "Thirty-eight people were killed; others died of exposure after their homes were burned.",
+    "sources": [
+      "src-hopkins-glencoe"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-sheriffmuir-1715",
+    "name": "Battle of Sheriffmuir",
+    "type": "battle",
+    "date": "1715-11-13",
+    "country": "Scotland",
+    "region": "Perthshire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.88,
+        56.2
+      ],
+      "uncertaintyKm": 1.5,
+      "placeName": "Sheriffmuir"
+    },
+    "participants": [
+      "Jacobites (earl of Mar)",
+      "Government army (duke of Argyll)"
+    ],
+    "narrative": "Each army's right wing routed the opposing left; Mar failed to exploit his numerical advantage.",
+    "outcome": "Indecisive, but a strategic Jacobite failure.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-szechi-1715"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-preston-1715",
+    "name": "Battle of Preston (1715)",
+    "type": "battle",
+    "date": "1715-11-12/1715-11-14",
+    "country": "England",
+    "region": "Lancashire",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.7,
+        53.76
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Preston"
+    },
+    "participants": [
+      "Government forces (Charles Wills, George Carpenter)",
+      "Jacobites (Thomas Forster)"
+    ],
+    "narrative": "Jacobites who had marched into England fought from barricades in Preston before surrendering.",
+    "outcome": "Government victory.",
+    "sources": [
+      "src-szechi-1715"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-eilean-donan-1719",
+    "name": "Bombardment of Eilean Donan",
+    "type": "siege",
+    "date": "1719-05-10/1719-05-13",
+    "country": "Scotland",
+    "region": "Highland",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -5.5161,
+        57.2741
+      ],
+      "placeName": "Eilean Donan"
+    },
+    "participants": [
+      "Royal Navy frigates",
+      "Spanish garrison and Jacobites"
+    ],
+    "narrative": "Royal Navy frigates bombarded the castle, garrisoned by Spanish troops, and then blew it up.",
+    "outcome": "Castle destroyed.",
+    "castleIds": [
+      "castle-eilean-donan"
+    ],
+    "sources": [
+      "src-szechi-1715",
+      "src-tabraham"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-glen-shiel-1719",
+    "name": "Battle of Glen Shiel",
+    "type": "battle",
+    "date": "1719-06-10",
+    "country": "Scotland",
+    "region": "Highland",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -5.38,
+        57.15
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Glen Shiel"
+    },
+    "participants": [
+      "Government army (Joseph Wightman)",
+      "Jacobites with Spanish troops"
+    ],
+    "narrative": "The small Spanish-backed rising of 1719 was defeated in Glen Shiel.",
+    "outcome": "Government victory; the Spanish surrendered.",
+    "sources": [
+      "src-hes-battlefields"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-jacobite-1745",
+    "name": "Jacobite rising of 1745",
+    "type": "rebellion",
+    "date": "1745-08-19/1746-04-16",
+    "country": "Cross-border",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -5.43,
+        56.87
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Glenfinnan (raising of the standard)"
+    },
+    "participants": [
+      "Jacobites (Charles Edward Stuart)",
+      "auth-great-britain:British government (duke of Cumberland)"
+    ],
+    "narrative": "Charles Edward Stuart raised his standard at Glenfinnan, took Edinburgh, invaded England as far as Derby, then retreated to defeat at Culloden.",
+    "outcome": "Rising crushed; harsh repression in the Highlands followed.",
+    "itinerary": [
+      {
+        "point": [
+          -5.43,
+          56.87
+        ],
+        "label": "Glenfinnan",
+        "date": "1745-08-19"
+      },
+      {
+        "point": [
+          -3.4371,
+          56.395
+        ],
+        "label": "Perth",
+        "date": "1745-09-04"
+      },
+      {
+        "point": [
+          -3.1883,
+          55.9533
+        ],
+        "label": "Edinburgh",
+        "date": "1745-09-17"
+      },
+      {
+        "point": [
+          -2.97,
+          55.95
+        ],
+        "label": "Prestonpans",
+        "date": "1745-09-21"
+      },
+      {
+        "point": [
+          -2.9406,
+          54.897
+        ],
+        "label": "Carlisle",
+        "date": "1745-11-15"
+      },
+      {
+        "point": [
+          -2.7,
+          53.76
+        ],
+        "label": "Preston",
+        "date": "1745-11-27"
+      },
+      {
+        "point": [
+          -2.2426,
+          53.4808
+        ],
+        "label": "Manchester",
+        "date": "1745-11-29"
+      },
+      {
+        "point": [
+          -1.4746,
+          52.9225
+        ],
+        "label": "Derby",
+        "date": "1745-12-04"
+      },
+      {
+        "point": [
+          -2.72,
+          54.62
+        ],
+        "label": "Clifton Moor",
+        "date": "1745-12-18"
+      },
+      {
+        "point": [
+          -4.2518,
+          55.8642
+        ],
+        "label": "Glasgow",
+        "date": "1745-12-25"
+      },
+      {
+        "point": [
+          -3.8,
+          55.99
+        ],
+        "label": "Falkirk",
+        "date": "1746-01-17"
+      },
+      {
+        "point": [
+          -4.2247,
+          57.4778
+        ],
+        "label": "Inverness",
+        "date": "1746-02"
+      },
+      {
+        "point": [
+          -4.07,
+          57.48
+        ],
+        "label": "Culloden",
+        "date": "1746-04-16"
+      }
+    ],
+    "sources": [
+      "src-duffy-45"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-prestonpans-1745",
+    "name": "Battle of Prestonpans",
+    "type": "battle",
+    "date": "1745-09-21",
+    "country": "Scotland",
+    "region": "East Lothian",
+    "parentId": "evt-jacobite-1745",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.97,
+        55.95
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Prestonpans"
+    },
+    "participants": [
+      "Jacobites (Lord George Murray)",
+      "Government army (Sir John Cope)"
+    ],
+    "narrative": "A dawn Highland charge routed Cope's army in minutes.",
+    "outcome": "Jacobite victory.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-duffy-45"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-carlisle-1745",
+    "name": "Sieges of Carlisle (1745)",
+    "type": "siege",
+    "date": "1745-11-10/1745-12-30",
+    "country": "England",
+    "region": "Cumbria",
+    "parentId": "evt-jacobite-1745",
+    "location": {
+      "kind": "verified-point",
+      "point": [
+        -2.9406,
+        54.897
+      ],
+      "placeName": "Carlisle Castle"
+    },
+    "participants": [
+      "Jacobites",
+      "auth-great-britain:Government forces (duke of Cumberland)"
+    ],
+    "narrative": "Carlisle surrendered to the Jacobites in November; the garrison they left was forced to surrender to Cumberland on 30 December.",
+    "outcome": "Retaken by the government; garrison prisoners executed later.",
+    "castleIds": [
+      "castle-carlisle"
+    ],
+    "sources": [
+      "src-duffy-45"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-clifton-moor-1745",
+    "name": "Clifton Moor Skirmish",
+    "type": "skirmish",
+    "date": "1745-12-18",
+    "country": "England",
+    "region": "Cumbria",
+    "parentId": "evt-jacobite-1745",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -2.72,
+        54.62
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Clifton, near Penrith"
+    },
+    "participants": [
+      "Jacobite rearguard (Lord George Murray)",
+      "Government dragoons"
+    ],
+    "narrative": "The Jacobite rearguard checked Cumberland's pursuing cavalry at Clifton.",
+    "outcome": "Jacobite rearguard escaped.",
+    "sources": [
+      "src-duffy-45"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "evt-falkirk-1746",
+    "name": "Battle of Falkirk Muir",
+    "type": "battle",
+    "date": "1746-01-17",
+    "country": "Scotland",
+    "region": "Stirlingshire",
+    "parentId": "evt-jacobite-1745",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -3.8,
+        55.985
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Falkirk Muir"
+    },
+    "participants": [
+      "Jacobites",
+      "Government army (Henry Hawley)"
+    ],
+    "narrative": "Fought in a storm late in the day; Hawley's dragoons were broken by Highland musketry and charge.",
+    "outcome": "Jacobite victory.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-duffy-45"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "evt-culloden-1746",
+    "name": "Battle of Culloden",
+    "type": "battle",
+    "date": "1746-04-16",
+    "country": "Scotland",
+    "region": "Inverness-shire",
+    "parentId": "evt-jacobite-1745",
+    "location": {
+      "kind": "approximate-point",
+      "point": [
+        -4.07,
+        57.48
+      ],
+      "uncertaintyKm": 1,
+      "placeName": "Drummossie Moor, Culloden"
+    },
+    "participants": [
+      "auth-great-britain:Government army (duke of Cumberland)",
+      "Jacobites (Charles Edward Stuart)"
+    ],
+    "commanders": [
+      "Duke of Cumberland",
+      "Charles Edward Stuart",
+      "Lord George Murray"
+    ],
+    "narrative": "The last pitched battle on British soil. The Jacobite army was destroyed in under an hour by artillery and musketry; many wounded and fugitives were killed afterwards.",
+    "outcome": "Decisive government victory; end of the '45.",
+    "sources": [
+      "src-hes-battlefields",
+      "src-duffy-45"
+    ],
+    "confidence": "high"
+  }
+]
